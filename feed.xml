@@ -2513,4 +2513,95 @@ ID 2&#13;
         <created_at>2026-04-08T11:43:37+03:00</created_at>
         <updated_at>2026-09-15T09:55:38+03:00</updated_at>
     </item>
+    <item internal-id="42">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>42</article>
+        <title>Продаж 1-кімнатна квартира на  5 Зарічному</title>
+        <description>Продаж 1-кімнатна квартира на  5 Зарічному.&#13;
+&#13;
+Загальна площа - 38,7м. 8 поверх 9-поверхового будинку.кухня 8,5 .кімната 17,2&#13;
+&#13;
+Квартира покращеного планування з гардеробною. Не сонячна сторона, тому в квартирі комфортно в будь-яку пору року.&#13;
+&#13;
+Будинок ОСББ, доглянутий та охайний. Чистий під’їзд, справний ліфт, впорядкований двір.&#13;
+&#13;
+У квартирі залишається:&#13;
+• кондиціонер Samsung Split (на гарантії, до -15 градусів );&#13;
+• новий бойлер (на гарантії);&#13;
+• кухонний гарнітур.&#13;
+- нові радіатори на опалення &#13;
+Також гарний тиск води та опалення взимку завжди &#13;
+&#13;
+Квартира готова до проживання або здачі в оренду.&#13;
+&#13;
+Поруч знаходяться магазини, супермаркети, зупинки громадського транспорту(тролейбус,швидкісний,маршрутки)школи та дитячі садки,у сусідньому будинку укр пошта,далі Ринок Босфор(2хв пішки). &#13;
+&#13;
+Документи в повному порядку:&#13;
+• один власник;&#13;
+• відсутні зареєстровані особи;&#13;
+• немає заборгованостей за комунальними послугами;&#13;
+• швидкий вихід на угоду.&#13;
+Зацікавились? Телефонуйте! &#13;
+ID 42</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="14267">5-й Заречный</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9961689</map_lat>
+            <map_lng>33.4904984</map_lng>
+            <apartment>45</apartment>
+            <landmark>заречный</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="14267">5-й Зарічний</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>8</floor>
+        <area_total>38.7</area_total>
+        <area_living>17</area_living>
+        <area_kitchen>8.5</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">18000</price>
+        <images>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/8f624545a82fa2a4b4fa50e8ca69041d.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/a02a68be783424610ae6560b80a78941.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/c5ab4c79e54d6403b58432ab4fa9c5ef.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/7d3b09834e84ece0900f7073c68c4db8.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/178f7317a92bf6838eb4a5797713980b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/dba7a164ceeed69ffd0a35038e1b0da8.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/92ae832f1c5db4129334244cb3aa5521.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/62af03bd5d2a265fbf974db4776f1354.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>5 заречный</tag>
+        </tags>
+        <created_at>2026-06-15T17:49:25+03:00</created_at>
+        <updated_at>2026-09-15T12:08:53+03:00</updated_at>
+    </item>
 </response>
