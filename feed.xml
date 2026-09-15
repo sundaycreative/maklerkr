@@ -2695,4 +2695,108 @@ ID 127&#13;
         <created_at>2026-09-15T16:20:44+03:00</created_at>
         <updated_at>2026-09-15T16:29:08+03:00</updated_at>
     </item>
+    <item internal-id="131">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>128</article>
+        <title> Продаж 2-к квартира на вул. Володимира Великого (Мелешкіна).</title>
+        <description>Кривий Ріг. Пропозиція продажу 2-к квартири на вул. Володимира Великого (Мелешкіна).&#13;
+&#13;
+Пропонуємо видову 2-кімнатну квартиру на 8-му поверсі 9-ти поверхового будинку в географічному центрі міста.&#13;
+&#13;
+Площа: загальна 45 м², житлова 27 м², кухня 7 м²&#13;
+&#13;
+Не кутова, тепла, кімнати роздільні&#13;
+&#13;
+Вікна та труби металопластикові, лоджія засклена&#13;
+&#13;
+Квартира в житловому стані&#13;
+&#13;
+Залишаються меблі та техніка&#13;
+&#13;
+Ванна з душовою кабінкою, електричний бойлер, якісна сучасна витяжка&#13;
+&#13;
+Лічильники на світло, газ та тепловий облік на будинок&#13;
+&#13;
+В будинку встановлені нові сучасні ліфти.&#13;
+&#13;
+Зручна та престижна локація з розвинутою інфраструктурою: поряд Нова пошта, станція метро, школа, дитячі садки, супермаркети, зупинки та розв'язка транспорту в усі напрямки міста.&#13;
+&#13;
+Ця квартира - чудова можливість для тих, хто шукає комфортне житло в гарному, крутому районі.&#13;
+&#13;
+Для отримання додаткової інформації або для запису на перегляд, будь ласка, телефонуйте.&#13;
+ID 128&#13;
+Є відеоогляд https://youtu.be/5kV8ewbriv8&#13;
+&#13;
+</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7527">Мелешкина</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.946578</map_lat>
+            <map_lng>33.4304013</map_lng>
+            <landmark></landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7527">Мелешкіна</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>8</floor>
+        <area_total>45</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">18000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4577aac597a8ec8ac46ec81539bddc1d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5d938bc5f5c85913cef77a67047963d7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fb53c107788d030637085c5f0414c1ed.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a15a5a9d6df924ed9272199df6718bb2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/66053f47e4d19d28fa591e556aff05f2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/741436d2da4c46eacf1b87de12cd6470.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4e7a475888ff1f87571b2ccbd0af3ea5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/768d3963ec46729bf7215d35022a3edc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/536a0b1301397816d353aa0a30a49aa7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/09ec03552f2f700e059743ba4be6a89a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/74d98a384ac110b03b07600b6e7b7e7d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f23b7ba003d0167dd83115b0626bf2ff.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0c61324bb4fc52fd676b92adcea092cb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5b7736c21747f30d48d4cf9f7cceb10b.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b5e78c3f9cd4b6da1d2675e0e5aafce4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/082b63ad6811649e66051aa75d5411da.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/96146d31881e310fb893ec9e3a2d3993.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/48d88033adf85fefa5bd7bc58d0f86b2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d5e654c5e0d270cf4f124579650a54f5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9f95aaa3188601d4a864a001066ce68d.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>мелешкина</tag>
+        </tags>
+        <created_at>2026-09-15T17:36:33+03:00</created_at>
+        <updated_at>2026-09-15T17:45:11+03:00</updated_at>
+    </item>
 </response>
