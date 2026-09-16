@@ -3712,4 +3712,207 @@ ID 132&#13;
         <created_at>2026-09-16T10:50:00+03:00</created_at>
         <updated_at>2026-09-16T10:53:57+03:00</updated_at>
     </item>
+    <item internal-id="136">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>133</article>
+        <title>Продаж / Квартира / вул. Гетьманська, Металургійний, Кривий Ріг</title>
+        <description>Продається велика, 3 кімнатна квартира в самому центрі міста Кривий Ріг&#13;
+&#13;
+Район: Металургійний&#13;
+Стан: Ремонт&#13;
+Планування: Покращене, дві кімнати роздільні, зал прохідний, двостороння, великий коридор.&#13;
+Кімнати: 3, кухня велика (9м2)&#13;
+Санвузол: роздільний&#13;
+Лоджія 2: великі засклені металопластиком&#13;
+Ремонт: м/п вікна та труби&#13;
+Підлога: ламінат та плитка&#13;
+Радіатори: нові&#13;
+&#13;
+Меблі: Вбудована кухня, шафа, ліжко і т.д.&#13;
+&#13;
+Додатково: 2 кондиціонера, бойлер&#13;
+&#13;
+Комунікації:&#13;
+Нова мідна проводка.&#13;
+Установлені лічильники на воду, газ та електрику&#13;
+Теплолічильник в будинку&#13;
+Біля будинку маємо особисте місце для паркування авто&#13;
+&#13;
+Інфраструктура:&#13;
+Поруч дитячий садок, школа&#13;
+В пішій доступності: супермаркети АТБ та Варус, різноманітні магазини, ринок. Максимально зручна транспортна розв'язка. Зупинки громадського транспорту, сквери та паркові зони.&#13;
+&#13;
+Не пропустіть свій шанс на комфортне життя!&#13;
+&#13;
+Зацікавились? Телефонуйте!&#13;
+&#13;
+Запрошую до співпраці власників нерухомості! Продаю швидко та вигідно.&#13;
+ID 133&#13;
+Є відеоогляд https://youtu.be/UckButNqXzE</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7885">Металлургический</district>
+            <street value="11444">Ильичевская</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9102734</map_lat>
+            <map_lng>33.3917703</map_lng>
+            <landmark>дзержинка</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7885">Металургійний</district_uk>
+            <street_uk value="11444">Іллічівська</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>4</floor>
+        <area_total>72</area_total>
+        <area_living>41</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">40000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a01dbb23f4afcf20145d5105a4b571cd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/367cbe875027d0e640fec1a7eb5ffcfc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4e274debd7ea6a468ba7ee73377535fd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/dbc964c59aac8ffda7dd1071b22d8ee8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/cd9bc049bde418aa8084cd37f1e1d997.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9bc2d8f0fcfb66a209ae962ae9e07eff.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6f7dd2ba75b9875a32ba1f79669873eb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3af61ad834b82560e16ea3382d9ca8bf.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/48a9c308b4127cef4d0a71c874c9c5b6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c295161ab0987087391425c37143c6ba.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/87d2d77bc2352995f5f04d8bfde55560.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/77f897787f62d2bb9d240e15f78e62e5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0b04a2f58d42998a3eed3d424fe955a1.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4dada42899fc21cb8b1670e62d8e7114.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e9615b19591a211e93c5b92cde5bcca3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c4e408124a66559b139a5da8ec02e227.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/70fd33bcc0699b56c9c1bf0e8c8c994e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/783ad5db8ba0f89b19b5832a6a437edb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/49656eee272b460402e36c5d0f28d910.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0a53057b6d663bf1a61a13831e019d41.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e98075f1174e0cc72d6dcefea207171b.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/30c46e860fd577278ee3955ea4d4c279.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6a1ba9218621c5d1f8c3d6c779ee12a5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a375538feb5c288696d04da8f5fc3843.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>дзержинка</tag>
+        </tags>
+        <created_at>2026-09-16T11:17:56+03:00</created_at>
+        <updated_at>2026-09-16T12:05:44+03:00</updated_at>
+    </item>
+    <item internal-id="137">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>134</article>
+        <title>Продажа / Квартира / ул. Армавирская, Покровский, Кривой Рог</title>
+        <description>Продам затишну 3-к квартиру в районі 44 кварталу по вул. Калантая.&#13;
+Гарне планування, велика зала та дві окремі кімнати, санвузол сумісний, є балкон та комора. Квартира тепла, не кутова, двостороння. Площа: 58/42/6м2.&#13;
+У квартирі зроблено якісний евро ремонт, вікна та труби м/п, нова мідна проводка по всій квартирі. Нова сантехніка, санвузол у кахлі, поміняні міжкімнатні двері, залізні вхідні двері. Підлога лінолеум, натяжні стелі, балкон засклений м/п та обшитий.&#13;
+Квартира продається з меблями та технікою.&#13;
+Залишається бойлер, холодильник та пральна машинка.&#13;
+У квартирі встановлені лічильники на воду/газ/світло. На будинку теплолічильник.&#13;
+Боргів та проблем немає.&#13;
+Гарне місце розташування будинку, поруч дитсадок та школа, АТБ, ринок та безліч інших магазинів, зупинки, паркова та ігрова зона, лікарня.&#13;
+Найекологічніший район нашого міста.&#13;
+Зацікавились? Телефонуйте! &#13;
+ID 134&#13;
+Є відеоогляд https://youtube.com/shorts/Y_iAxWpEGZU</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="7633">Армавирская</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>48.0333065</map_lat>
+            <map_lng>33.4826801</map_lng>
+            <landmark>44 квартал</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7633">Армавірська</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>5</total_floors>
+        <floor>3</floor>
+        <area_total>58</area_total>
+        <area_living>42</area_living>
+        <area_kitchen>6</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">27000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/11b536c69f6346d404abe4e3441bfd44.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/74414e8a5f3f85ee14f46185718d237a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/cf04f43978df9d48bbe2d07ac76f16d3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e5a644e1426b0d2a19d6a492d890c184.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/185de4b4c5ee4c400dbb6762addbe947.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9b8ee760dfeed0f773fd77696c4330c3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d35a26ef7abda7c3d9756479324807a9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b555b5d7c56f2f268aeb8dfcfd01a44f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5fa92e0e0b927da85832a2fc019dda42.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e972575ad6304a1679074ca3a1f8b0a8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3217d709f95d3b3256375c3ae5624eb8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8f7ad23f01fbf79b052aa239b0432196.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c7c61d23a6e577e521d58805890845f4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/07f87a13f8cd136f33f96fd414cbac69.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/41bd5f35eae9aeaf21e51deb129e9fcf.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b11b3c1631d410c79a14cead30139ae2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b03320fe19747f136717a16ef37d3ce7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b78c65afd441e5c87a84c642a9c1d1b2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/651a920e3e8d12248a31af48f9b29bac.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3bb53bed1d3bfbe62a166ae442169ce4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/47ab36073b1f17e6f29ee758c9bc77dd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/159341ea0a147f84e187d88781ef6612.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c89cfbc7d8e898a18a3af66bdf24d468.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f773fe0800b2dbc14b8b134d12086d43.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>44 квартал</tag>
+        </tags>
+        <created_at>2026-09-16T12:00:49+03:00</created_at>
+        <updated_at>2026-09-16T12:00:49+03:00</updated_at>
+    </item>
 </response>
