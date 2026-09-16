@@ -3518,4 +3518,92 @@ ID 29&#13;
         <created_at>2026-04-23T18:52:34+03:00</created_at>
         <updated_at>2026-09-15T21:33:37+03:00</updated_at>
     </item>
+    <item internal-id="134">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>131</article>
+        <title>Продаж / Квартира / вул. Ватутина (Федора Караманіц), Покровський, Кривий Ріг</title>
+        <description>Продам затишну 3-х кімнатну квартиру на 129 кварталі по вул. Федора Караманіц (Ватутина).&#13;
+Квартира світла та тепла, одна кімната прохідна, санвузол окремо, є дві великі лоджії.&#13;
+Квартира в житловому стані. Площа: 65/45/7м2&#13;
+Установлений бойлер.&#13;
+У квартирі встановлені лічильники на воду /газ/світло. На будинку теплолічильник.&#13;
+Хороше місце розташування будинку. Поруч дитсадок, школа, у кроковій доступності АТБ, Терра, безліч інших магазинів, зупинки транспорту, паркова зона, річка.&#13;
+Зацікавились? Телефонуйте, та записуйтесь на перегляд.&#13;
+Запрошую до співпраці власників нерухомості!&#13;
+Продаю швидко та вигідно!&#13;
+ID 131&#13;
+Є відеоогляд https://youtu.be/ucS0ZSr2dEo</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="7520">Ватутина</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>48.0089595</map_lat>
+            <map_lng>33.4853663</map_lng>
+            <landmark>129 квартал</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7520">Ватутіна</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>7</floor>
+        <area_total>65</area_total>
+        <area_living>45</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">17000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/31bd96b78dfa650dae286952f4eeeb4d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b219d2b82223989928f4d50e24d2ae1c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a8e139258da8c7bf985dbf5f8493b0b5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/623510ebe546c7029e66be0abd7cd0cb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4eb0c3aaf47a5298a57a6d09fc775ba5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ff5871e64570c69dc3a0c446c6f2a3ec.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c0dc434ef2678aaf4280b8d4249abea5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db9afeb077a9c8e1c6cf1c6ab486cf5f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/62f072e9e678596810d4b61218153646.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/50fcb681a4d3117a29419836fb281611.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d7486a9bf55479d5094d48d65e9a3417.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7d487500d7339e117b81788b0084bd86.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/422e6bc4fadf587d7cc58afd7f83c60d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1272f4a4a796c02717183c2b65ffa7d9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/940672ba684ca72ac8a7c4f5ca169afa.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a38d9971dc61bc058fd78f82d7c8ecc2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2285eec63ae1fdb2f3f397c0dcaaa4ea.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e579c8d5ddba4b55080dd89facb5e745.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/571d755c7fbb1596030beff4ba789ddc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0976b21c267036c02ba884439eb950ce.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/daf31223949dea4bd775dbe054445374.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b6014348d2f265d9181148ca71e44929.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>129 квартал</tag>
+        </tags>
+        <created_at>2026-09-16T09:54:34+03:00</created_at>
+        <updated_at>2026-09-16T10:05:58+03:00</updated_at>
+    </item>
 </response>
