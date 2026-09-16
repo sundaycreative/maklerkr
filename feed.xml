@@ -3915,4 +3915,115 @@ ID 134&#13;
         <created_at>2026-09-16T12:00:49+03:00</created_at>
         <updated_at>2026-09-16T12:00:49+03:00</updated_at>
     </item>
+    <item internal-id="138">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>135</article>
+        <title>Продаж / Квартира / вул. Чарівна (Косигіна), Терновський, Кривий Ріг</title>
+        <description>Продається затишна 3-кімнатна квартира повністю з меблями та технікою!&#13;
+&#13;
+Район: 17 квартал, 8 міська лікарня, вул. Чарівна (Косигіна)&#13;
+&#13;
+Опис квартири: 2-й поверх в 9-ти поверховому будинку&#13;
+Стан: З ремонтом. Світла і тепла (утеплена)&#13;
+Кімнати: 3, одна прохідна, кутова&#13;
+Санвузол: Суміщений, повністю в плитці&#13;
+Балкон: Великий, засклений&#13;
+Ремонт: вікна та труби м/п, сантехніка в хорошому стані, двері поміняні&#13;
+Підлога: Лінолеум та плитка&#13;
+Радіатори: Заміна&#13;
+&#13;
+Що залишаємо:&#13;
+&#13;
+Меблі: Вбудована кухня, шафа-купе, шифоньєр, ліжко, м'які меблі&#13;
+Техніка: 2 телевізори, пральна машина, холодильник і інше&#13;
+Додатково: 2 кондиціонера, бойлер&#13;
+&#13;
+Установлені лічильники на воду, газ і електрику&#13;
+Теплолічильник в будинку&#13;
+&#13;
+Розташування:&#13;
+&#13;
+Поруч дитячий садок, школа&#13;
+В пішій доступності: 8 міська лікарня, супермаркет Терра, Варус, магазини&#13;
+Зупинки громадського транспорту, сквер, паркові зони&#13;
+&#13;
+Зацікавились? Телефонуйте!&#13;
+ID 135&#13;
+Є відеоогляд https://youtu.be/fwW9KFkuHBQ</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7888">Терновский</district>
+            <street value="7642">Косыгина</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9188264</map_lat>
+            <map_lng>33.4426612</map_lng>
+            <landmark></landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7888">Тернівський</district_uk>
+            <street_uk value="7642">Косигіна</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>2</floor>
+        <area_total>59</area_total>
+        <area_living>39</area_living>
+        <area_kitchen>8</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">25000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2c61daf0c09fe7315655714344c7b153.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fc41c7efd5bc90413b8ba290bfa81f02.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1844a2c767815f4c82e2e1a4b3f0b988.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0735cb113022f6f5bf0c73abb9d7b442.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fcdd84fb45b4ddebe987af3bff66619f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/773ef61452d82cb25e95dc3ad1355656.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/dfdab6d8130b8165a5a9cc2a192f364c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7fd5c9ed211b0339307a6bb48cd42721.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7f527d2cfaa96b8f16df84d02d7b1f02.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0665cd7f3821b68146bb1e8d92a8edfc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/42eced0f48d487831e19cb9cbb1fa24c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/07c385235a221c04ae4fe854094928f3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4245142e3336ec7dd62a35b0f0a22cf1.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/49990ae76abd50ef44031275f84dba8c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/432945c5a9f5d0af750c5e27381ece94.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4f8f99f6944bb921bd84dfbf6ff819d5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0ab3466c17f3c58fbb39d4c67be946f8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1eb831b8e6f8ca27f47620a54cae43ed.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b6c3acee9761d37be7b89f7f1737d151.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3f0a49cb247138076a64eb3e53975ad2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7b2e95ce561d8d54afc71eac9cbe150f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c13f6e2984d398771927306d21ca66a4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7ab5be6caf2e833834d201043414dae5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bc4a928726f83dd7969cea882a5ab796.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>17 квартал</tag>
+        </tags>
+        <created_at>2026-09-16T20:22:10+03:00</created_at>
+        <updated_at>2026-09-16T20:31:57+03:00</updated_at>
+    </item>
 </response>
