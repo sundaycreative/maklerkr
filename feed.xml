@@ -4026,26 +4026,25 @@ ID 135&#13;
         <created_at>2026-09-16T20:22:10+03:00</created_at>
         <updated_at>2026-09-16T20:31:57+03:00</updated_at>
     </item>
-    <item internal-id="143">
+    <item internal-id="139">
         <status>active</status>
         <is_new_building>0</is_new_building>
-        <article>140</article>
-        <title>Продаж / Квартира / Сонячний мікрорайон, Саксаганський, Кривий Ріг</title>
-        <description>Кривий Ріг, мікрорайон Сонячний - продається 2-кімнатна квартира!&#13;
+        <article>136</article>
+        <title>Продаж / Квартира / Коротченко, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг. Продаж 2-кімнатної квартири, 3/9, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
 &#13;
-Пропонується світла та затишна 2-кімнатна квартира на комфортному 5-му поверсі 9-поверхового будинку.&#13;
+Площа 45 м², житлова - 27м2, кухня - 7 м². Квартира не кутова, тепла та охайна. &#13;
+Велика засклена лоджія, комора/шафа. М/п вікна, бойлер, кондиціонер. &#13;
+Залишаються меблі, холодильник та пральна машина. Частково замінена трубна розводка.&#13;
 &#13;
-Площа: 49 м² / 30 м² / 7 м².&#13;
+Чистий під'їзд, доглянутий двір, хороші сусіди. У зимовий період опалення - до 1200 грн. &#13;
 &#13;
-Квартира в хорошому житловому стані, не кутова. Усі вікна та труби - металопластикові. Встановлені лічильники на всі комунальні послуги.&#13;
+Поруч вся необхідна інфраструктура та транспорт.&#13;
 &#13;
-Квартира дуже світла, тепла та комфортна для проживання.&#13;
+Можливий продаж за державною програмою по житловому сертифікату.&#13;
 &#13;
-Будинок розташований у зручному місці - поруч із зупинкою швидкісного трамвая, що забезпечує хороше транспортне сполучення.&#13;
-&#13;
-Боргів немає.&#13;
-&#13;
-Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!</description>
+Зацікавились? Телефонуйте!&#13;
+ID 136</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -4055,39 +4054,38 @@ ID 135&#13;
             <county value="1753">Криворожский горсовет</county>
             <city value="1757">Кривой Рог</city>
             <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="14366">Солнечный микрорайон</street>
+            <district value="7886">Покровский</district>
+            <street value="7505">Коротченко</street>
             <street_type value="street">улица</street_type>
-            <map_lat>47.9558093</map_lat>
-            <map_lng>33.4523848</map_lng>
-            <landmark>солнечный</landmark>
+            <map_lat>47.9721533</map_lat>
+            <map_lng>33.4447476</map_lng>
+            <landmark>173 квартал</landmark>
             <region_uk value="1658">Дніпропетровська область</region_uk>
             <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
             <city_uk value="1757">Кривий Ріг</city_uk>
             <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="14366">Сонячний мікрорайон</street_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7505">Коротченка</street_uk>
             <street_type_uk value="street">вулиця</street_type_uk>
         </location>
         <total_floors>9</total_floors>
-        <floor>5</floor>
-        <area_total>48</area_total>
-        <area_living>29</area_living>
+        <floor>3</floor>
+        <area_total>45</area_total>
+        <area_living>27</area_living>
         <area_kitchen>7</area_kitchen>
         <room_count>2</room_count>
-        <price type="per_object" currency="USD">18500</price>
+        <price type="per_object" currency="USD">16800</price>
         <images>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/f43ef9bec94fd1212b354b27033fd69a.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/9d9584d8ead1f01a4d357c22d4ab99ae.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/ca550fb959c66dc9e260d185479e0ee2.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/bf9ad757c53d306ae93b8824d1f39307.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/661acc847bef96cd74495ef511fdab1f.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/0ed1df56bb65b154fe6fc5f436f6e339.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/64d02c6afb1ea33beb11308af801d4b3.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/451eb897474b4e8d40b2d0b78a56f8f9.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/06244b8e6503b190944a5a77eb37e346.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/52d7fd1bd67b55dad4bb8adf04d8a9f3.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/70add2faa25defe30720078697b7e275.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5d331e813f963b05a108ec78775a39b9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8007522036438560b656f11a75517a59.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fe76bc78fdae024ccd66311f3526adbc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c6c864cab21fc1a4f7e3dc41bc7d384c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b782b6062a693211b79dc7ad9b57ea81.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7cfb2b76921e70f0d9c41b38ef9571f8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5cb417d4fbcce96602a539c82271047f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/41dd685aea6cb664b55e95e6b127afa6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/02b8e5ee8132b381e227df9878143f00.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/39a28c3295377f03a02a9424b9ecc83b.jpg</image_url>
         </images>
         <properties>
             <property attribute="property_2" label="Газ">Есть</property>
@@ -4102,10 +4100,10 @@ ID 135&#13;
             </phones>
         </user>
         <tags>
-            <tag>солнечный</tag>
+            <tag>173 квартал</tag>
         </tags>
-        <created_at>2026-09-19T20:06:46+03:00</created_at>
-        <updated_at>2026-09-19T20:32:57+03:00</updated_at>
+        <created_at>2026-09-19T12:42:00+03:00</created_at>
+        <updated_at>2026-09-20T21:02:28+03:00</updated_at>
     </item>
     <item internal-id="141">
         <status>active</status>
@@ -4134,7 +4132,8 @@ ID 135&#13;
 &#13;
 Зручне розташування, розвинена інфраструктура та можливість зробити ремонт під себе.&#13;
 &#13;
-Зацікавила квартира? Телефонуйте - домовимося про перегляд!</description>
+Зацікавила квартира? Телефонуйте - домовимося про перегляд!&#13;
+ID 138</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -4194,7 +4193,7 @@ ID 135&#13;
             <tag>5 заречный</tag>
         </tags>
         <created_at>2026-09-19T13:43:09+03:00</created_at>
-        <updated_at>2026-09-20T09:53:05+03:00</updated_at>
+        <updated_at>2026-09-20T21:05:39+03:00</updated_at>
     </item>
     <item internal-id="142">
         <status>active</status>
@@ -4206,7 +4205,8 @@ ID 135&#13;
 Загальна площа 45 м², житлова 27 кухня 6.9 м².&#13;
 Встановлені двозональний лічильник електроенергії, лічильник газу, лічильник води.&#13;
 Поряд з домом (не більше 5 хвилин ходьби): ринок, автостоянка, школа, дитячий садок, АТБ, Варус, дитячі майданчики, спортивні зали, зупинка транспорту та інше для комфорту життя. &#13;
-Зацікавились? Телефонуйте.</description>
+Зацікавились? Телефонуйте.&#13;
+ID 139</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -4263,26 +4263,29 @@ ID 135&#13;
             <tag>юбилейная</tag>
         </tags>
         <created_at>2026-09-19T14:23:34+03:00</created_at>
-        <updated_at>2026-09-20T10:03:44+03:00</updated_at>
+        <updated_at>2026-09-20T21:04:44+03:00</updated_at>
     </item>
-    <item internal-id="139">
+    <item internal-id="143">
         <status>active</status>
         <is_new_building>0</is_new_building>
-        <article>136</article>
-        <title>Продаж / Квартира / Коротченко, Покровський, Кривий Ріг</title>
-        <description>Кривий Ріг. Продаж 2-кімнатної квартири, 4/9, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
+        <article>140</article>
+        <title>Продаж / Квартира / Сонячний мікрорайон, Саксаганський, Кривий Ріг</title>
+        <description>Кривий Ріг, мікрорайон Сонячний - продається 2-кімнатна квартира!&#13;
 &#13;
-Площа 45 м², житлова - 27м2, кухня - 7 м². Квартира не кутова, тепла та охайна. &#13;
-Велика засклена лоджія, комора/шафа. М/п вікна, бойлер, кондиціонер. &#13;
-Залишаються меблі, холодильник та пральна машина. Частково замінена трубна розводка.&#13;
+Пропонується світла та затишна 2-кімнатна квартира на комфортному 5-му поверсі 9-поверхового будинку.&#13;
 &#13;
-Чистий під'їзд, доглянутий двір, хороші сусіди. У зимовий період опалення - до 1200 грн. &#13;
+Площа: 49 м² / 30 м² / 7 м².&#13;
 &#13;
-Поруч вся необхідна інфраструктура та транспорт.&#13;
+Квартира в хорошому житловому стані, не кутова. Усі вікна та труби - металопластикові. Встановлені лічильники на всі комунальні послуги.&#13;
 &#13;
-Можливий продаж за державною програмою по житловому сертифікату.&#13;
+Квартира дуже світла, тепла та комфортна для проживання.&#13;
 &#13;
-Зацікавились? Телефонуйте!</description>
+Будинок розташований у зручному місці - поруч із зупинкою швидкісного трамвая, що забезпечує хороше транспортне сполучення.&#13;
+&#13;
+Боргів немає.&#13;
+&#13;
+Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!&#13;
+ID 140</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -4292,38 +4295,39 @@ ID 135&#13;
             <county value="1753">Криворожский горсовет</county>
             <city value="1757">Кривой Рог</city>
             <borough value="1757">Кривой Рог</borough>
-            <district value="7886">Покровский</district>
-            <street value="7505">Коротченко</street>
+            <district value="7887">Саксаганский</district>
+            <street value="14366">Солнечный микрорайон</street>
             <street_type value="street">улица</street_type>
-            <map_lat>47.9721533</map_lat>
-            <map_lng>33.4447476</map_lng>
-            <landmark>173 квартал</landmark>
+            <map_lat>47.9558093</map_lat>
+            <map_lng>33.4523848</map_lng>
+            <landmark>солнечный</landmark>
             <region_uk value="1658">Дніпропетровська область</region_uk>
             <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
             <city_uk value="1757">Кривий Ріг</city_uk>
             <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7886">Покровський</district_uk>
-            <street_uk value="7505">Коротченка</street_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="14366">Сонячний мікрорайон</street_uk>
             <street_type_uk value="street">вулиця</street_type_uk>
         </location>
         <total_floors>9</total_floors>
-        <floor>4</floor>
-        <area_total>45</area_total>
-        <area_living>27</area_living>
+        <floor>5</floor>
+        <area_total>48</area_total>
+        <area_living>29</area_living>
         <area_kitchen>7</area_kitchen>
         <room_count>2</room_count>
-        <price type="per_object" currency="USD">16800</price>
+        <price type="per_object" currency="USD">18500</price>
         <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5d331e813f963b05a108ec78775a39b9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8007522036438560b656f11a75517a59.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fe76bc78fdae024ccd66311f3526adbc.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c6c864cab21fc1a4f7e3dc41bc7d384c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b782b6062a693211b79dc7ad9b57ea81.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7cfb2b76921e70f0d9c41b38ef9571f8.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5cb417d4fbcce96602a539c82271047f.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/41dd685aea6cb664b55e95e6b127afa6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/02b8e5ee8132b381e227df9878143f00.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/39a28c3295377f03a02a9424b9ecc83b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/f43ef9bec94fd1212b354b27033fd69a.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/9d9584d8ead1f01a4d357c22d4ab99ae.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/ca550fb959c66dc9e260d185479e0ee2.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/bf9ad757c53d306ae93b8824d1f39307.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/661acc847bef96cd74495ef511fdab1f.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/0ed1df56bb65b154fe6fc5f436f6e339.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/64d02c6afb1ea33beb11308af801d4b3.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/451eb897474b4e8d40b2d0b78a56f8f9.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/06244b8e6503b190944a5a77eb37e346.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/52d7fd1bd67b55dad4bb8adf04d8a9f3.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/70add2faa25defe30720078697b7e275.jpg</image_url>
         </images>
         <properties>
             <property attribute="property_2" label="Газ">Есть</property>
@@ -4338,9 +4342,9 @@ ID 135&#13;
             </phones>
         </user>
         <tags>
-            <tag>173 квартал</tag>
+            <tag>солнечный</tag>
         </tags>
-        <created_at>2026-09-19T12:42:00+03:00</created_at>
-        <updated_at>2026-09-20T11:34:48+03:00</updated_at>
+        <created_at>2026-09-19T20:06:46+03:00</created_at>
+        <updated_at>2026-09-20T21:03:56+03:00</updated_at>
     </item>
 </response>
