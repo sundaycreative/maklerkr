@@ -200,6 +200,94 @@ ID 125&#13;
         <created_at>2026-08-31T12:42:29+03:00</created_at>
         <updated_at>2026-09-11T19:07:26+03:00</updated_at>
     </item>
+    <item internal-id="129">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>126</article>
+        <title>Продажа / Квартира / ул. Грицевца, Терновский, Кривой Рог</title>
+        <description>Кривий Ріг. Продаж 1-кімнатної квартири на 17 кварталі, вул. Грицевця (Наталі Кобринської).&#13;
+&#13;
+Пропонуємо до продажу 1-кімнатну квартиру на 5-му поверсі 5-поверхового будинку (хрущовка).&#13;
+&#13;
+Квартира тепла, світла та не кутова, що забезпечує комфортне проживання. Санвузол сумісний. Вікно в кухні металопластикове. Газова колонка.&#13;
+&#13;
+Площа квартири: 32/17/5,4 м².&#13;
+Балкон засклений металопластиковими вікнами.&#13;
+&#13;
+Будинок у нормальному стані, охайний та доглянутий. Квартира розташована у зручному місці, поруч є необхідна інфраструктура для комфортного життя.&#13;
+&#13;
+Комунікації працюють.&#13;
+Стан квартири - під ремонт.&#13;
+&#13;
+Без боргів, без прописаних та без проблем.&#13;
+Документи готові до угоди.&#13;
+Фото ілюстраційні.&#13;
+&#13;
+Пропозиція від рієлтора.&#13;
+Ціна: 5 500 $&#13;
+&#13;
+Зацікавилися? Телефонуйте.&#13;
+&#13;
+Запрошую до співпраці власників нерухомості. Допоможу продати вашу нерухомість швидко та вигідно.&#13;
+ID 126</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7888">Терновский</district>
+            <street value="11876">Грицевца</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>48.076457</map_lat>
+            <map_lng>33.5109954</map_lng>
+            <landmark>17 квартал</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7888">Тернівський</district_uk>
+            <street_uk value="11876">Грицевця</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>5</total_floors>
+        <floor>5</floor>
+        <area_total>32</area_total>
+        <area_living>17</area_living>
+        <area_kitchen>5.4</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">5500</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7d3a6cdc23a1ccbc6104d2340b902ce7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/659ace3f65edbd7aca953c4a1ae3a189.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4a8ca4156000687a383d9e7e95f1d1fb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0bc649257927a789b772876d8deb111b.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f2937004b3898f5c39f0568f485d58b9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/68a266c1e836b126680589d17a607837.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>17 квартал</tag>
+        </tags>
+        <created_at>2026-09-04T09:40:42+03:00</created_at>
+        <updated_at>2026-09-04T09:46:33+03:00</updated_at>
+    </item>
     <item internal-id="26">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4019,94 +4107,6 @@ ID 135&#13;
         <created_at>2026-09-19T20:06:46+03:00</created_at>
         <updated_at>2026-09-19T20:32:57+03:00</updated_at>
     </item>
-    <item internal-id="129">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>126</article>
-        <title>Продажа / Квартира / ул. Грицевца, Терновский, Кривой Рог</title>
-        <description>Кривий Ріг. Продаж 1-кімнатної квартири на 17 кварталі, вул. Грицевця (Наталі Кобринської).&#13;
-&#13;
-Пропонуємо до продажу 1-кімнатну квартиру на 5-му поверсі 5-поверхового будинку (хрущовка).&#13;
-&#13;
-Квартира тепла, світла та не кутова, що забезпечує комфортне проживання. Санвузол сумісний. Вікно в кухні металопластикове. Газова колонка.&#13;
-&#13;
-Площа квартири: 32/17/5,4 м².&#13;
-Балкон засклений металопластиковими вікнами.&#13;
-&#13;
-Будинок у нормальному стані, охайний та доглянутий. Квартира розташована у зручному місці, поруч є необхідна інфраструктура для комфортного життя.&#13;
-&#13;
-Комунікації працюють.&#13;
-Стан квартири - під ремонт.&#13;
-&#13;
-Без боргів, без прописаних та без проблем.&#13;
-Документи готові до угоди.&#13;
-Фото ілюстраційні.&#13;
-&#13;
-Пропозиція від рієлтора.&#13;
-Ціна: 5 500 $&#13;
-&#13;
-Зацікавилися? Телефонуйте.&#13;
-&#13;
-Запрошую до співпраці власників нерухомості. Допоможу продати вашу нерухомість швидко та вигідно.&#13;
-ID 126</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7888">Терновский</district>
-            <street value="11876">Грицевца</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>48.076457</map_lat>
-            <map_lng>33.5109954</map_lng>
-            <landmark>17 квартал</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7888">Тернівський</district_uk>
-            <street_uk value="11876">Грицевця</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>5</total_floors>
-        <floor>5</floor>
-        <area_total>32</area_total>
-        <area_living>17</area_living>
-        <area_kitchen>5.4</area_kitchen>
-        <room_count>1</room_count>
-        <price type="per_object" currency="USD">5500</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7d3a6cdc23a1ccbc6104d2340b902ce7.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/659ace3f65edbd7aca953c4a1ae3a189.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4a8ca4156000687a383d9e7e95f1d1fb.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0bc649257927a789b772876d8deb111b.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f2937004b3898f5c39f0568f485d58b9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/68a266c1e836b126680589d17a607837.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">без ремонта</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>17 квартал</tag>
-        </tags>
-        <created_at>2026-09-04T09:40:42+03:00</created_at>
-        <updated_at>2026-09-04T09:46:33+03:00</updated_at>
-    </item>
     <item internal-id="141">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4195,5 +4195,74 @@ ID 126</description>
         </tags>
         <created_at>2026-09-19T13:43:09+03:00</created_at>
         <updated_at>2026-09-20T09:53:05+03:00</updated_at>
+    </item>
+    <item internal-id="142">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>139</article>
+        <title>Продаж / Квартира / вул. Олексія Різниченка (Співдружності), Саксаганський, Кривий Ріг</title>
+        <description>Кривий Ріг. Продаж 2 кімнатної квартири по вул. Співдружності (Ювілейна) в Саксаганському районі.&#13;
+Квартира на 2 поверсі 9-ти будинку, не кутова. Вікна металопластикові Rihau з дуже гарною тепло та звукоізоляцією. Трубна розводка металопластикова,бойлер. &#13;
+Загальна площа 45 м², житлова 27 кухня 6.9 м².&#13;
+Встановлені двозональний лічильник електроенергії, лічильник газу, лічильник води.&#13;
+Поряд з домом (не більше 5 хвилин ходьби): ринок, автостоянка, школа, дитячий садок, АТБ, Варус, дитячі майданчики, спортивні зали, зупинка транспорту та інше для комфорту життя. &#13;
+Зацікавились? Телефонуйте.</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7466">Содружества</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9630626</map_lat>
+            <map_lng>33.4401153</map_lng>
+            <landmark>юбилейная</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7466">Співдружності</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>2</floor>
+        <area_total>45</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">20000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9e3a2f751da265ee2f0cafd6ddf62775.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a35d12e8e769d25505a471ee42e003d9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1477012d3fa4608c44aecc219c8a0f03.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9f870611560ef7575198137ba41d8b1.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3aaaa3373f9d5e22e7826a44d53227ff.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4c6111b1bc8ee1f0855357e4558295ad.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1a857c29a98bb853fee797f7d98b2798.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7b469aeb7851216cf39711fead3b8ed0.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>юбилейная</tag>
+        </tags>
+        <created_at>2026-09-19T14:23:34+03:00</created_at>
+        <updated_at>2026-09-20T10:03:44+03:00</updated_at>
     </item>
 </response>
