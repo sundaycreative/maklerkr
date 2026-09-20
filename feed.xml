@@ -4265,4 +4265,82 @@ ID 135&#13;
         <created_at>2026-09-19T14:23:34+03:00</created_at>
         <updated_at>2026-09-20T10:03:44+03:00</updated_at>
     </item>
+    <item internal-id="139">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>136</article>
+        <title>Продаж / Квартира / Коротченко, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг. Продаж 2-кімнатної квартири, 4/9, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
+&#13;
+Площа 45 м², житлова - 27м2, кухня - 7 м². Квартира не кутова, тепла та охайна. &#13;
+Велика засклена лоджія, комора/шафа. М/п вікна, бойлер, кондиціонер. &#13;
+Залишаються меблі, холодильник та пральна машина. Частково замінена трубна розводка.&#13;
+&#13;
+Чистий під'їзд, доглянутий двір, хороші сусіди. У зимовий період опалення - до 1200 грн. &#13;
+&#13;
+Поруч вся необхідна інфраструктура та транспорт.&#13;
+&#13;
+Можливий продаж за державною програмою по житловому сертифікату.&#13;
+&#13;
+Зацікавились? Телефонуйте!</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="7505">Коротченко</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9721533</map_lat>
+            <map_lng>33.4447476</map_lng>
+            <landmark>173 квартал</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7505">Коротченка</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>4</floor>
+        <area_total>45</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">16800</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5d331e813f963b05a108ec78775a39b9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8007522036438560b656f11a75517a59.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fe76bc78fdae024ccd66311f3526adbc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c6c864cab21fc1a4f7e3dc41bc7d384c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b782b6062a693211b79dc7ad9b57ea81.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7cfb2b76921e70f0d9c41b38ef9571f8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5cb417d4fbcce96602a539c82271047f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/41dd685aea6cb664b55e95e6b127afa6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/02b8e5ee8132b381e227df9878143f00.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/39a28c3295377f03a02a9424b9ecc83b.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>173 квартал</tag>
+        </tags>
+        <created_at>2026-09-19T12:42:00+03:00</created_at>
+        <updated_at>2026-09-20T11:34:48+03:00</updated_at>
+    </item>
 </response>
