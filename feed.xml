@@ -4348,4 +4348,89 @@ ID 136</description>
         <created_at>2026-09-19T12:42:00+03:00</created_at>
         <updated_at>2026-09-20T21:18:27+03:00</updated_at>
     </item>
+    <item internal-id="140">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>137</article>
+        <title>Продаж / Квартира / Горняцький мікрорайон, Саксаганський, Кривий Ріг</title>
+        <description>Продам 2-кімнатну квартиру на мікрорайоні Гірницький у Кривому Розі&#13;
+&#13;
+Квартира розташована на 7-му поверсі 9-поверхового будинку, у самому центрі мікрорайону, поруч із АТБ.&#13;
+&#13;
+Загальна площа - 49 м². Квартира світла та дуже тепла, встановлені металопластикові вікна, є балкон.&#13;
+&#13;
+Стан - житловий, без сучасного ремонту. Це чудова можливість облаштувати квартиру повністю на свій смак та зробити ремонт під власні потреби, не переплачуючи за чуже оздоблення.&#13;
+&#13;
+Переваги розташування:&#13;
+&#13;
+АТБ та магазини - поруч;&#13;
+&#13;
+зупинки громадського транспорту;&#13;
+&#13;
+уся необхідна інфраструктура в пішій доступності.&#13;
+&#13;
+Зручний варіант як для власного проживання, так і для інвестиції.&#13;
+&#13;
+Телефонуйте — домовимося про перегляд!&#13;
+&#13;
+ID 137</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="14367">Горняцкий микрорайон</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9633846</map_lat>
+            <map_lng>33.4567256</map_lng>
+            <landmark>горняцкий</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="14367">Гірницький мікрорайон</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>7</floor>
+        <area_total>49</area_total>
+        <area_living>29</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">15500</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/45d6887eb5b5a673138dd6febb651ed3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/226be0e5f98e89931e616e378036b4a3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4c18f28b45b5e86a2df3d59818a8a0b4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/097ce67e7395800882d353732d905dbf.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/095618c3120c8fc6c7c3d526651a82ad.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/21be1dff1ba5eeed60faf93d1729dadc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/06b367040d8d83b7d0a219ba417d5d60.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d065d123776db41373191f44c88981a5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db60c5b8a118b3c06c2bd918f539ae8d.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>горняцкий</tag>
+        </tags>
+        <created_at>2026-09-19T13:08:28+03:00</created_at>
+        <updated_at>2026-09-21T19:14:24+03:00</updated_at>
+    </item>
 </response>
