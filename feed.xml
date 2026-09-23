@@ -4457,81 +4457,6 @@ ID 137</description>
         <created_at>2026-09-19T13:08:28+03:00</created_at>
         <updated_at>2026-09-21T19:14:24+03:00</updated_at>
     </item>
-    <item internal-id="146">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>143</article>
-        <title>Продаж / Квартира / вул. Сахарова, Довгинцівський, Кривий Ріг</title>
-        <description>Кривий Ріг, Східний-2. Продаж 2-кімнатної квартири з покращеним плануванням та майже завершеним ремонтом.&#13;
-&#13;
-Світла й тепла квартира на 3-му поверсі 9-поверхового будинку. Не кутова. Площа - 53/29/9 м².&#13;
-&#13;
-Встановлені металопластикові вікна, замінені труби та радіатори, зроблені стеля й підлога. Зроблено ремонт санвузлів. Простора лоджія з видом на тихий доглянутий двір.&#13;
-&#13;
-Поруч - зупинки транспорту та швидкісного трамвая, АТБ, VARUS, ринок, аптеки, банки, школа, дитсадок та магазини. Для прогулянок - озеро й парк «Щастя».&#13;
-&#13;
-Телефонуйте, щоб дізнатися деталі та домовитися про перегляд!&#13;
-ID 143</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7883">Долгинцевский</district>
-            <street value="11235">Сахарова</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9460226</map_lat>
-            <map_lng>33.4495789</map_lng>
-            <landmark>восточный 2</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7883">Довгинцівський</district_uk>
-            <street_uk value="11235">Сахарова</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>3</floor>
-        <area_total>53</area_total>
-        <area_living>29</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>2</room_count>
-        <price type="per_object" currency="USD">25000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3c53f5f54ad1cbe7359101e3dce30096.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8b809aaf5da0808cbbc439e63334896a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bc8d0cdcb3e277c88ec10d0b913f139e.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e58d6ac2556695f5b651c531cbf0a8ed.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b895902daf3b1cbbb126bde6944b0ca2.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9f2d8a20e6b1fcf6612c8e630077e380.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/784dbf73c9ffb14719ac5027baf10bc5.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e78d690a0ca924c59a14218025b17863.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a8c54a65911329d24da85f50086821b7.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2cf2f763d267abb7c1f54631c1f044bd.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>восточный 2</tag>
-        </tags>
-        <created_at>2026-09-22T19:34:10+03:00</created_at>
-        <updated_at>2026-09-23T09:55:16+03:00</updated_at>
-    </item>
     <item internal-id="144">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4613,5 +4538,80 @@ ID 141</description>
         </tags>
         <created_at>2026-09-20T12:52:11+03:00</created_at>
         <updated_at>2026-09-23T18:16:52+03:00</updated_at>
+    </item>
+    <item internal-id="146">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>143</article>
+        <title>Продаж / Квартира / вул. Сахарова, Довгинцівський, Кривий Ріг</title>
+        <description>Кривий Ріг, Східний-2. Продаж 2-кімнатної квартири з покращеним плануванням та майже завершеним ремонтом.&#13;
+&#13;
+Світла й тепла квартира на 3-му поверсі 9-поверхового будинку. Не кутова. Площа - 53/29/9 м².&#13;
+&#13;
+Встановлені металопластикові вікна, замінені труби та радіатори, зроблені стеля й підлога. Зроблено ремонт санвузлів. Простора лоджія з видом на тихий доглянутий двір.&#13;
+&#13;
+Поруч - зупинки транспорту та швидкісного трамвая, АТБ, VARUS, ринок, аптеки, банки, школа, дитсадок та магазини. Для прогулянок - озеро й парк «Щастя».&#13;
+&#13;
+Телефонуйте, щоб дізнатися деталі та домовитися про перегляд!&#13;
+ID 143</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7883">Долгинцевский</district>
+            <street value="11235">Сахарова</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9460226</map_lat>
+            <map_lng>33.4495789</map_lng>
+            <landmark>восточный 2</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7883">Довгинцівський</district_uk>
+            <street_uk value="11235">Сахарова</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>3</floor>
+        <area_total>53</area_total>
+        <area_living>29</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">25000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3c53f5f54ad1cbe7359101e3dce30096.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8b809aaf5da0808cbbc439e63334896a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bc8d0cdcb3e277c88ec10d0b913f139e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e58d6ac2556695f5b651c531cbf0a8ed.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b895902daf3b1cbbb126bde6944b0ca2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9f2d8a20e6b1fcf6612c8e630077e380.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/784dbf73c9ffb14719ac5027baf10bc5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e78d690a0ca924c59a14218025b17863.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a8c54a65911329d24da85f50086821b7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2cf2f763d267abb7c1f54631c1f044bd.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>восточный 2</tag>
+        </tags>
+        <created_at>2026-09-22T19:34:10+03:00</created_at>
+        <updated_at>2026-09-23T09:55:16+03:00</updated_at>
     </item>
 </response>
