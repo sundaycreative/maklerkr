@@ -1690,6 +1690,88 @@ ID 85</description>
         <created_at>2026-07-17T12:38:59+03:00</created_at>
         <updated_at>2026-09-18T12:19:15+03:00</updated_at>
     </item>
+    <item internal-id="89">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>86</article>
+        <title> Продаж 3-к чешка 3/5 поверх на  Ювілейній по Співдружності</title>
+        <description>Продається 3-кімнатна квартира чеського планування за адресою: вул. О. Різніченка (Співдружності), мкрн  Ювілейна, Саксаганський район.&#13;
+&#13;
+Квартира розташована на 3-му поверсі 5-поверхового будинку. Загальна площа - 66 м², житлова - 40 м², кухня - 9 м². Утеплена зовні, встановлені металопластикові вікна та засклена лоджія. Опалення централізоване. Усі кімнати окремі та виходять на дві сторони будинку.&#13;
+&#13;
+Виконано якісний ремонт, квартира продається з усім, що є на фото. Простора кухня, великий хол, суміжний санвузол із заміненими комунікаціями та електричним бойлером. Встановлені лічильники на газ, воду й електроенергію. Житло повністю готове до заселення.&#13;
+&#13;
+Будинок знаходиться в одному з найкращих районів міста. Поруч розташовані дитячі садки, школи, супермаркети, ТРЦ, ринки «Ювілейний» і «173», банки, пошта та зупинки громадського транспорту. Доглянутий під'їзд, прибудинкова територія та місця для паркування.&#13;
+&#13;
+Документи готові до швидкого оформлення угоди.&#13;
+&#13;
+Працюємо з державними програмами.&#13;
+&#13;
+Телефонуйте, щоб дізнатися більше або домовитися про перегляд.&#13;
+&#13;
+ID 86 </description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7466">Содружества</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9696589</map_lat>
+            <map_lng>33.4404498</map_lng>
+            <landmark></landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7466">Співдружності</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>5</total_floors>
+        <floor>3</floor>
+        <area_total>66</area_total>
+        <area_living>40</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">38000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7736dd2639a9cf4a48ee044009ccf0c2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3e485b413c8a844f9eccc26733099834.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7b0a9825ac1e4df599bc39fbbca3ed79.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/46bf9414aaf83ecb71d5239a843b8a3b.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0627822d6ca05e9f87cea115819a1679.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ebfa95b41cbcb631c84ba321d2c330bf.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/93bde4f2038a4aa682055acd50572a6c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d1014fac3a04c0c6565290dbe18d1e29.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c1cba13ef255181b3a0f1cbefe43b64b.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/07d9995acf6d742da86452ce07f68cbb.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>юбилейная</tag>
+        </tags>
+        <created_at>2026-07-17T13:47:45+03:00</created_at>
+        <updated_at>2026-08-08T15:36:04+03:00</updated_at>
+    </item>
     <item internal-id="93">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4531,87 +4613,5 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-23T09:55:16+03:00</updated_at>
-    </item>
-    <item internal-id="89">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>86</article>
-        <title> Продаж 3-к чешка 3/5 поверх на  Ювілейній по Співдружності</title>
-        <description>Продається 3-кімнатна квартира чеського планування за адресою: вул. О. Різніченка (Співдружності), мкрн  Ювілейна, Саксаганський район.&#13;
-&#13;
-Квартира розташована на 3-му поверсі 5-поверхового будинку. Загальна площа - 66 м², житлова - 40 м², кухня - 9 м². Утеплена зовні, встановлені металопластикові вікна та засклена лоджія. Опалення централізоване. Усі кімнати окремі та виходять на дві сторони будинку.&#13;
-&#13;
-Виконано якісний ремонт, квартира продається з усім, що є на фото. Простора кухня, великий хол, суміжний санвузол із заміненими комунікаціями та електричним бойлером. Встановлені лічильники на газ, воду й електроенергію. Житло повністю готове до заселення.&#13;
-&#13;
-Будинок знаходиться в одному з найкращих районів міста. Поруч розташовані дитячі садки, школи, супермаркети, ТРЦ, ринки «Ювілейний» і «173», банки, пошта та зупинки громадського транспорту. Доглянутий під'їзд, прибудинкова територія та місця для паркування.&#13;
-&#13;
-Документи готові до швидкого оформлення угоди.&#13;
-&#13;
-Працюємо з державними програмами.&#13;
-&#13;
-Телефонуйте, щоб дізнатися більше або домовитися про перегляд.&#13;
-&#13;
-ID 86 </description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="7466">Содружества</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9696589</map_lat>
-            <map_lng>33.4404498</map_lng>
-            <landmark></landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="7466">Співдружності</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>5</total_floors>
-        <floor>3</floor>
-        <area_total>66</area_total>
-        <area_living>40</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">38000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7736dd2639a9cf4a48ee044009ccf0c2.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3e485b413c8a844f9eccc26733099834.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7b0a9825ac1e4df599bc39fbbca3ed79.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/46bf9414aaf83ecb71d5239a843b8a3b.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0627822d6ca05e9f87cea115819a1679.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ebfa95b41cbcb631c84ba321d2c330bf.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/93bde4f2038a4aa682055acd50572a6c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d1014fac3a04c0c6565290dbe18d1e29.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c1cba13ef255181b3a0f1cbefe43b64b.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/07d9995acf6d742da86452ce07f68cbb.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>юбилейная</tag>
-        </tags>
-        <created_at>2026-07-17T13:47:45+03:00</created_at>
-        <updated_at>2026-08-08T15:36:04+03:00</updated_at>
     </item>
 </response>
