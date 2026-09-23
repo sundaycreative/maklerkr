@@ -1772,6 +1772,98 @@ ID 86 </description>
         <created_at>2026-07-17T13:47:45+03:00</created_at>
         <updated_at>2026-08-08T15:36:04+03:00</updated_at>
     </item>
+    <item internal-id="93">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>90</article>
+        <title> Продам 3-к квартира мікрорайон Сонячний (можна по сертифікату)</title>
+        <description> Продаж 3-кімнатної квартири на Сонячному (Саксаганський район)&#13;
+&#13;
+Пропонується до продажу затишна 3-кімнатна квартира за адресою: мкрн. Сонячний, 11.&#13;
+&#13;
+Квартира в гарному житловому стані, виконаний якісний ремонт. Усі меблі та побутова техніка залишаються новому власнику, тому можна одразу заселятися без додаткових витрат.&#13;
+&#13;
+Уся техніка справна та готова до використання. Квартира дуже тепла, суха, без плісняви та сторонніх запахів. Не кутова. Планування роздільне, одна кімната прохідна. Є засклений балкон із виходом із вітальні.&#13;
+&#13;
+По всій квартирі встановлені металопластикові вікна. Замінені електропроводка, каналізаційні стояки, труби водопостачання та водовідведення. Чавунні радіатори й труби опалення перебувають у гарному стані. Санвузол роздільний. Встановлені всі необхідні лічильники.&#13;
+&#13;
+Будинок обслуговується ЖЕКом. У під'їзді встановлені металопластикові вікна, проживають порядні сусіди. Двір доглянутий, під'їзні шляхи асфальтовані.&#13;
+&#13;
+Квартира без боргів, ніхто не зареєстрований. Документи повністю готові до продажу.&#13;
+&#13;
+Будинок розташований у тихому місці, подалі від проїжджої частини, тому шум транспорту не турбуватиме.&#13;
+&#13;
+Поруч є все необхідне для комфортного життя: річка, супермаркети АТБ і Varus, банк, кафе, лікарня, зупинки громадського транспорту, швидкісний трамвай («метро»), ринок, школа, дитячі садки та різноманітні магазини.&#13;
+&#13;
+Працюємо з державними програмами.&#13;
+&#13;
+Фото квартири по запросу.&#13;
+&#13;
+Телефонуйте, щоб дізнатися більше або домовитися про перегляд!&#13;
+&#13;
+ID 90</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="14366">Солнечный микрорайон</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9551645</map_lat>
+            <map_lng>33.4483399</map_lng>
+            <landmark>солнечный</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="14366">Сонячний мікрорайон</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>8</floor>
+        <area_total>64</area_total>
+        <area_living>40</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">33000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e1b1cfafa3b277ac662bc86398b11f6a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/09f69348267dd16a2b373f895c5c7eef.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1ce620aec6abcb5f3b8e4aab0dda15c3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c2f1ab1a64e4148ddccdbd670c63e5f5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/96fd2a08529d21abf35272c442742417.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/805cedb92f5ece682d9c58f71f949965.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/66eb06328ca23c546cfaefd0bddf2bf5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/47a5c329c156a50d6ed56ec697f4af6b.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/07df39dae86eee40fbe41d5e023d34cd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5200d10998e19f765122434cd4482668.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2a36b8d3818a35db2d224af7afd4e867.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>солнечный</tag>
+        </tags>
+        <created_at>2026-07-25T19:47:32+03:00</created_at>
+        <updated_at>2026-08-09T21:07:38+03:00</updated_at>
+    </item>
     <item internal-id="98">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4521,97 +4613,5 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-23T09:55:16+03:00</updated_at>
-    </item>
-    <item internal-id="93">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>90</article>
-        <title> Продам 3-к квартира мікрорайон Сонячний (можна по сертифікату)</title>
-        <description> Продаж 3-кімнатної квартири на Сонячному (Саксаганський район)&#13;
-&#13;
-Пропонується до продажу затишна 3-кімнатна квартира за адресою: мкрн. Сонячний, 11.&#13;
-&#13;
-Квартира в гарному житловому стані, виконаний якісний ремонт. Усі меблі та побутова техніка залишаються новому власнику, тому можна одразу заселятися без додаткових витрат.&#13;
-&#13;
-Уся техніка справна та готова до використання. Квартира дуже тепла, суха, без плісняви та сторонніх запахів. Не кутова. Планування роздільне, одна кімната прохідна. Є засклений балкон із виходом із вітальні.&#13;
-&#13;
-По всій квартирі встановлені металопластикові вікна. Замінені електропроводка, каналізаційні стояки, труби водопостачання та водовідведення. Чавунні радіатори й труби опалення перебувають у гарному стані. Санвузол роздільний. Встановлені всі необхідні лічильники.&#13;
-&#13;
-Будинок обслуговується ЖЕКом. У під'їзді встановлені металопластикові вікна, проживають порядні сусіди. Двір доглянутий, під'їзні шляхи асфальтовані.&#13;
-&#13;
-Квартира без боргів, ніхто не зареєстрований. Документи повністю готові до продажу.&#13;
-&#13;
-Будинок розташований у тихому місці, подалі від проїжджої частини, тому шум транспорту не турбуватиме.&#13;
-&#13;
-Поруч є все необхідне для комфортного життя: річка, супермаркети АТБ і Varus, банк, кафе, лікарня, зупинки громадського транспорту, швидкісний трамвай («метро»), ринок, школа, дитячі садки та різноманітні магазини.&#13;
-&#13;
-Працюємо з державними програмами.&#13;
-&#13;
-Фото квартири по запросу.&#13;
-&#13;
-Телефонуйте, щоб дізнатися більше або домовитися про перегляд!&#13;
-&#13;
-ID 90</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="14366">Солнечный микрорайон</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9551645</map_lat>
-            <map_lng>33.4483399</map_lng>
-            <landmark>солнечный</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="14366">Сонячний мікрорайон</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>8</floor>
-        <area_total>64</area_total>
-        <area_living>40</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">33000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e1b1cfafa3b277ac662bc86398b11f6a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/09f69348267dd16a2b373f895c5c7eef.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1ce620aec6abcb5f3b8e4aab0dda15c3.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c2f1ab1a64e4148ddccdbd670c63e5f5.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/96fd2a08529d21abf35272c442742417.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/805cedb92f5ece682d9c58f71f949965.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/66eb06328ca23c546cfaefd0bddf2bf5.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/47a5c329c156a50d6ed56ec697f4af6b.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/07df39dae86eee40fbe41d5e023d34cd.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5200d10998e19f765122434cd4482668.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2a36b8d3818a35db2d224af7afd4e867.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>солнечный</tag>
-        </tags>
-        <created_at>2026-07-25T19:47:32+03:00</created_at>
-        <updated_at>2026-08-09T21:07:38+03:00</updated_at>
     </item>
 </response>
