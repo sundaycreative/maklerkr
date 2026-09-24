@@ -1967,93 +1967,6 @@ ID 95&#13;
         <created_at>2026-07-26T16:05:56+03:00</created_at>
         <updated_at>2026-09-11T19:24:25+03:00</updated_at>
     </item>
-    <item internal-id="106">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>103</article>
-        <title>Продаж 3-к квартира на Східному 1 по вул Єгора Біркуна</title>
-        <description>Кривий Ріг. Продаж просторої 3-кімнатної квартири на вул. Водоп’янова / Биркуна&#13;
-&#13;
-Пропонується до продажу світла, тепла та затишна 3-кімнатна квартира, розташована на 3-му поверсі 9-поверхового будинку.&#13;
-&#13;
-Основні характеристики:&#13;
-&#13;
-площа - 64 м²;&#13;
-балкон і лоджія;&#13;
-квартира утеплена зовні;&#13;
-встановлено кондиціонери;&#13;
-повністю замінені всі труби;&#13;
-дві місткі кладові для зручного зберігання речей;&#13;
-встановлена сигналізація та охоронна система;&#13;
-продається з меблями та побутовою технікою;&#13;
-готова до проживання без додаткових вкладень.&#13;
-&#13;
-Окремою перевагою є доглянутий під’їзд і спокійні, доброзичливі сусіди.&#13;
-&#13;
-У квартирі вже ніхто не зареєстрований, що дозволяє швидко оформити угоду.&#13;
-&#13;
-За додатковою інформацією телефонуйте або пишіть. Із задоволенням відповімо на всі ваші запитання та домовимося про перегляд.&#13;
-ID 103</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7883">Долгинцевский</district>
-            <street value="7699">Водопьянова</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9399102</map_lat>
-            <map_lng>33.4407615</map_lng>
-            <landmark>Восточный 1</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7883">Довгинцівський</district_uk>
-            <street_uk value="7699">Водоп'янова</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>3</floor>
-        <area_total>64</area_total>
-        <area_living>38</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">45000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e47ce02e866ced82c55eeb4fc92bcdc9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b4d39aeb9bab9638148176c7924ed69d.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9f2e180072d1e0e3c2b3f2237d91725.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d6051211ffe587ca39be6449ded11a09.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3de8160cfec6ebca15015fb4db7b0421.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3688da3629a97c039a1a177ae5a22313.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/500deb70197b04275d95e3923c4759a7.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/18fcc06e0d4084ce14f23c5fa3105a4f.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db50ad79cdef9067d9adb42555f2a8f0.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">евроремонт</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>восточный 1</tag>
-        </tags>
-        <created_at>2026-07-27T18:45:19+03:00</created_at>
-        <updated_at>2026-08-05T21:59:33+03:00</updated_at>
-    </item>
     <item internal-id="60">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4613,5 +4526,92 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-23T09:55:16+03:00</updated_at>
+    </item>
+    <item internal-id="106">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>103</article>
+        <title>Продаж 3-к квартира на Східному 1 по вул Єгора Біркуна</title>
+        <description>Кривий Ріг. Продаж просторої 3-кімнатної квартири на вул. Водоп’янова / Биркуна&#13;
+&#13;
+Пропонується до продажу світла, тепла та затишна 3-кімнатна квартира, розташована на 3-му поверсі 9-поверхового будинку.&#13;
+&#13;
+Основні характеристики:&#13;
+&#13;
+площа - 64 м²;&#13;
+балкон і лоджія;&#13;
+квартира утеплена зовні;&#13;
+встановлено кондиціонери;&#13;
+повністю замінені всі труби;&#13;
+дві місткі кладові для зручного зберігання речей;&#13;
+встановлена сигналізація та охоронна система;&#13;
+продається з меблями та побутовою технікою;&#13;
+готова до проживання без додаткових вкладень.&#13;
+&#13;
+Окремою перевагою є доглянутий під’їзд і спокійні, доброзичливі сусіди.&#13;
+&#13;
+У квартирі вже ніхто не зареєстрований, що дозволяє швидко оформити угоду.&#13;
+&#13;
+За додатковою інформацією телефонуйте або пишіть. Із задоволенням відповімо на всі ваші запитання та домовимося про перегляд.&#13;
+ID 103</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7883">Долгинцевский</district>
+            <street value="7699">Водопьянова</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9399102</map_lat>
+            <map_lng>33.4407615</map_lng>
+            <landmark>Восточный 1</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7883">Довгинцівський</district_uk>
+            <street_uk value="7699">Водоп'янова</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>3</floor>
+        <area_total>64</area_total>
+        <area_living>38</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">45000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e47ce02e866ced82c55eeb4fc92bcdc9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b4d39aeb9bab9638148176c7924ed69d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9f2e180072d1e0e3c2b3f2237d91725.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d6051211ffe587ca39be6449ded11a09.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3de8160cfec6ebca15015fb4db7b0421.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3688da3629a97c039a1a177ae5a22313.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/500deb70197b04275d95e3923c4759a7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/18fcc06e0d4084ce14f23c5fa3105a4f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db50ad79cdef9067d9adb42555f2a8f0.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">евроремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>восточный 1</tag>
+        </tags>
+        <created_at>2026-07-27T18:45:19+03:00</created_at>
+        <updated_at>2026-08-05T21:59:33+03:00</updated_at>
     </item>
 </response>
