@@ -480,6 +480,99 @@ ID 111&#13;
         <created_at>2026-08-06T19:30:45+03:00</created_at>
         <updated_at>2026-09-10T13:26:22+03:00</updated_at>
     </item>
+    <item internal-id="86">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>83</article>
+        <title>Продам 1-к квартира на Івана Авраменка (Корнійчука) бульвар Вечірній</title>
+        <description>Продається 1-к квартира на Вечірньому бульварі по вул. Івана Авраменка (Корнійчука).&#13;
+&#13;
+Поверх: 8/9, квартира тепла та не кутова.&#13;
+&#13;
+Планування покращене, функціональне: кімната окремо, великий коридор, затишна кухня, S 35/17/8м2.&#13;
+&#13;
+Стан: житловий; вікна та труби м/п, сантехніка працює, ванна є, залізні вхідні двері, підлога – лінолеум, балкон не засклений.&#13;
+&#13;
+Квартира продається з меблями та технікою.&#13;
+&#13;
+Кондиціонер та бойлер.&#13;
+&#13;
+Лічильники на воду, газ, світло.&#13;
+&#13;
+Теплолічильник на будинку.&#13;
+&#13;
+Поруч є все для комфортного життя.&#13;
+&#13;
+Боргів, прописаних та проблем немає.&#13;
+&#13;
+Зацікавились? Телефонуйте!&#13;
+&#13;
+ ID: 83&#13;
+Є відеоогляд https://youtu.be/MIr6nQzF7X4</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7597">Корнейчука</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9361787</map_lat>
+            <map_lng>33.4272532</map_lng>
+            <landmark></landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7597">Корнійчука</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>8</floor>
+        <area_total>35</area_total>
+        <area_living>17</area_living>
+        <area_kitchen>8</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">10900</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/08324a8ece4109ae3e7d80c30e1568c6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d685d35bc7af528f740a8c784a067439.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/56d11508969d47b6d780d58c9cccc0aa.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0a6efb6286e5f6f3fe0d282046ac2833.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/657445529f459871ba1b3da7114f1cf3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5e10e83b6e61fb9fa1ecbf3555f80316.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3311be04dabe6d700475d86830dd3dd4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/feba70cb83e5e868f3994be590cb86ce.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/92c56a95baf1a27ca0e50f668fd01424.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/10573016f7a0e4eea1eab182ec78562b.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/02ebbadfd1c1fa10173eba539fc68149.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/01b702eef5520314d7321f4f6a7e9d97.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c6134a112e48449799e13f24fc67285b.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>эксклюзив</tag>
+        </tags>
+        <created_at>2026-07-15T10:58:45+03:00</created_at>
+        <updated_at>2026-09-24T23:12:18+03:00</updated_at>
+    </item>
     <item internal-id="113">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4520,98 +4613,5 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-24T11:56:39+03:00</updated_at>
-    </item>
-    <item internal-id="86">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>83</article>
-        <title>Продам 1-к квартира на Івана Авраменка (Корнійчука) бульвар Вечірній</title>
-        <description>Продається 1-к квартира на Вечірньому бульварі по вул. Івана Авраменка (Корнійчука).&#13;
-&#13;
-Поверх: 8/9, квартира тепла та не кутова.&#13;
-&#13;
-Планування покращене, функціональне: кімната окремо, великий коридор, затишна кухня, S 35/17/8м2.&#13;
-&#13;
-Стан: житловий; вікна та труби м/п, сантехніка працює, ванна є, залізні вхідні двері, підлога – лінолеум, балкон не засклений.&#13;
-&#13;
-Квартира продається з меблями та технікою.&#13;
-&#13;
-Кондиціонер та бойлер.&#13;
-&#13;
-Лічильники на воду, газ, світло.&#13;
-&#13;
-Теплолічильник на будинку.&#13;
-&#13;
-Поруч є все для комфортного життя.&#13;
-&#13;
-Боргів, прописаних та проблем немає.&#13;
-&#13;
-Зацікавились? Телефонуйте!&#13;
-&#13;
- ID: 83&#13;
-Є відеоогляд https://youtu.be/MIr6nQzF7X4</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="7597">Корнейчука</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9361787</map_lat>
-            <map_lng>33.4272532</map_lng>
-            <landmark></landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="7597">Корнійчука</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>8</floor>
-        <area_total>35</area_total>
-        <area_living>17</area_living>
-        <area_kitchen>8</area_kitchen>
-        <room_count>1</room_count>
-        <price type="per_object" currency="USD">10900</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/08324a8ece4109ae3e7d80c30e1568c6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d685d35bc7af528f740a8c784a067439.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/56d11508969d47b6d780d58c9cccc0aa.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0a6efb6286e5f6f3fe0d282046ac2833.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/657445529f459871ba1b3da7114f1cf3.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5e10e83b6e61fb9fa1ecbf3555f80316.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3311be04dabe6d700475d86830dd3dd4.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/feba70cb83e5e868f3994be590cb86ce.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/92c56a95baf1a27ca0e50f668fd01424.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/10573016f7a0e4eea1eab182ec78562b.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/02ebbadfd1c1fa10173eba539fc68149.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/01b702eef5520314d7321f4f6a7e9d97.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c6134a112e48449799e13f24fc67285b.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">без ремонта</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>эксклюзив</tag>
-        </tags>
-        <created_at>2026-07-15T10:58:45+03:00</created_at>
-        <updated_at>2026-09-24T23:12:18+03:00</updated_at>
     </item>
 </response>
