@@ -2333,6 +2333,102 @@ ID 82&#13;
         <created_at>2026-07-14T17:37:54+03:00</created_at>
         <updated_at>2026-09-11T19:32:33+03:00</updated_at>
     </item>
+    <item internal-id="30">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>30</article>
+        <title>Продаж 2-к квартири на Степана Тільги Соцмісто Восход Стрельнікова Революционная</title>
+        <description>Продам затишну 2 кімнатну квартиру в районі Соцміста (Восход).&#13;
+&#13;
+Гарний стан, функціональне планування. Квартира тепла, не кутова, кімнати роздільні. &#13;
+Площа: 45/27/6 м.&#13;
+&#13;
+Зроблено ремонт: вікна та труби м/п, нова сантехніка, ванна та туалет в кахлі, поміняні двері, залізні вхідні двері, підлога лінолеум та плитка, балкон обшитий засклений м/п.&#13;
+Газова колонка-автомат. Кондиціонер.&#13;
+&#13;
+Залишаємо вбудовану кухню та всі меблі та техніку. У квартирі встановлені лічильники на воду, газ, світло. На будинку теплолічильник.&#13;
+&#13;
+Боргів та проблем немає. Центр міста, поруч є ВСЕ для комфортного життя.&#13;
+&#13;
+Зацікавились? Телефонуйте.&#13;
+Запрошую до співпраці власників нерухомості!&#13;
+Продаю швидко та вигідно.&#13;
+ID 30&#13;
+Є відеоогляд квартири https://youtu.be/pm7gLH27E9c</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7883">Долгинцевский</district>
+            <street value="7495">Революционная</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.8978415</map_lat>
+            <map_lng>33.4099564</map_lng>
+            <landmark>соцгород</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7883">Довгинцівський</district_uk>
+            <street_uk value="7495">Революційна</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>5</total_floors>
+        <floor>5</floor>
+        <area_total>45</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>6</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">20000</price>
+        <images>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fc61ad69d0d6d6edd050f484e5c9f21b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/04aa8139d56aa6ffdbe2b03e0626d813.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/ddda1783059b952cde845bc1b4c883cf.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/6e38b1b24d5a1f5776d956d060bc4d65.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/ec6e9436b23bddc5c3b40e33bcb21223.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/f0d2b49d6a0e588b519ab29b2e7a5613.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/5dc9d6e9922edf4c5e40213d209c330e.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/977ee02b01b7193cec45e3acfe727f89.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/d9d30779f036f59ede5ab924e016f300.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/046b0a4d3dfbad8f95accc8bf2c90d7f.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/06cd1573f438cb823fdea91608f045fb.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/03cd320f123de9261dcd822b3f995e8d.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/55171975d4f12ee142c591ce71b653f0.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/1f84a67d7cc56286d72b96c71c3d1dcf.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/c40b2a10812da35085605f078ea53ccf.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/45f6ef798b12f7742ba7d4bc61bd0817.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/d4c10c76fe527f7929fe5c65ae5f88b1.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/7cbace3147007a98bc5e74d93edb0312.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/754df8f8191ec7b96feccf20630c7e1d.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fc292e4f506f9cac18d4c3327d08ab06.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/f3ee099d024e9793e29ccff0e57d4b5a.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>эксклюзив</tag>
+            <tag>тильги</tag>
+        </tags>
+        <created_at>2026-04-26T17:02:59+03:00</created_at>
+        <updated_at>2026-09-10T13:35:57+03:00</updated_at>
+    </item>
     <item internal-id="2">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4517,101 +4613,5 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-25T09:25:16+03:00</updated_at>
-    </item>
-    <item internal-id="30">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>30</article>
-        <title>Продаж 2-к квартири на Степана Тільги Соцмісто Восход Стрельнікова Революционная</title>
-        <description>Продам затишну 2 кімнатну квартиру в районі Соцміста (Восход).&#13;
-&#13;
-Гарний стан, функціональне планування. Квартира тепла, не кутова, кімнати роздільні. &#13;
-Площа: 45/27/6 м.&#13;
-&#13;
-Зроблено ремонт: вікна та труби м/п, нова сантехніка, ванна та туалет в кахлі, поміняні двері, залізні вхідні двері, підлога лінолеум та плитка, балкон обшитий засклений м/п.&#13;
-Газова колонка-автомат. Кондиціонер.&#13;
-&#13;
-Залишаємо вбудовану кухню та всі меблі та техніку. У квартирі встановлені лічильники на воду, газ, світло. На будинку теплолічильник.&#13;
-&#13;
-Боргів та проблем немає. Центр міста, поруч є ВСЕ для комфортного життя.&#13;
-&#13;
-Зацікавились? Телефонуйте.&#13;
-Запрошую до співпраці власників нерухомості!&#13;
-Продаю швидко та вигідно.&#13;
-ID 30&#13;
-Є відеоогляд квартири https://youtu.be/pm7gLH27E9c</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7883">Долгинцевский</district>
-            <street value="7495">Революционная</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.8978415</map_lat>
-            <map_lng>33.4099564</map_lng>
-            <landmark>соцгород</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7883">Довгинцівський</district_uk>
-            <street_uk value="7495">Революційна</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>5</total_floors>
-        <floor>5</floor>
-        <area_total>45</area_total>
-        <area_living>27</area_living>
-        <area_kitchen>6</area_kitchen>
-        <room_count>2</room_count>
-        <price type="per_object" currency="USD">20000</price>
-        <images>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fc61ad69d0d6d6edd050f484e5c9f21b.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/04aa8139d56aa6ffdbe2b03e0626d813.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/ddda1783059b952cde845bc1b4c883cf.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/6e38b1b24d5a1f5776d956d060bc4d65.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/ec6e9436b23bddc5c3b40e33bcb21223.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/f0d2b49d6a0e588b519ab29b2e7a5613.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/5dc9d6e9922edf4c5e40213d209c330e.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/977ee02b01b7193cec45e3acfe727f89.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/d9d30779f036f59ede5ab924e016f300.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/046b0a4d3dfbad8f95accc8bf2c90d7f.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/06cd1573f438cb823fdea91608f045fb.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/03cd320f123de9261dcd822b3f995e8d.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/55171975d4f12ee142c591ce71b653f0.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/1f84a67d7cc56286d72b96c71c3d1dcf.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/c40b2a10812da35085605f078ea53ccf.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/45f6ef798b12f7742ba7d4bc61bd0817.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/d4c10c76fe527f7929fe5c65ae5f88b1.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/7cbace3147007a98bc5e74d93edb0312.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/754df8f8191ec7b96feccf20630c7e1d.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fc292e4f506f9cac18d4c3327d08ab06.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/f3ee099d024e9793e29ccff0e57d4b5a.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>эксклюзив</tag>
-            <tag>тильги</tag>
-        </tags>
-        <created_at>2026-04-26T17:02:59+03:00</created_at>
-        <updated_at>2026-09-10T13:35:57+03:00</updated_at>
     </item>
 </response>
