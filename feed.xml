@@ -1135,91 +1135,6 @@ ID 104</description>
         <created_at>2026-07-27T18:54:32+03:00</created_at>
         <updated_at>2026-09-11T08:47:47+03:00</updated_at>
     </item>
-    <item internal-id="109">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>106</article>
-        <title>Продаж 3-к чешка 3/5 поверх на Ювілейній по Спасівській</title>
-        <description>Продається 3-кімнатна квартира (чешка) на 4/5 поверсі в районі Ювілейної по вул. Спаській. Будинок - ОСББ.&#13;
-&#13;
-Про квартиру:&#13;
-&#13;
-сучасний та якісний  ремонт;&#13;
-встановлені кондиціонери;&#13;
-у ванній кімнаті - тепла електрична підлога;&#13;
-металопластикові вікна;&#13;
-світла, затишна та комфортна квартира;&#13;
-повністю готова до проживання - можна заїжджати без додаткових витрат.&#13;
-&#13;
-Вдале розташування:&#13;
-Поруч знаходяться ТЦ «Проспект», аптеки, ринок, зупинки громадського транспорту, школи, дитячі садочки та кав’ярні. Усе необхідне для комфортного життя - поруч.&#13;
-&#13;
-Чудовий варіант для сім’ї або для тих, хто шукає готове житло без зайвих клопотів.&#13;
-&#13;
-Можливий  продаж за житловим сертифікатом.&#13;
-По всім питанням телефонуйте.&#13;
-ID 106</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="7659">Спасская</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9603206</map_lat>
-            <map_lng>33.4322716</map_lng>
-            <landmark>юбилейная</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="7659">Спаська</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>5</total_floors>
-        <floor>4</floor>
-        <area_total>66</area_total>
-        <area_living>40</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">49000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/216881718502eaf1dae600c66addd9fd.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/34bbb8d3d3727156701b9d6cf749806e.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/df9473092b8747d3b274b0f835c80be6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/dcd52e204fd7459f03799b8797b7ae8f.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/36fe458815c2a64f6cc7a506d2965e9a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0af6e44b7c0f1076aa4473ee2b45a8ff.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e0cf0872cc3ae5f7947c68f4e7b8503a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2ddda579e38c01c5c246896f6410d0a2.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">евроремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_58" label="дополнительная характеристика">чешка</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>юбилейная</tag>
-        </tags>
-        <created_at>2026-07-27T20:04:17+03:00</created_at>
-        <updated_at>2026-09-11T09:20:01+03:00</updated_at>
-    </item>
     <item internal-id="110">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4613,5 +4528,90 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-25T09:25:16+03:00</updated_at>
+    </item>
+    <item internal-id="109">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>106</article>
+        <title>Продаж 3-к чешка 3/5 поверх на Ювілейній по Спасівській</title>
+        <description>Продається 3-кімнатна квартира (чешка) на 4/5 поверсі в районі Ювілейної по вул. Спаській. Будинок - ОСББ.&#13;
+&#13;
+Про квартиру:&#13;
+&#13;
+сучасний та якісний  ремонт;&#13;
+встановлені кондиціонери;&#13;
+у ванній кімнаті - тепла електрична підлога;&#13;
+металопластикові вікна;&#13;
+світла, затишна та комфортна квартира;&#13;
+повністю готова до проживання - можна заїжджати без додаткових витрат.&#13;
+&#13;
+Вдале розташування:&#13;
+Поруч знаходяться ТЦ «Проспект», аптеки, ринок, зупинки громадського транспорту, школи, дитячі садочки та кав’ярні. Усе необхідне для комфортного життя - поруч.&#13;
+&#13;
+Чудовий варіант для сім’ї або для тих, хто шукає готове житло без зайвих клопотів.&#13;
+&#13;
+Можливий  продаж за житловим сертифікатом.&#13;
+По всім питанням телефонуйте.&#13;
+ID 106</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7659">Спасская</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9603206</map_lat>
+            <map_lng>33.4322716</map_lng>
+            <landmark>юбилейная</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7659">Спаська</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>5</total_floors>
+        <floor>4</floor>
+        <area_total>66</area_total>
+        <area_living>40</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">49000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/216881718502eaf1dae600c66addd9fd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/34bbb8d3d3727156701b9d6cf749806e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/df9473092b8747d3b274b0f835c80be6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/dcd52e204fd7459f03799b8797b7ae8f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/36fe458815c2a64f6cc7a506d2965e9a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0af6e44b7c0f1076aa4473ee2b45a8ff.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e0cf0872cc3ae5f7947c68f4e7b8503a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2ddda579e38c01c5c246896f6410d0a2.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">евроремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_58" label="дополнительная характеристика">чешка</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>юбилейная</tag>
+        </tags>
+        <created_at>2026-07-27T20:04:17+03:00</created_at>
+        <updated_at>2026-09-11T09:20:01+03:00</updated_at>
     </item>
 </response>
