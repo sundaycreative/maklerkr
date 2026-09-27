@@ -2155,6 +2155,93 @@ ID 59&#13;
         <created_at>2026-06-26T13:07:11+03:00</created_at>
         <updated_at>2026-09-08T09:27:29+03:00</updated_at>
     </item>
+    <item internal-id="81">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>79</article>
+        <title>Продам 3-к квартира Ювілейна вул 200 років КР поруч Спаська</title>
+        <description>Кривий Ріг. Пропозиція продажу просторої 3 кімнатної квартири на Ювілейній, по вулиці 200 річчя Кривого Рогу, в Саксаганському районі, з чудовим видом на місто.&#13;
+Пропонуємо гарну 3-кімнатну квартиру на 5-му поверсі 9-ти поверхового будинку в географічному центрі міста.&#13;
+Площа: загальна 70 м², житлова 43 м², кухня 9 м.²&#13;
+Не кутова, тепла, двостороння, кімнати роздільні, є лоджія та балкон. Великий коридор, вмістка та зручна кладовка.&#13;
+Квартира в житловому стані&#13;
+Залишаються меблі та техніка.&#13;
+Ванна в кахлі, м/п труби, електричний бойлер.&#13;
+Лічильники на світло, газ та тепловий облік на будинок&#13;
+В будинку гарно працюють ліфти. Опалення є!&#13;
+Документи готові до продажу, квартира без боргів та проблем.&#13;
+&#13;
+Зручна та престижна локація з розвинутою інфраструктурою: поряд Нова пошта, школа, дитячі садки, супермаркети, зупинки та розв'язка транспорту в усі напрямки міста.&#13;
+&#13;
+Ця квартира — чудова можливість для тих, хто шукає комфортне житло в гарному, крутому районі.&#13;
+Для отримання додаткової інформації або для запису на перегляд, будь ласка, телефонуйте.&#13;
+ID 79&#13;
+Є відеоогляд https://youtu.be/vPjiLHF8zAE</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="11741">200 лет Кривого Рога</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.8797346</map_lat>
+            <map_lng>33.3111047</map_lng>
+            <landmark>юбилейная</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="11741">200 років Кривого Рогу</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <floor>5</floor>
+        <area_total>70</area_total>
+        <area_living>43</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">20500</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a9045f89447af8d08ae7c92d554fd695.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d606b83f5557561ca103943d54261e01.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5529640ff39620c30f353558af20d2ca.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ca390004796436d27d2a1602eb56b97e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f82c6a0969e52f2f1f8c41f4b62496a9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/74db31afaf4fc27e7b17e9653ff2b473.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e21d06713c1dea27d383d7c8e4db24b3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d5155b93db0063df1453d70c8a3ddb37.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fbe86cc47c577ca8fa9305dd56965d30.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7166bb85cabb56f566ffe03e63205809.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e9ca144758e83487fae7fde44cf4d8aa.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/06ea767d66b4d4d2f1f8323b2e7ae67e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bd2a46b585ba63aecb1c7d95434d469c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3ffcea0f2bdbe0674280d14e20411b87.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2744fdf02a64938b03df14a26f9395fe.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>эксклюзив</tag>
+        </tags>
+        <created_at>2026-07-09T12:24:39+03:00</created_at>
+        <updated_at>2026-09-11T19:36:07+03:00</updated_at>
+    </item>
     <item internal-id="85">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4526,92 +4613,5 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-25T09:25:16+03:00</updated_at>
-    </item>
-    <item internal-id="81">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>79</article>
-        <title>Продам 3-к квартира Ювілейна вул 200 років КР поруч Спаська</title>
-        <description>Кривий Ріг. Пропозиція продажу просторої 3 кімнатної квартири на Ювілейній, по вулиці 200 річчя Кривого Рогу, в Саксаганському районі, з чудовим видом на місто.&#13;
-Пропонуємо гарну 3-кімнатну квартиру на 5-му поверсі 9-ти поверхового будинку в географічному центрі міста.&#13;
-Площа: загальна 70 м², житлова 43 м², кухня 9 м.²&#13;
-Не кутова, тепла, двостороння, кімнати роздільні, є лоджія та балкон. Великий коридор, вмістка та зручна кладовка.&#13;
-Квартира в житловому стані&#13;
-Залишаються меблі та техніка.&#13;
-Ванна в кахлі, м/п труби, електричний бойлер.&#13;
-Лічильники на світло, газ та тепловий облік на будинок&#13;
-В будинку гарно працюють ліфти. Опалення є!&#13;
-Документи готові до продажу, квартира без боргів та проблем.&#13;
-&#13;
-Зручна та престижна локація з розвинутою інфраструктурою: поряд Нова пошта, школа, дитячі садки, супермаркети, зупинки та розв'язка транспорту в усі напрямки міста.&#13;
-&#13;
-Ця квартира — чудова можливість для тих, хто шукає комфортне житло в гарному, крутому районі.&#13;
-Для отримання додаткової інформації або для запису на перегляд, будь ласка, телефонуйте.&#13;
-ID 79&#13;
-Є відеоогляд https://youtu.be/vPjiLHF8zAE</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="11741">200 лет Кривого Рога</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.8797346</map_lat>
-            <map_lng>33.3111047</map_lng>
-            <landmark>юбилейная</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="11741">200 років Кривого Рогу</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <floor>5</floor>
-        <area_total>70</area_total>
-        <area_living>43</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">20500</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a9045f89447af8d08ae7c92d554fd695.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d606b83f5557561ca103943d54261e01.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5529640ff39620c30f353558af20d2ca.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ca390004796436d27d2a1602eb56b97e.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f82c6a0969e52f2f1f8c41f4b62496a9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/74db31afaf4fc27e7b17e9653ff2b473.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e21d06713c1dea27d383d7c8e4db24b3.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d5155b93db0063df1453d70c8a3ddb37.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/fbe86cc47c577ca8fa9305dd56965d30.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7166bb85cabb56f566ffe03e63205809.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e9ca144758e83487fae7fde44cf4d8aa.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/06ea767d66b4d4d2f1f8323b2e7ae67e.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bd2a46b585ba63aecb1c7d95434d469c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3ffcea0f2bdbe0674280d14e20411b87.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2744fdf02a64938b03df14a26f9395fe.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">без ремонта</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>эксклюзив</tag>
-        </tags>
-        <created_at>2026-07-09T12:24:39+03:00</created_at>
-        <updated_at>2026-09-11T19:36:07+03:00</updated_at>
     </item>
 </response>
