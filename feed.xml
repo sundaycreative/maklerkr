@@ -2799,6 +2799,97 @@ ID 128&#13;
         <created_at>2026-09-15T17:36:33+03:00</created_at>
         <updated_at>2026-09-15T17:45:11+03:00</updated_at>
     </item>
+    <item internal-id="23">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>23</article>
+        <title>Продаж 2 кімнатна квартира на Ювілейній по вул Спасівська (Спасская)</title>
+        <description>Кривий Ріг. Пропозиція продажу просторої 2 кімнатної квартири на Ювілейній, по вулиці Спасівська, в Саксаганському районі, з чудовим видом на місто.&#13;
+Пропонуємо гарну 2-кімнатну квартиру на 7-му поверсі 9-ти поверхового будинку в географічному центрі міста.&#13;
+Площа: загальна 45 м, житлова 27 м, кухня 7 м.&#13;
+Не кутова, тепла, одностороння, кімнати роздільні, є велика лоджія.&#13;
+Квартира в житловому стані, м/п вікна та труби.&#13;
+Лічильники на світло, газ та тепловий облік на будинок&#13;
+В будинку гарно працюють нові ліфти. Опалення є!&#13;
+Приємний бонус - власна міжповерхова кладовка.&#13;
+&#13;
+Зручна та престижна локація з розвинутою інфраструктурою: поряд Торговий будинок, Варус, АТБ, Нова пошта, школа, дитячі садки, супермаркети, зупинки.&#13;
+Розв'язка транспорту в усі напрямки міста.&#13;
+&#13;
+Ця квартира - чудова можливість для тих, хто шукає комфортне житло в гарному, крутому районі.&#13;
+Для отримання додаткової інформації або для запису на перегляд, будь ласка, телефонуйте.&#13;
+ID 23&#13;
+Є відеоогляд https://youtu.be/gLbTmal8fvE</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7659">Спасская</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9606554</map_lat>
+            <map_lng>33.4387677</map_lng>
+            <apartment>66</apartment>
+            <landmark>юбилейная</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7659">Спаська</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>7</floor>
+        <area_total>45</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">17000</price>
+        <images>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/78241c964ae65780daaf2d28b4cde573.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/90059809a04234b46938c8771b10eabd.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/d453fd87e58a2f7fa112243b6cf7f11b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/0e60d6740b59967a948f1ce1c850f275.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/b8f3b1d38c48291096b860ed5a38d897.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/80577e188bd95b2cd25a3481b4f5f64a.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/251598f5d07d39e1f7bd59190922ba28.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/c272f728bd589f5f2d8562485f9ff22e.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/13bc49f7e4de79722bf28bdb305f7248.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fb72e41b8a166598061565e95d24a25d.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/3f3d85b39fde8f2793ca8edc38233a33.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/17b49d90ffbebb2616cc731d3af159f8.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/5ce0695c30e63c053f8c8b7b69b0f7af.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/12908fd41bae0737a4689042736bb2ad.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fb5aa5ba5f2ae829490d79e041c76728.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/7640ecd9b13bb11ee8a68b30fdcdb569.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>юбилейная</tag>
+            <tag>эксклюзив</tag>
+        </tags>
+        <created_at>2026-04-19T12:00:12+03:00</created_at>
+        <updated_at>2026-09-15T18:17:07+03:00</updated_at>
+    </item>
     <item internal-id="74">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4522,96 +4613,5 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-25T09:25:16+03:00</updated_at>
-    </item>
-    <item internal-id="23">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>23</article>
-        <title>Продаж 2 кімнатна квартира на Ювілейній по вул Спасівська (Спасская)</title>
-        <description>Кривий Ріг. Пропозиція продажу просторої 2 кімнатної квартири на Ювілейній, по вулиці Спасівська, в Саксаганському районі, з чудовим видом на місто.&#13;
-Пропонуємо гарну 2-кімнатну квартиру на 7-му поверсі 9-ти поверхового будинку в географічному центрі міста.&#13;
-Площа: загальна 45 м, житлова 27 м, кухня 7 м.&#13;
-Не кутова, тепла, одностороння, кімнати роздільні, є велика лоджія.&#13;
-Квартира в житловому стані, м/п вікна та труби.&#13;
-Лічильники на світло, газ та тепловий облік на будинок&#13;
-В будинку гарно працюють нові ліфти. Опалення є!&#13;
-Приємний бонус - власна міжповерхова кладовка.&#13;
-&#13;
-Зручна та престижна локація з розвинутою інфраструктурою: поряд Торговий будинок, Варус, АТБ, Нова пошта, школа, дитячі садки, супермаркети, зупинки.&#13;
-Розв'язка транспорту в усі напрямки міста.&#13;
-&#13;
-Ця квартира - чудова можливість для тих, хто шукає комфортне житло в гарному, крутому районі.&#13;
-Для отримання додаткової інформації або для запису на перегляд, будь ласка, телефонуйте.&#13;
-ID 23&#13;
-Є відеоогляд https://youtu.be/gLbTmal8fvE</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="7659">Спасская</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9606554</map_lat>
-            <map_lng>33.4387677</map_lng>
-            <apartment>66</apartment>
-            <landmark>юбилейная</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="7659">Спаська</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>7</floor>
-        <area_total>45</area_total>
-        <area_living>27</area_living>
-        <area_kitchen>7</area_kitchen>
-        <room_count>2</room_count>
-        <price type="per_object" currency="USD">17000</price>
-        <images>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/78241c964ae65780daaf2d28b4cde573.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/90059809a04234b46938c8771b10eabd.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/d453fd87e58a2f7fa112243b6cf7f11b.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/0e60d6740b59967a948f1ce1c850f275.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/b8f3b1d38c48291096b860ed5a38d897.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/80577e188bd95b2cd25a3481b4f5f64a.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/251598f5d07d39e1f7bd59190922ba28.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/c272f728bd589f5f2d8562485f9ff22e.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/13bc49f7e4de79722bf28bdb305f7248.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fb72e41b8a166598061565e95d24a25d.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/3f3d85b39fde8f2793ca8edc38233a33.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/17b49d90ffbebb2616cc731d3af159f8.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/5ce0695c30e63c053f8c8b7b69b0f7af.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/12908fd41bae0737a4689042736bb2ad.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/fb5aa5ba5f2ae829490d79e041c76728.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/7640ecd9b13bb11ee8a68b30fdcdb569.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>юбилейная</tag>
-            <tag>эксклюзив</tag>
-        </tags>
-        <created_at>2026-04-19T12:00:12+03:00</created_at>
-        <updated_at>2026-09-15T18:17:07+03:00</updated_at>
     </item>
 </response>
