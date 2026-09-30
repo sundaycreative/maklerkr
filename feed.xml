@@ -3091,89 +3091,6 @@ ID 129&#13;
         <created_at>2026-09-15T19:38:59+03:00</created_at>
         <updated_at>2026-09-15T19:42:14+03:00</updated_at>
     </item>
-    <item internal-id="115">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>112</article>
-        <title>Продам 3-к квартира на Космонавтов</title>
-        <description> Продаж 3-кімнатної квартири на вул. Космонавтів, в Саксаганському районі.&#13;
-&#13;
-Пропоную до продажу 3-кімнатну квартиру на 5-му поверсі 9-поверхового будинку. Квартира не кутова, має зручне роздільно-прохідне планування, стан житловий або під Ваш ремонт.&#13;
-&#13;
-Загальна площа - 64 м², житлова - 40 м², кухня - 7 м².&#13;
-&#13;
-У квартирі:&#13;
-&#13;
-велика затишна зала;&#13;
-дві окремі спальні кімнати;&#13;
-балкони та лоджія;&#13;
-роздільний санвузол;&#13;
-житловий стан;&#13;
-замінені всі комунікації;&#13;
-встановлені металопластикові вікна.&#13;
-&#13;
-Будинок розташований у спокійному та зручному місці - шум від дороги не заважатиме, водночас усе необхідне знаходиться поруч. У пішій доступності - магазини, школи, дитячі садочки, а також зручна транспортна розв’язка.&#13;
-&#13;
-За додатковою інформацією телефонуйте.&#13;
-ID 112</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="7501">Космонавтов</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9415633</map_lat>
-            <map_lng>33.424966</map_lng>
-            <landmark>космонавтов</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="7501">Космонавтів</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>5</floor>
-        <area_total>64</area_total>
-        <area_living>40</area_living>
-        <area_kitchen>7</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">21500</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b93b3f2ff19599293f247f27f627b2b6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0ab0a0e2acaeafb16d51b31f9076d6c2.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/666bb4391065a9f5d34023c8f26a4f52.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/22967f07e184c355cbf26a36bc5c0203.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/dc434f10f5e9356d4d60dcb54f4d823a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0b76080af3a608a5bc7a9b2693b6bce6.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>космонавтов</tag>
-        </tags>
-        <created_at>2026-08-07T16:41:26+03:00</created_at>
-        <updated_at>2026-08-11T17:03:38+03:00</updated_at>
-    </item>
     <item internal-id="124">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4613,5 +4530,88 @@ ID 143</description>
         </tags>
         <created_at>2026-09-22T19:34:10+03:00</created_at>
         <updated_at>2026-09-25T09:25:16+03:00</updated_at>
+    </item>
+    <item internal-id="115">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>112</article>
+        <title>Продам 3-к квартира на Космонавтов</title>
+        <description> Продаж 3-кімнатної квартири на вул. Космонавтів, в Саксаганському районі.&#13;
+&#13;
+Пропоную до продажу 3-кімнатну квартиру на 5-му поверсі 9-поверхового будинку. Квартира не кутова, має зручне роздільно-прохідне планування, стан житловий або під Ваш ремонт.&#13;
+&#13;
+Загальна площа - 64 м², житлова - 40 м², кухня - 7 м².&#13;
+&#13;
+У квартирі:&#13;
+&#13;
+велика затишна зала;&#13;
+дві окремі спальні кімнати;&#13;
+балкони та лоджія;&#13;
+роздільний санвузол;&#13;
+житловий стан;&#13;
+замінені всі комунікації;&#13;
+встановлені металопластикові вікна.&#13;
+&#13;
+Будинок розташований у спокійному та зручному місці - шум від дороги не заважатиме, водночас усе необхідне знаходиться поруч. У пішій доступності - магазини, школи, дитячі садочки, а також зручна транспортна розв’язка.&#13;
+&#13;
+За додатковою інформацією телефонуйте.&#13;
+ID 112</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7501">Космонавтов</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9415633</map_lat>
+            <map_lng>33.424966</map_lng>
+            <landmark>космонавтов</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7501">Космонавтів</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>5</floor>
+        <area_total>64</area_total>
+        <area_living>40</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">21500</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b93b3f2ff19599293f247f27f627b2b6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0ab0a0e2acaeafb16d51b31f9076d6c2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/666bb4391065a9f5d34023c8f26a4f52.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/22967f07e184c355cbf26a36bc5c0203.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/dc434f10f5e9356d4d60dcb54f4d823a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0b76080af3a608a5bc7a9b2693b6bce6.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>космонавтов</tag>
+        </tags>
+        <created_at>2026-08-07T16:41:26+03:00</created_at>
+        <updated_at>2026-08-11T17:03:38+03:00</updated_at>
     </item>
 </response>
