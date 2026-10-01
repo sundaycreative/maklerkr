@@ -13,18 +13,18 @@
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta name="robots" content="nofollow" />
         <meta name="csrf-param" content="_csrf">
-<meta name="csrf-token" content="z3r4iYAxUxIsmZtJFpEhAhHgLQRHi8a9l5k0VtCNMT6_KcjN8UAQR3T2qyxmpRBwJ5UUWwrjq_zN33E-hMIIZA==">
+<meta name="csrf-token" content="R5sAS-uFo3zhnnt0V3HqqQozTTE5pwxlxWhxWfreF1kdozMEisTqO9HkGhcgAdzETVs1YU7RWQOUWEcxoKxADA==">
         <link href="/img/favicon.png" rel="shortcut icon" type="image/png" />
         <link href="/assets/b17be264/css/simple-line-icons.css?v=1651580280" rel="stylesheet">
-<link href="/assets/a76964a5/css/bootstrap.css?v=1790831713" rel="stylesheet">
+<link href="/assets/850bca4a/css/bootstrap.css?v=1790837545" rel="stylesheet">
 <link href="/assets/a29967ea/css/bootstrap3/bootstrap-switch.min.css?v=1651580280" rel="stylesheet">
 <link href="/assets/c3277567/css/font-awesome.min.css?v=1651580277" rel="stylesheet">
-<link href="/assets/1a9c24ef/css/uniform.default.min.css?v=1790831713" rel="stylesheet">
+<link href="/assets/38fe8a00/css/uniform.default.min.css?v=1790837545" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=all" rel="stylesheet">
 <link href="/css/components-md.css?v=1775214809" rel="stylesheet">
 <link href="/css/plugins-md.min.css?v=1775214809" rel="stylesheet">
 <link href="/css/guest.css?v=1775214809" rel="stylesheet">
-<link href="/assets/7e397347/toastr.min.css?v=1790831713" rel="stylesheet">
+<link href="/assets/5c5bdda8/toastr.min.css?v=1790837545" rel="stylesheet">
 <script>var params = {};
 
             var url = function(route, params){
@@ -48,7 +48,7 @@
         Причина: отрицательный баланс -2 грн    </p>
 
     <div style="margin: 0 auto">
-        <div id="pjax-liqpay-container" class="pjax-container" data-pjax-container="" data-pjax-push-state data-pjax-timeout="4000"><form method="POST" action="https://www.liqpay.ua/api/checkout" accept-charset="utf-8"><input type="hidden" name="data" value="eyJwdWJsaWNfa2V5IjoiaTk4NTU4MzAxMjgiLCJhY3Rpb24iOiJwYXkiLCJ2ZXJzaW9uIjoiMyIsImFtb3VudCI6MTAwMCwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6Ilx1MDQzZlx1MDQzZVx1MDQzZlx1MDQzZVx1MDQzYlx1MDQzZFx1MDQzNVx1MDQzZFx1MDQzOFx1MDQzNSBcdTA0MzFcdTA0MzBcdTA0M2JcdTA0MzBcdTA0M2RcdTA0NDFcdTA0MzAiLCJvcmRlcl9pZCI6IjA5MjdhZWZhYzcxN2Q0OTQtMTc5MDgzNTA1NSIsInJlc3VsdF91cmwiOiJodHRwOlwvXC9jcm0tbWFrbGVyLWtyLnJlYWx0c29mdC5uZXRcL2JpbGxpbmdcL3BheW1lbnQiLCJzZXJ2ZXJfdXJsIjoiaHR0cDpcL1wvY3BhbmVsLnJlYWx0c29mdC5uZXRcL2xpcXBheVwvbm90aWZ5In0="><input type="hidden" name="signature" value="NUC2I+bBSBbn8CKbnMvaEkv+XbU="><div class="input-group"><input type="text" class="form-control" name="amount" value="1000" onchange="
+        <div id="pjax-liqpay-container" class="pjax-container" data-pjax-container="" data-pjax-push-state data-pjax-timeout="4000"><form method="POST" action="https://www.liqpay.ua/api/checkout" accept-charset="utf-8"><input type="hidden" name="data" value="eyJwdWJsaWNfa2V5IjoiaTk4NTU4MzAxMjgiLCJhY3Rpb24iOiJwYXkiLCJ2ZXJzaW9uIjoiMyIsImFtb3VudCI6MTAwMCwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6Ilx1MDQzZlx1MDQzZVx1MDQzZlx1MDQzZVx1MDQzYlx1MDQzZFx1MDQzNVx1MDQzZFx1MDQzOFx1MDQzNSBcdTA0MzFcdTA0MzBcdTA0M2JcdTA0MzBcdTA0M2RcdTA0NDFcdTA0MzAiLCJvcmRlcl9pZCI6IjA5MjdhZWZhYzcxN2Q0OTQtMTc5MDgzODU1NCIsInJlc3VsdF91cmwiOiJodHRwOlwvXC9jcm0tbWFrbGVyLWtyLnJlYWx0c29mdC5uZXRcL2JpbGxpbmdcL3BheW1lbnQiLCJzZXJ2ZXJfdXJsIjoiaHR0cDpcL1wvY3BhbmVsLnJlYWx0c29mdC5uZXRcL2xpcXBheVwvbm90aWZ5In0="><input type="hidden" name="signature" value="Bo/W97O6G6pe4EoqpSkqVAHHRpE="><div class="input-group"><input type="text" class="form-control" name="amount" value="1000" onchange="
             $(&#039;#liqpay-submit&#039;).prop(&#039;disabled&#039;, true);
             $.pjax.reload({container:&#039;#pjax-liqpay-container&#039;, replace: true, url: &#039;billing/index?amount=&#039; + this.value});
         "><span class="input-group-btn"><button type="submit" id="liqpay-submit" class="btn btn-pay btn-success">Пополнить</button></span></div></form></div>    </div>
@@ -62,19 +62,19 @@
     <script src="/assets/840492b2/jquery.js?v=1651580277"></script>
 <script src="/assets/71fff4d9/yii.js?v=1651580275"></script>
 <script src="/assets/a2642462/jquery.pjax.js?v=1651580277"></script>
-<script src="/assets/bcb8fa25/js.cookie.js?v=1790831713"></script>
-<script src="/assets/a76964a5/js/bootstrap.js?v=1790831713"></script>
+<script src="/assets/9eda54ca/js.cookie.js?v=1790837545"></script>
+<script src="/assets/850bca4a/js/bootstrap.js?v=1790837545"></script>
 <script src="/assets/a29967ea/js/bootstrap-switch.min.js?v=1651580280"></script>
 <script src="/assets/8e11b7aa/underscore-min.js?v=1651580279"></script>
 <script src="/assets/a38aaf64/min/moment-with-locales.min.js?v=1651580278"></script>
 <script src="/assets/83e58b4d/jquery.cookie.js?v=1651580279"></script>
 <script src="/assets/35f7119d/jquery.storageapi.js?v=1651580279"></script>
 <script src="/assets/1438be71/jquery.slimscroll.min.js?v=1651580280"></script>
-<script src="/assets/1a9c24ef/jquery.uniform.min.js?v=1790831713"></script>
+<script src="/assets/38fe8a00/jquery.uniform.min.js?v=1790837545"></script>
 <script src="/assets/6ceef7f7/jquery.blockUI.js?v=1651580280"></script>
 <script src="/assets/9fcc3045/bootstrap-hover-dropdown.min.js?v=1651580280"></script>
 <script src="/js/app.js?v=1783451021"></script>
-<script src="/assets/7e397347/toastr.min.js?v=1790831713"></script>
+<script src="/assets/5c5bdda8/toastr.min.js?v=1790837545"></script>
 <script>jQuery(function ($) {
 jQuery(document).pjax("#pjax-liqpay-container a", "#pjax-liqpay-container", {"push":true,"replace":false,"timeout":4000,"scrollTo":false});
 jQuery(document).on('submit', "#pjax-liqpay-container form[data-pjax]", function (event) {jQuery.pjax.submit(event, '#pjax-liqpay-container', {"push":true,"replace":false,"timeout":4000,"scrollTo":false});});
