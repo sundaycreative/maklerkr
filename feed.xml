@@ -5027,4 +5027,83 @@ ID 146</description>
         <created_at>2026-09-23T13:50:35+03:00</created_at>
         <updated_at>2026-10-02T10:41:33+03:00</updated_at>
     </item>
+    <item internal-id="145">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>142</article>
+        <title>Продаж / Квартира / Коротченко, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг. Продаж 2-кімнатної квартири на 2/9 поверх, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
+&#13;
+Пропонується до продажу затишна 2-кімнатна квартира площею 45 м². Житлова площа 27 м², кухня - 7 м².&#13;
+&#13;
+Квартира не кутова, тепла, з комфортним плануванням. Є велика засклена лоджія та комора.&#13;
+&#13;
+Квартира під ремонт, частково замінена трубна розводка.&#13;
+Боргів немає.&#13;
+&#13;
+Будинок має чистий під'їзд, доглянуту прибудинкову територію та хороших сусідів.&#13;
+&#13;
+Поруч - усе необхідне для комфортного життя: магазини, зупинки громадського транспорту та інша інфраструктура.&#13;
+&#13;
+Зацікавила квартира? Телефонуйте - домовимося про перегляд!&#13;
+&#13;
+ID 142&#13;
+&#13;
+</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="7505">Коротченко</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9721533</map_lat>
+            <map_lng>33.4447476</map_lng>
+            <landmark>173 квартал</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7505">Коротченка</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>2</floor>
+        <area_total>46</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">15500</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d4a5a4ed284f4afd055918858ad6df09.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/e09b60ef474869f3e011e31c5de59f3e.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/53e2fa3a288350bc33d0f9ac2f5a2245.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/8b6ccdd7a99b1cd828226dcf1433d19c.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/ccbbe3f0828085029f73898601626a36.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9447310024ae1d71092d41169eefe0b1.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>173 квартал</tag>
+        </tags>
+        <created_at>2026-09-22T13:06:01+03:00</created_at>
+        <updated_at>2026-10-02T11:24:00+03:00</updated_at>
+    </item>
 </response>
