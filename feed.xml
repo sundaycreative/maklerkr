@@ -4865,4 +4865,87 @@ ID 150</description>
         <created_at>2026-10-01T13:30:36+03:00</created_at>
         <updated_at>2026-10-01T13:45:39+03:00</updated_at>
     </item>
+    <item internal-id="148">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>145</article>
+        <title>Продаж / Квартира / 5-й Зарічний, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг, мікрорайон 5 Зарічний, район Бродвею - продається гарна 2-кімнатна квартира!&#13;
+&#13;
+Пропонується 2-кімнатна квартира на 6-му поверсі 9-поверхового будинку.&#13;
+&#13;
+Площа: 47 м² / 31 м² / 6 м².&#13;
+&#13;
+Квартира в з ремонтом, в гарному житловому стані, не кутова. Усі вікна - металопластикові. Встановлені лічильники, є бойлер, на будинку теплолічильник.&#13;
+&#13;
+Квартира дуже світла, тепла та комфортна для проживання.&#13;
+&#13;
+Будинок розташований у зручному місці, поряд &quot;Терра&quot;, &quot;Дивоцвіт&quot;, та безліч магазинів.&#13;
+Поруч гарна транспортна розв'язка, в кроковій доступності станція швидкісного трамвая.&#13;
+&#13;
+Боргів немає.&#13;
+Документи готові до продажу.&#13;
+&#13;
+Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!&#13;
+ID 145</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="14267">5-й Заречный</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>48.0011062</map_lat>
+            <map_lng>33.4963709</map_lng>
+            <landmark>5 заречный</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="14267">5-й Зарічний</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>6</floor>
+        <area_total>47</area_total>
+        <area_living>31</area_living>
+        <area_kitchen>6</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">24000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/54f3cab6037c716491da486fe7b7de03.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/77803ed67e1fa7e337a2f04ce54d1fcd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3a2d5b9907d847eee14caa61a6b24a4d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7428025f78e342e746b1462657546ba8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/264e8baef41fb24c7ea365bab569d846.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a9b6c3d4170ce581a2b49b5fcf94c3f3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8477d2668c59868be205101aa5f209ef.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/430c21431f0eab8be6bb906f298201c5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ee4293e573da5417f01abb8c100c20b4.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">капитальный ремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>5 заречный</tag>
+        </tags>
+        <created_at>2026-09-23T13:03:13+03:00</created_at>
+        <updated_at>2026-10-02T10:07:28+03:00</updated_at>
+    </item>
 </response>
