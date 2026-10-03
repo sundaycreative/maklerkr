@@ -5190,4 +5190,77 @@ ID 151</description>
         <created_at>2026-10-02T19:07:35+03:00</created_at>
         <updated_at>2026-10-03T10:02:18+03:00</updated_at>
     </item>
+    <item internal-id="147">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>144</article>
+        <title>Продаж / Квартира / Маршала Василевського, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг, Бульвар Миколи Вороного (Бульвар Маршала Василевського) - продається гарна 2-кімнатна квартира!&#13;
+&#13;
+Пропонується затишна 2-кімнатна квартира на комфортному 5-му поверсі 9-поверхового будинку.&#13;
+&#13;
+Площа: 50 м² / 28 м² / 8 м². &quot;Чешка&quot;&#13;
+&#13;
+Квартира під ремонт, не кутова. Усі вікна - дерев'янні. Є бойлер, на будинку теплолічильник.&#13;
+&#13;
+Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!&#13;
+ID 144</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="7638">Маршала Василевского</street>
+            <street_type value="boulevard">бульвар</street_type>
+            <map_lat>47.9652677</map_lat>
+            <map_lng>33.4495377</map_lng>
+            <landmark>бмв</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7638">Маршала Василевського</street_uk>
+            <street_type_uk value="boulevard">бульвар</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>5</floor>
+        <area_total>50</area_total>
+        <area_living>28</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">16000</price>
+        <images>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/d459066b957968cd8b90bca6beb3a398.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/a7f4b0d72b6265dadd591b958b913cff.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/b403e932ec581e28eab680a6c8f10985.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/7288b7d6f078f480ea729b9bd3fc71c1.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/b5a186d6ad71ab4528819daa1d08574a.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/bb197ee43128dfcbde9d83cf6009ba01.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/5e7f9f04fdfa6e79c3799d27da968c6b.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>бмв</tag>
+        </tags>
+        <created_at>2026-09-23T11:20:34+03:00</created_at>
+        <updated_at>2026-10-03T10:44:02+03:00</updated_at>
+    </item>
 </response>
