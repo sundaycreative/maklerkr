@@ -5362,4 +5362,104 @@ ID 152&#13;
         <created_at>2026-10-03T11:06:00+03:00</created_at>
         <updated_at>2026-10-03T11:25:52+03:00</updated_at>
     </item>
+    <item internal-id="21">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>21</article>
+        <title>Продаж 1-к чешка з ремонтом 173 квартал поруч Ювілейна БМВ Сонячний</title>
+        <description>Кривий Ріг. Продається гарна 1-к квартира з ремонтом в районі 173 квартала.&#13;
+&#13;
+Поверх: 1/9, (чешка) квартира тепла та не кутова&#13;
+Планування покращене, функціональне: кімната окремо, великий коридор, затишна кухня&#13;
+Площа 35/17/8м2&#13;
+&#13;
+Стан: якісний ремонт; вікна та труби м/п, нова сантехніка, ванна у кахлі, залізні вхідні двері, підлога – лінолеум та плитка. Високий цоколь. Квартира без балкона.&#13;
+&#13;
+Квартира з меблями (нова кухня та шкаф-купе). &#13;
+&#13;
+Лічильники на воду, газ, світло. Бойлер.&#13;
+Теплолічильник на будинку&#13;
+Поруч: Все є для комфортного життя&#13;
+Гарна транспортна розв'язка, поруч зупинка та ТЦ Молодіжний.&#13;
+&#13;
+Зацікавились? Телефонуйте!&#13;
+&#13;
+Запрошую до співпраці власників нерухомості! Продаю швидко та вигідно.&#13;
+ID 21&#13;
+Є відеоогляд https://youtu.be/Uv4OAnFFwIc</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="7505">Коротченко</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.972319</map_lat>
+            <map_lng>33.442114</map_lng>
+            <apartment>109</apartment>
+            <landmark>173 квартал</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7505">Коротченка</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>1</floor>
+        <area_total>35</area_total>
+        <area_living>17</area_living>
+        <area_kitchen>8</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">16000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/690f84083e19b1144cdd291ac86dd362.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/3affc239a01e936759a93f48642917df.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/d2e42a167442267162b7119bf23146b3.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/b04c230e04c2e8f282cde82290147455.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/9dba8bd54328cee4bbd95965b26dea03.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/940445a6ab5bafa2ba40e8be2324db78.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/f25cac17432816098befcb7bca235552.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/cc5946cdca5a3d4caa8f6f334f34f909.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/1db10c32dd9d06dccddc7023d3802333.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/1034034d180640cf9937ab070e32da02.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/585ba0fe5407f1d80f0b1ec9590c0dd4.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/a2de0f20c01fe3850db0a4a26ad7c638.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/30aae94481692ede9f60d9e36c27acf7.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/bb0eafba92ae2d928ad5b1b11239aeb1.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/6793d071ac075f7a5be21e1f08fcb57c.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/5cc1f972453b787baef16620b512526b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/f0c30ac18c6cbb9341ba401d94610e2a.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/7f8f971e1423627816520ca9a23bc010.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/9e1129ecfed4a100a60b06b85e5106f2.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/26d59384818810de12575ac441984086.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/04/0b54f9b4189393a3d64fa341de28c7dd.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>эксклюзив</tag>
+            <tag>173 квартал</tag>
+        </tags>
+        <created_at>2026-04-19T10:11:29+03:00</created_at>
+        <updated_at>2026-10-03T16:39:56+03:00</updated_at>
+    </item>
 </response>
