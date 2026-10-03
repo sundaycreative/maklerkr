@@ -5263,4 +5263,103 @@ ID 144</description>
         <created_at>2026-09-23T11:20:34+03:00</created_at>
         <updated_at>2026-10-03T10:44:02+03:00</updated_at>
     </item>
+    <item internal-id="155">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>152</article>
+        <title>Продаж / Квартира / вул. 7-й Зарічний, Кривий Ріг</title>
+        <description>Кривий Ріг. Продається гарна, видова 1 кімнатна квартира з косметичним ремонтом, на 7 Зарічному.&#13;
+Квартира тепла (південна сторона), кутова з балконом та лоджією.&#13;
+Планування покращене: кімната окремо, великий коридор з місткою коморою, затишна кухня.&#13;
+Площа: 39/20/8 м².&#13;
+&#13;
+Стан:&#13;
+Косметичний ремонт.&#13;
+Сантехніка нова, ванна та туалет в кахлі.&#13;
+Залізні вхідні двері, підлога - лінолеум та плитка.&#13;
+Балкон та лоджія засклені та обшиті металопластиком.&#13;
+&#13;
+Є бойлер.&#13;
+Лічильники на воду, газ, електроенергію.&#13;
+Теплолічильник на будинку.&#13;
+&#13;
+Інфраструктура:&#13;
+Поруч усе необхідне для комфортного життя.&#13;
+Зручна транспортна розв’язка, поряд зупинка.&#13;
+Багато магазинів, ринок, супермаркети.&#13;
+Район екологічно чистий - поруч річка.&#13;
+&#13;
+Боргів, та проблем немає.&#13;
+&#13;
+Зацікавились? Телефонуйте.&#13;
+Запрошую до співпраці власників нерухомості - продаю швидко та вигідно.&#13;
+ID 152&#13;
+Є відеоогляд https://youtu.be/S2beeAn5dVA</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="">7-й Заречный</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.996867334508</map_lat>
+            <map_lng>33.475801460445</map_lng>
+            <landmark></landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>7</floor>
+        <area_total>39</area_total>
+        <area_living>20</area_living>
+        <area_kitchen>8</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">16000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/63d18bc399b70ee1e5932575315c9a2a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/307639aa6f93a0a0ba3f5ec7a75fc874.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/57aff90c7ab21aff092fb87b09359038.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/96bf1c582742855f97e9fe204b1d15f8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/989b0ce124d712ad67556e20eebaded7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b1fb0a2627dbd8227a51c81ae45b6dd5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4e5ecd0a81533f044f0be746fc5943cb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/35affaefa555684dd4e9d2e3120c1bae.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ccd7a8ed0b5b9b073d3f23e775e4d4ed.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2be0a690fc9dff173e1e185fb1dd83d6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0a42d760f3c068d5cd7cfed9940f0565.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/94795e4a44fa504776512c8fb803197e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6032c6ad86958177767843b08d98d5c6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/35c03fe1868ead4c3335364dade09376.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/12f314298f20a12792011a8d37942991.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d9591c392b5587e5fc807b1ae32b30fc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6383b6a8dc450360e0dae5b9f3b01dde.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5a8d3083a64769579263f850774ad811.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e2d9d955eb3f791db893acd4a88b9b6a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/98fcfcd28680e372604eaf8246ea61c5.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>7 заречный</tag>
+        </tags>
+        <created_at>2026-10-03T11:06:00+03:00</created_at>
+        <updated_at>2026-10-03T11:25:52+03:00</updated_at>
+    </item>
 </response>
