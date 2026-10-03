@@ -5160,7 +5160,7 @@ ID 151</description>
         <area_living>28</area_living>
         <area_kitchen>8</area_kitchen>
         <room_count>2</room_count>
-        <price type="per_object" currency="USD">20000</price>
+        <price type="per_object" currency="USD">18000</price>
         <images>
             <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/00b29570878742783296d21b9edb1516.jpg</image_url>
             <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/610a56f2468211bb24b73277620bf43b.jpg</image_url>
@@ -5188,6 +5188,6 @@ ID 151</description>
             <tag>космонавтов</tag>
         </tags>
         <created_at>2026-10-02T19:07:35+03:00</created_at>
-        <updated_at>2026-10-02T19:52:31+03:00</updated_at>
+        <updated_at>2026-10-03T10:02:18+03:00</updated_at>
     </item>
 </response>
