@@ -2242,97 +2242,6 @@ ID 79&#13;
         <created_at>2026-07-09T12:24:39+03:00</created_at>
         <updated_at>2026-09-11T19:36:07+03:00</updated_at>
     </item>
-    <item internal-id="85">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>82</article>
-        <title>Продам 1-к квартиру ремонт на Східному 1 по вул Симонова</title>
-        <description>Кривий Ріг. Продається 1-к квартира з ремонтом на Східному 1 по вул. 21-ї бригади Національної гвардії (Сімонова)&#13;
-&#13;
-Поверх: 4/9, квартира тепла та не кутова&#13;
-&#13;
-Планування функціональне: кімната окремо, невеликий коридор, затишна кухня&#13;
-&#13;
-Стан: Якісний ремонт; нова проводка, вікна та труби м/п, натяжні стелі, нова сантехніка, душова кабінка, санвузол у кахлі (не дороблено, матеріал для завершення є), залізні вхідні двері, підлога – ламінат та плитка, балкон засклений та обшитий м/п&#13;
-&#13;
-Квартира з вбудованими меблями на кухні&#13;
-&#13;
-Кондиціонер та бойлер&#13;
-&#13;
-Лічильники на воду, світло&#13;
-&#13;
-Теплолічильник на будинку&#13;
-&#13;
-Поруч: Все для комфортного життя&#13;
-&#13;
-Прописаних та проблем немає.&#13;
-&#13;
-Пропозиція від рієлтора.&#13;
-&#13;
-Зацікавились? Телефонуйте! 0971732450&#13;
-&#13;
-ID 82&#13;
-Є відеоогляд https://youtu.be/TzmjcX2-c24</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7883">Долгинцевский</district>
-            <street value="">Симонова</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9385408</map_lat>
-            <map_lng>33.445722</map_lng>
-            <landmark>Восточный 1</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7883">Довгинцівський</district_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>4</floor>
-        <area_total>32</area_total>
-        <area_living>17</area_living>
-        <area_kitchen>7.5</area_kitchen>
-        <room_count>1</room_count>
-        <price type="per_object" currency="USD">14500</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3726d9a9ae42898817d71ade487731da.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c81ed3df67e812a7f36c7645385728f6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e3ca786414737a56abacb3860a658314.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ac2b174c36f9a7f1e61a7a77ab3deba2.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0355e2f0ddb400415eeec7fb44112d96.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db79dd58d458bb9212d3e1ffcc3bd209.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3c1e5a65ea155e381bfb2670504be648.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ca9ec2bbaca74ec9285a11b463d20a81.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/eb5b8368c9a0c6a244cf9478a6e8a2e7.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bb30962caae123398f7c74f77088ef89.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8dc35a95d91b0d4ae6eb04d37e7e9b57.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/34609907f81c73059f0d2ae1e8f6278d.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>восточный 1</tag>
-        </tags>
-        <created_at>2026-07-14T17:37:54+03:00</created_at>
-        <updated_at>2026-09-11T19:32:33+03:00</updated_at>
-    </item>
     <item internal-id="30">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -5461,5 +5370,96 @@ ID 21&#13;
         </tags>
         <created_at>2026-04-19T10:11:29+03:00</created_at>
         <updated_at>2026-10-03T16:39:56+03:00</updated_at>
+    </item>
+    <item internal-id="85">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>82</article>
+        <title>Продам 1-к квартиру ремонт на Східному 1 по вул Симонова</title>
+        <description>Кривий Ріг. Продається 1-к квартира з ремонтом на Східному 1 по вул. 21-ї бригади Національної гвардії (Сімонова)&#13;
+&#13;
+Поверх: 4/9, квартира тепла та не кутова&#13;
+&#13;
+Планування функціональне: кімната окремо, невеликий коридор, затишна кухня&#13;
+&#13;
+Стан: Якісний ремонт; нова проводка, вікна та труби м/п, натяжні стелі, нова сантехніка, душова кабінка, санвузол у кахлі (не дороблено, матеріал для завершення є), залізні вхідні двері, підлога – ламінат та плитка, балкон засклений та обшитий м/п&#13;
+&#13;
+Квартира з вбудованими меблями на кухні&#13;
+&#13;
+Кондиціонер та бойлер&#13;
+&#13;
+Лічильники на воду, світло&#13;
+&#13;
+Теплолічильник на будинку&#13;
+&#13;
+Поруч: Все для комфортного життя&#13;
+&#13;
+Прописаних та проблем немає.&#13;
+&#13;
+Пропозиція від рієлтора.&#13;
+&#13;
+Зацікавились? Телефонуйте! 0971732450&#13;
+&#13;
+ID 82&#13;
+Є відеоогляд https://youtu.be/TzmjcX2-c24</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7883">Долгинцевский</district>
+            <street value="">Симонова</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9385408</map_lat>
+            <map_lng>33.445722</map_lng>
+            <landmark>Восточный 1</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7883">Довгинцівський</district_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>4</floor>
+        <area_total>32</area_total>
+        <area_living>17</area_living>
+        <area_kitchen>7.5</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">13000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3726d9a9ae42898817d71ade487731da.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c81ed3df67e812a7f36c7645385728f6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e3ca786414737a56abacb3860a658314.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ac2b174c36f9a7f1e61a7a77ab3deba2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0355e2f0ddb400415eeec7fb44112d96.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db79dd58d458bb9212d3e1ffcc3bd209.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3c1e5a65ea155e381bfb2670504be648.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ca9ec2bbaca74ec9285a11b463d20a81.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/eb5b8368c9a0c6a244cf9478a6e8a2e7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bb30962caae123398f7c74f77088ef89.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8dc35a95d91b0d4ae6eb04d37e7e9b57.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/34609907f81c73059f0d2ae1e8f6278d.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>восточный 1</tag>
+        </tags>
+        <created_at>2026-07-14T17:37:54+03:00</created_at>
+        <updated_at>2026-10-08T15:16:07+03:00</updated_at>
     </item>
 </response>
