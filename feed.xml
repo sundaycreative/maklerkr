@@ -5107,31 +5107,21 @@ ID 142&#13;
         <created_at>2026-09-22T13:06:01+03:00</created_at>
         <updated_at>2026-10-02T11:24:00+03:00</updated_at>
     </item>
-    <item internal-id="154">
+    <item internal-id="147">
         <status>active</status>
         <is_new_building>0</is_new_building>
-        <article>151</article>
-        <title>Продаж / Квартира / Качалова, Саксаганський, Кривий Ріг</title>
-        <description>Кривий Ріг, вул. Святителя Василя Великого (Качалова) р-н гост Київ - продається гарна 2-кімнатна квартира!&#13;
+        <article>144</article>
+        <title>Продаж / Квартира / Маршала Василевського, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг, Бульвар Миколи Вороного (Бульвар Маршала Василевського) - продається гарна 2-кімнатна квартира!&#13;
 &#13;
-Пропонується затишна 2-кімнатна квартира на комфортному 2-му поверсі 9-поверхового будинку.&#13;
+Пропонується затишна 2-кімнатна квартира на комфортному 5-му поверсі 9-поверхового будинку.&#13;
 &#13;
-Площа: 50 м² / 28 м² / 8 м².&#13;
+Площа: 50 м² / 28 м² / 8 м². &quot;Чешка&quot;&#13;
 &#13;
-Квартира в гарному житловому стані, не кутова. Усі вікна - металопластикові. &#13;
-Зроблена велика лоджія на всю довжину квартири.&#13;
-У квартирі залишається меблі, пральна машина, холодильник, телевізор. Встановлено бойлер, є кондиціонер.&#13;
-Встановлені лічильники, на будинку теплолічильник.&#13;
-&#13;
-Квартира дуже тепла та комфортна для проживання.&#13;
-&#13;
-Будинок розташований у зручному місці, поряд АТБ та безліч магазинів.&#13;
-Поруч гарна транспортна розв'язка, в кроковій доступності.&#13;
-&#13;
-Боргів немає.&#13;
+Квартира під ремонт, не кутова. Усі вікна - дерев'янні. Є бойлер, на будинку теплолічильник.&#13;
 &#13;
 Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!&#13;
-ID 151</description>
+ID 144</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -5141,40 +5131,39 @@ ID 151</description>
             <county value="1753">Криворожский горсовет</county>
             <city value="1757">Кривой Рог</city>
             <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="11775">Качалова</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9461958</map_lat>
-            <map_lng>33.4189032</map_lng>
-            <landmark>космонавтов</landmark>
+            <district value="7886">Покровский</district>
+            <street value="7638">Маршала Василевского</street>
+            <street_type value="boulevard">бульвар</street_type>
+            <map_lat>47.9652677</map_lat>
+            <map_lng>33.4495377</map_lng>
+            <landmark>бмв</landmark>
             <region_uk value="1658">Дніпропетровська область</region_uk>
             <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
             <city_uk value="1757">Кривий Ріг</city_uk>
             <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="11775">Качалова</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7638">Маршала Василевського</street_uk>
+            <street_type_uk value="boulevard">бульвар</street_type_uk>
         </location>
         <total_floors>9</total_floors>
-        <floor>2</floor>
+        <floor>5</floor>
         <area_total>50</area_total>
         <area_living>28</area_living>
-        <area_kitchen>8</area_kitchen>
+        <area_kitchen>9</area_kitchen>
         <room_count>2</room_count>
         <price type="per_object" currency="USD">16000</price>
         <images>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/00b29570878742783296d21b9edb1516.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/610a56f2468211bb24b73277620bf43b.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/35e409db8923445200d18a14ea0a887b.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/5b3487a7a669e457105ce239a303098a.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/476b2f3a168bf887ee729a7b7c4c6f53.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/452e9b9df0d43bec1aa27fe969f4ddf8.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/008ff3c38507548e820120840dde33b9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5c084695dd25dd73facdbe6b2b882706.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/d459066b957968cd8b90bca6beb3a398.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/a7f4b0d72b6265dadd591b958b913cff.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/b403e932ec581e28eab680a6c8f10985.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/7288b7d6f078f480ea729b9bd3fc71c1.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/b5a186d6ad71ab4528819daa1d08574a.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/bb197ee43128dfcbde9d83cf6009ba01.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/5e7f9f04fdfa6e79c3799d27da968c6b.jpg</image_url>
         </images>
         <properties>
             <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
             <property attribute="property_51" label="дополнительно">теневая база</property>
             <property attribute="property_52" label="Отопление">централизованное</property>
         </properties>
@@ -5186,10 +5175,10 @@ ID 151</description>
             </phones>
         </user>
         <tags>
-            <tag>космонавтов</tag>
+            <tag>бмв</tag>
         </tags>
-        <created_at>2026-10-02T19:07:35+03:00</created_at>
-        <updated_at>2026-10-04T12:08:42+03:00</updated_at>
+        <created_at>2026-09-23T11:20:34+03:00</created_at>
+        <updated_at>2026-10-03T10:44:02+03:00</updated_at>
     </item>
     <item internal-id="155">
         <status>active</status>
@@ -5573,21 +5562,31 @@ ID 154</description>
         <created_at>2026-10-15T19:22:17+03:00</created_at>
         <updated_at>2026-10-16T18:09:02+03:00</updated_at>
     </item>
-    <item internal-id="147">
+    <item internal-id="154">
         <status>active</status>
         <is_new_building>0</is_new_building>
-        <article>144</article>
-        <title>Продаж / Квартира / Маршала Василевського, Покровський, Кривий Ріг</title>
-        <description>Кривий Ріг, Бульвар Миколи Вороного (Бульвар Маршала Василевського) - продається гарна 2-кімнатна квартира!&#13;
+        <article>151</article>
+        <title>Продаж / Квартира / Качалова, Саксаганський, Кривий Ріг</title>
+        <description>Кривий Ріг, вул. Святителя Василя Великого (Качалова) р-н гост Київ - продається гарна 2-кімнатна квартира!&#13;
 &#13;
-Пропонується затишна 2-кімнатна квартира на комфортному 5-му поверсі 9-поверхового будинку.&#13;
+Пропонується затишна 2-кімнатна квартира на комфортному 2-му поверсі 9-поверхового будинку.&#13;
 &#13;
-Площа: 50 м² / 28 м² / 8 м². &quot;Чешка&quot;&#13;
+Площа: 50 м² / 28 м² / 8 м².&#13;
 &#13;
-Квартира під ремонт, не кутова. Усі вікна - дерев'янні. Є бойлер, на будинку теплолічильник.&#13;
+Квартира в гарному житловому стані, не кутова. Усі вікна - металопластикові. &#13;
+Зроблена велика лоджія на всю довжину квартири.&#13;
+У квартирі залишається меблі, пральна машина, холодильник, телевізор. Встановлено бойлер, є кондиціонер.&#13;
+Встановлені лічильники, на будинку теплолічильник.&#13;
+&#13;
+Квартира дуже тепла та комфортна для проживання.&#13;
+&#13;
+Будинок розташований у зручному місці, поряд АТБ та безліч магазинів.&#13;
+Поруч гарна транспортна розв'язка, в кроковій доступності.&#13;
+&#13;
+Боргів немає.&#13;
 &#13;
 Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!&#13;
-ID 144</description>
+ID 151</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -5597,39 +5596,40 @@ ID 144</description>
             <county value="1753">Криворожский горсовет</county>
             <city value="1757">Кривой Рог</city>
             <borough value="1757">Кривой Рог</borough>
-            <district value="7886">Покровский</district>
-            <street value="7638">Маршала Василевского</street>
-            <street_type value="boulevard">бульвар</street_type>
-            <map_lat>47.9652677</map_lat>
-            <map_lng>33.4495377</map_lng>
-            <landmark>бмв</landmark>
+            <district value="7887">Саксаганский</district>
+            <street value="11775">Качалова</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9461958</map_lat>
+            <map_lng>33.4189032</map_lng>
+            <landmark>космонавтов</landmark>
             <region_uk value="1658">Дніпропетровська область</region_uk>
             <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
             <city_uk value="1757">Кривий Ріг</city_uk>
             <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7886">Покровський</district_uk>
-            <street_uk value="7638">Маршала Василевського</street_uk>
-            <street_type_uk value="boulevard">бульвар</street_type_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="11775">Качалова</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
         </location>
         <total_floors>9</total_floors>
-        <floor>5</floor>
+        <floor>2</floor>
         <area_total>50</area_total>
         <area_living>28</area_living>
-        <area_kitchen>9</area_kitchen>
+        <area_kitchen>8</area_kitchen>
         <room_count>2</room_count>
         <price type="per_object" currency="USD">16000</price>
         <images>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/d459066b957968cd8b90bca6beb3a398.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/a7f4b0d72b6265dadd591b958b913cff.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/b403e932ec581e28eab680a6c8f10985.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/7288b7d6f078f480ea729b9bd3fc71c1.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/b5a186d6ad71ab4528819daa1d08574a.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/bb197ee43128dfcbde9d83cf6009ba01.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/5e7f9f04fdfa6e79c3799d27da968c6b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/00b29570878742783296d21b9edb1516.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/610a56f2468211bb24b73277620bf43b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/35e409db8923445200d18a14ea0a887b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/5b3487a7a669e457105ce239a303098a.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/476b2f3a168bf887ee729a7b7c4c6f53.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/452e9b9df0d43bec1aa27fe969f4ddf8.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/10/008ff3c38507548e820120840dde33b9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5c084695dd25dd73facdbe6b2b882706.jpg</image_url>
         </images>
         <properties>
             <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
             <property attribute="property_51" label="дополнительно">теневая база</property>
             <property attribute="property_52" label="Отопление">централизованное</property>
         </properties>
@@ -5641,9 +5641,9 @@ ID 144</description>
             </phones>
         </user>
         <tags>
-            <tag>бмв</tag>
+            <tag>космонавтов</tag>
         </tags>
-        <created_at>2026-09-23T11:20:34+03:00</created_at>
-        <updated_at>2026-10-03T10:44:02+03:00</updated_at>
+        <created_at>2026-10-02T19:07:35+03:00</created_at>
+        <updated_at>2026-10-04T12:08:42+03:00</updated_at>
     </item>
 </response>
