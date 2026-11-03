@@ -1607,6 +1607,89 @@ ID 81&#13;
         <created_at>2026-07-13T00:14:36+03:00</created_at>
         <updated_at>2026-09-08T21:14:20+03:00</updated_at>
     </item>
+    <item internal-id="88">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>85</article>
+        <title>Продаж 3-кімнатної квартири на Сонячному</title>
+        <description> Продаж затишної 3-кімнатної квартири на Сонячному, (навпроти школи №119)&#13;
+&#13;
+Якщо ви шукаєте комфортну квартиру для сімейного проживання в районі з розвиненою інфраструктурою, цей варіант вартий вашої уваги.&#13;
+&#13;
+Квартира має загальну площу 64 м². Не кутова, тепла й дуже світла. Простора кухня стане чудовим місцем для сімейних вечерь, а з вікон кухні та вітальні відкривається гарний панорамний вид, який не перекривають інші будівлі. Планування практичне: вікна виходять на дві сторони, є окремі балкон і лоджія.&#13;
+&#13;
+Житло повністю готове до проживання. Виконано якісний ремонт, встановлено металопластикові вікна, замінено міжкімнатні двері, встановлено новий кондиціонер. Балкон і лоджія також відремонтовані та засклені сучасними металопластиковими конструкціями.&#13;
+&#13;
+Квартира продається з усіма необхідними меблями та технікою. Новим власникам залишаються нова пральна машина, холодильник із системою No Frost, бойлер, нове ліжко, шафа-купе та повністю облаштована дитяча кімната.&#13;
+&#13;
+Будинок розташований у районі з чудово розвиненою інфраструктурою. У кількох хвилинах пішки знаходяться школи, дитячі садки, супермаркети, магазини та зупинки громадського транспорту.&#13;
+&#13;
+Ця квартира стане відмінним вибором як для комфортного проживання, так і для вигідної здачі в оренду - без необхідності додаткових вкладень.&#13;
+ID 85</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="14366">Солнечный микрорайон</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9558908</map_lat>
+            <map_lng>33.4454888</map_lng>
+            <landmark>солнечный</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="14366">Сонячний мікрорайон</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>6</floor>
+        <area_total>64</area_total>
+        <area_living>40</area_living>
+        <area_kitchen>10</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">33000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3f644a8499304183292a4a3689acf169.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/cb27910dd5b006b1ca32b6c026642019.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e46bd1f909e71a285284d7348e915807.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/79ab44645101bce37fd5731518a455e9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/92dd3f6bd0f6720c08ec2134855381c8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/15d2bce084395be536af33c816b8ada0.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/19fd6c8c97fae10d953d711e2fe80e4c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e2085f8eef3b3260aebf483327dc4796.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2004ec0a9abeb4999b4adf8ee422e729.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0be62ca3c3faeb3d525254cda6e42f53.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/012d09323b05ac359772ffd28c3c1e32.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/cedd9306667920bfc254db51a455e06b.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>солнечный</tag>
+        </tags>
+        <created_at>2026-07-17T12:38:59+03:00</created_at>
+        <updated_at>2026-09-18T12:19:15+03:00</updated_at>
+    </item>
     <item internal-id="89">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -1883,6 +1966,93 @@ ID 95&#13;
         </tags>
         <created_at>2026-07-26T16:05:56+03:00</created_at>
         <updated_at>2026-09-11T19:24:25+03:00</updated_at>
+    </item>
+    <item internal-id="106">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>103</article>
+        <title>Продаж 3-к квартира на Східному 1 по вул Єгора Біркуна</title>
+        <description>Кривий Ріг. Продаж просторої 3-кімнатної квартири на вул. Водоп’янова / Биркуна&#13;
+&#13;
+Пропонується до продажу світла, тепла та затишна 3-кімнатна квартира, розташована на 3-му поверсі 9-поверхового будинку.&#13;
+&#13;
+Основні характеристики:&#13;
+&#13;
+площа - 64 м²;&#13;
+балкон і лоджія;&#13;
+квартира утеплена зовні;&#13;
+встановлено кондиціонери;&#13;
+повністю замінені всі труби;&#13;
+дві місткі кладові для зручного зберігання речей;&#13;
+встановлена сигналізація та охоронна система;&#13;
+продається з меблями та побутовою технікою;&#13;
+готова до проживання без додаткових вкладень.&#13;
+&#13;
+Окремою перевагою є доглянутий під’їзд і спокійні, доброзичливі сусіди.&#13;
+&#13;
+У квартирі вже ніхто не зареєстрований, що дозволяє швидко оформити угоду.&#13;
+&#13;
+За додатковою інформацією телефонуйте або пишіть. Із задоволенням відповімо на всі ваші запитання та домовимося про перегляд.&#13;
+ID 103</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7883">Долгинцевский</district>
+            <street value="7699">Водопьянова</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9399102</map_lat>
+            <map_lng>33.4407615</map_lng>
+            <landmark>Восточный 1</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7883">Довгинцівський</district_uk>
+            <street_uk value="7699">Водоп'янова</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>3</floor>
+        <area_total>64</area_total>
+        <area_living>38</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">45000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e47ce02e866ced82c55eeb4fc92bcdc9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b4d39aeb9bab9638148176c7924ed69d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9f2e180072d1e0e3c2b3f2237d91725.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d6051211ffe587ca39be6449ded11a09.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3de8160cfec6ebca15015fb4db7b0421.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3688da3629a97c039a1a177ae5a22313.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/500deb70197b04275d95e3923c4759a7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/18fcc06e0d4084ce14f23c5fa3105a4f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db50ad79cdef9067d9adb42555f2a8f0.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">евроремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>восточный 1</tag>
+        </tags>
+        <created_at>2026-07-27T18:45:19+03:00</created_at>
+        <updated_at>2026-08-05T21:59:33+03:00</updated_at>
     </item>
     <item internal-id="60">
         <status>active</status>
@@ -2342,6 +2512,97 @@ ID 2&#13;
         </tags>
         <created_at>2026-04-08T11:43:37+03:00</created_at>
         <updated_at>2026-09-15T09:55:38+03:00</updated_at>
+    </item>
+    <item internal-id="42">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>42</article>
+        <title>Продаж 1-кімнатна квартира на  5 Зарічному</title>
+        <description>Продаж 1-кімнатна квартира на  5 Зарічному.&#13;
+&#13;
+Загальна площа - 38,7м. 8 поверх 9-поверхового будинку.кухня 8,5 .кімната 17,2&#13;
+&#13;
+Квартира покращеного планування з гардеробною. Не сонячна сторона, тому в квартирі комфортно в будь-яку пору року.&#13;
+&#13;
+Будинок ОСББ, доглянутий та охайний. Чистий під’їзд, справний ліфт, впорядкований двір.&#13;
+&#13;
+У квартирі залишається:&#13;
+• кондиціонер Samsung Split (на гарантії, до -15 градусів );&#13;
+• новий бойлер (на гарантії);&#13;
+• кухонний гарнітур.&#13;
+- нові радіатори на опалення &#13;
+Також гарний тиск води та опалення взимку завжди &#13;
+&#13;
+Квартира готова до проживання або здачі в оренду.&#13;
+&#13;
+Поруч знаходяться магазини, супермаркети, зупинки громадського транспорту(тролейбус,швидкісний,маршрутки)школи та дитячі садки,у сусідньому будинку укр пошта,далі Ринок Босфор(2хв пішки). &#13;
+&#13;
+Документи в повному порядку:&#13;
+• один власник;&#13;
+• відсутні зареєстровані особи;&#13;
+• немає заборгованостей за комунальними послугами;&#13;
+• швидкий вихід на угоду.&#13;
+Зацікавились? Телефонуйте! &#13;
+ID 42</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="14267">5-й Заречный</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9961689</map_lat>
+            <map_lng>33.4904984</map_lng>
+            <apartment>45</apartment>
+            <landmark>заречный</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="14267">5-й Зарічний</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>8</floor>
+        <area_total>38.7</area_total>
+        <area_living>17</area_living>
+        <area_kitchen>8.5</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">18000</price>
+        <images>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/8f624545a82fa2a4b4fa50e8ca69041d.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/a02a68be783424610ae6560b80a78941.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/c5ab4c79e54d6403b58432ab4fa9c5ef.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/7d3b09834e84ece0900f7073c68c4db8.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/178f7317a92bf6838eb4a5797713980b.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/dba7a164ceeed69ffd0a35038e1b0da8.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/92ae832f1c5db4129334244cb3aa5521.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/62af03bd5d2a265fbf974db4776f1354.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>5 заречный</tag>
+        </tags>
+        <created_at>2026-06-15T17:49:25+03:00</created_at>
+        <updated_at>2026-09-15T12:08:53+03:00</updated_at>
     </item>
     <item internal-id="130">
         <status>active</status>
@@ -2912,6 +3173,250 @@ ID 112</description>
         </tags>
         <created_at>2026-08-07T16:41:26+03:00</created_at>
         <updated_at>2026-10-23T12:47:50+03:00</updated_at>
+    </item>
+    <item internal-id="124">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>121</article>
+        <title>Продам 3-к квартира бульвар Вечірній поруч пл. Артема Балакина Івана Авраменко</title>
+        <description>Пропозиція продажу 3-кімнатної квартири на вул. Бульвар Вечірній у Саксаганському районі.&#13;
+Пропонуємо Вам комфортну 3-кімнатну квартиру в географічному центрі міста, на 9-му поверсі 9-поверхового будинку (є техповерх).&#13;
+&#13;
+Характеристики: Квартира поліпшенного планування.&#13;
+&#13;
+Площа: загальна 66 м, житлова 39 м, кухня 9 м&#13;
+Стан: житловий, не кутова, тепла, кімнати роздільні, двостороння.&#13;
+Квартира утеплена ззовні, замінено труби подачі опалення.&#13;
+Вікна: металопластикові, дві лоджії заскленні м/п.&#13;
+В квартирі залишаються меблі та техніка.&#13;
+Санвузол в кахлі, ванна та туалет окремо, є електричний бойлер та пральна машинка.&#13;
+В квартирі є дві комори.&#13;
+&#13;
+Лічильники на світло, газ, воду та теплолічильник на будинку.&#13;
+&#13;
+Зручна та престижна локація з розвинутою інфраструктурою: поряд Fozzi, Varus, АТБ, Нова Пошта, станція метро, школа, дитячі садки, супермаркети та зупинки транспорту.&#13;
+&#13;
+Ця квартира - чудова можливість для тих, хто шукає комфортне житло в гарному, новому районі.&#13;
+&#13;
+Для отримання додаткової інформації або для запису на перегляд, будь ласка, телефонуйте.&#13;
+Якщо ви власник нерухомості - допоможу швидко та вигідно продати. Запрошую до співпраці!&#13;
+ID 121&#13;
+Є відеоогляд https://youtube.com/shorts/lI_KOu05Oqk</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7887">Саксаганский</district>
+            <street value="7531">Вечерний бульвар</street>
+            <street_type value="boulevard">бульвар</street_type>
+            <map_lat>47.9391118</map_lat>
+            <map_lng>33.432198</map_lng>
+            <landmark>вечерний бульвар</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7887">Саксаганський</district_uk>
+            <street_uk value="7531">Вечірній бульвар</street_uk>
+            <street_type_uk value="boulevard">бульвар</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>9</floor>
+        <area_total>66</area_total>
+        <area_living>39</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">18000</price>
+        <images>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/fe3dee94458bf0b15dcb44c8507d8158.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/2c14006642c2a76c4bcf289460fd904f.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/da40c26eb930a3fe93f2d1a693bc0933.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/b8ae45af42843bdd994986447bb897ac.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/cd9c87a1c0158a7cb9c1cd7c92927009.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/0702a6c1fd1289a5961ea116e86c3694.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/09303bfcf8ebb7451da2a43d54f056ae.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/eda2ad340254ef6de2c27558d2f92c54.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/1ef5ff1ffcb9b718573131a2e28dded1.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/2c75a03ca01d54dce4b5803b31e244c1.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/21e2a67891cc7188f81c67b9a302e257.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/8e765de3081ff5462f267355967eecc8.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/c3b2240b8d080ee6bc0ca354642b1752.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/013fbcb68e144d30f9dce575fbca2f84.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/0c85fe9f3342d3553ca0d98305cb0877.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/6ac5e78c90543f24b703a18878bd4569.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/51e14b70780099fa95c95e357cc31df7.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/4f4322db6fb1cc9b6fd31301d8755556.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/5954abe933c0a52e5bf7489d5137b0d6.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/011351f730a8fa99c5ab00ca4d155d20.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/bb3ee71e7a1e8f909e466b419f80db90.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>вечерний бульвар</tag>
+        </tags>
+        <created_at>2026-08-14T20:35:52+03:00</created_at>
+        <updated_at>2026-09-15T20:23:55+03:00</updated_at>
+    </item>
+    <item internal-id="133">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>130</article>
+        <title>Продаж / Квартира / вул. 5-й Зарічний, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг. 5-й Зарічний, Бродвей - продається затишна видова 3-кімнатна квартира&#13;
+&#13;
+Пропонується простора 3-кімнатна квартира з покращеним плануванням у комфортному районі міста.&#13;
+&#13;
+Основні характеристики:&#13;
+&#13;
+3 кімнати, усі роздільні, квартира на дві сторони.&#13;
+&#13;
+Виконано ремонт.&#13;
+&#13;
+Велика кухня з меблями та технікою.&#13;
+&#13;
+Сумісний санвузол із ремонтом.&#13;
+&#13;
+Душова кабіна, бойлер та сушарка.&#13;
+&#13;
+Два балкони:&#13;
+&#13;
+перший - після ремонту, обшитий та засклений металопластиковими вікнами;&#13;
+&#13;
+другий - після ремонту, утеплений, обшитий, із теплою підлогою.&#13;
+&#13;
+У квартирі залишаються всі меблі та техніка.&#13;
+&#13;
+Ремонт та комунікації:&#13;
+&#13;
+Металопластикові вікна та труби.&#13;
+&#13;
+Нова електропроводка.&#13;
+&#13;
+Підлога - лінолеум.&#13;
+&#13;
+Чавунні радіатори.&#13;
+&#13;
+Лічильники на воду, газ та електроенергію.&#13;
+&#13;
+Теплолічильник на будинок.&#13;
+&#13;
+Будинок ОСББ.&#13;
+&#13;
+Переваги району:&#13;
+5-й Зарічний - один із найзеленіших та екологічно комфортних районів Кривого Рогу. Поруч річка, зелена зона, чисте повітря та все необхідне для комфортного життя.&#13;
+&#13;
+У пішій доступності:&#13;
+&#13;
+дитячі садки та школи;&#13;
+&#13;
+супермаркети «Терра», «АТБ», «Варус»;&#13;
+&#13;
+«Будмаркет 33м²» та інші магазини;&#13;
+&#13;
+зупинки громадського транспорту;&#13;
+&#13;
+станція швидкісного трамвая.&#13;
+&#13;
+Квартира повністю готова до проживання - меблі та техніка залишаються.&#13;
+&#13;
+Зацікавились? Телефонуйте, та записуйтесь на перегляд.&#13;
+&#13;
+Запрошую до співпраці власників нерухомості. Допоможу швидко та вигідно продати вашу нерухомість.&#13;
+ID 130&#13;
+Є відеоогляд https://youtu.be/GZk3O3ZDp1g</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="14267">5-й Заречный</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9974309</map_lat>
+            <map_lng>33.4842454</map_lng>
+            <landmark>5 заречный</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="14267">5-й Зарічний</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>9</floor>
+        <area_total>62</area_total>
+        <area_living>40</area_living>
+        <area_kitchen>9</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">30000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c537bc7bfa5e09bcc3e0d94301d2c172.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6db6ad3260829695accc896774ffdf76.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9eebd4d5458061cc52cba976a81b150e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2f19fd6cea305d8d73c5f664349eaf6f.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e0877ad78246b88bb4aca678647c8db4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db5413010bf3d6b57e30cc8c66974b14.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/43bc60d2fbbe6401bc238ad09d8139fd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e9ecf8ffe1b5440eabbb700e9baa1507.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8a521d6838aeb00e8243e09e7f59b52c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/60e2aae516e6b0969ed70b1ddb85da8c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/14ffb83671899ce60d273b9fd2db4d8c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b0d691699e3b16af07f4360d0308a49d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5260c87bc4600cc86e8853c587b99ce4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4c8ccf1db7109023c685d0b9441c4972.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/67b359e1eda3eff7219a048e018081cd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/08580605b340a885f9a566e353410576.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8c1c7056b961e8331790f8837459baf6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/47d60307fa3122a8c989fa3c92438bf2.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/37f13dcdc67366e342f584db1769ecff.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/df0df2a0c84c036cd55e7de2dcc6268a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/89802b91f6f88f0eba0509d976e72ee5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5086ec10971c525445195b7b09affb3d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ce527428fefb80f916eb58c2c1935ed9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bf393c2b9cce214bfee7a466b8378a75.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>5 заречный</tag>
+        </tags>
+        <created_at>2026-09-15T21:07:12+03:00</created_at>
+        <updated_at>2026-09-15T21:16:12+03:00</updated_at>
     </item>
     <item internal-id="29">
         <status>active</status>
@@ -3693,100 +4198,6 @@ ID 138</description>
         <created_at>2026-09-19T13:43:09+03:00</created_at>
         <updated_at>2026-09-20T21:47:21+03:00</updated_at>
     </item>
-    <item internal-id="142">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>139</article>
-        <title>Продаж / Квартира / вул. Олексія Різниченка (Співдружності), Саксаганський, Кривий Ріг</title>
-        <description>Кривий Ріг | Продаж 2-кімнатної квартири&#13;
-&#13;
-Продається затишна 2-кімнатна квартира по вул. Співдружності (Ювілейна), у Саксаганському районі.&#13;
-&#13;
-Квартира розташована на 3 поверсі 9-поверхового будинку, не кутова.&#13;
-&#13;
-Основні характеристики:&#13;
-&#13;
-загальна площа - 45 м²;&#13;
-&#13;
-житлова площа - 27 м²;&#13;
-&#13;
-кухня  7 м²;&#13;
-&#13;
-встановлені металопластикові вікна Rehau з гарною тепло- та звукоізоляцією;&#13;
-&#13;
-трубна розводка — металопластикова;&#13;
-&#13;
-встановлений бойлер;&#13;
-&#13;
-двозональний лічильник електроенергії;&#13;
-&#13;
-лічильники газу та води.&#13;
-&#13;
-Зручне розташування: усе необхідне для комфортного життя — у пішій доступності, до 5 хвилин від будинку. Поруч знаходяться ринок, автостоянка, школа, дитячий садок, магазини АТБ та VARUS, дитячі майданчики, спортивні зали, зупинки громадського транспорту та інша необхідна інфраструктура.&#13;
-&#13;
-Квартира чудово підійде як для комфортного проживання, так і для інвестиції.&#13;
-&#13;
-Зацікавилися? Телефонуйте та домовляйтеся про перегляд!&#13;
-&#13;
-ID 139</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="7466">Содружества</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9630626</map_lat>
-            <map_lng>33.4401153</map_lng>
-            <landmark>юбилейная</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="7466">Співдружності</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>3</floor>
-        <area_total>45</area_total>
-        <area_living>27</area_living>
-        <area_kitchen>7</area_kitchen>
-        <room_count>2</room_count>
-        <price type="per_object" currency="USD">20000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9e3a2f751da265ee2f0cafd6ddf62775.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a35d12e8e769d25505a471ee42e003d9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1477012d3fa4608c44aecc219c8a0f03.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9f870611560ef7575198137ba41d8b1.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3aaaa3373f9d5e22e7826a44d53227ff.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4c6111b1bc8ee1f0855357e4558295ad.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1a857c29a98bb853fee797f7d98b2798.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7b469aeb7851216cf39711fead3b8ed0.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>юбилейная</tag>
-        </tags>
-        <created_at>2026-09-19T14:23:34+03:00</created_at>
-        <updated_at>2026-09-21T22:14:36+03:00</updated_at>
-    </item>
     <item internal-id="139">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4279,6 +4690,89 @@ ID 150</description>
         <created_at>2026-10-01T13:30:36+03:00</created_at>
         <updated_at>2026-10-01T13:45:39+03:00</updated_at>
     </item>
+    <item internal-id="148">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>145</article>
+        <title>Продаж / Квартира / 5-й Зарічний, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг, мікрорайон 5 Зарічний, район Бродвею - продається гарна 2-кімнатна квартира!&#13;
+&#13;
+Пропонується 2-кімнатна квартира на 6-му поверсі 9-поверхового будинку.&#13;
+&#13;
+Площа: 47 м² / 31 м² / 6 м².&#13;
+&#13;
+Квартира в з ремонтом, в гарному житловому стані, не кутова. Усі вікна - металопластикові. Встановлені лічильники, є бойлер, на будинку теплолічильник.&#13;
+&#13;
+Квартира дуже світла, тепла та комфортна для проживання.&#13;
+&#13;
+Будинок розташований у зручному місці, поряд &quot;Терра&quot;, &quot;Дивоцвіт&quot;, та безліч магазинів.&#13;
+Поруч гарна транспортна розв'язка, в кроковій доступності станція швидкісного трамвая.&#13;
+&#13;
+Боргів немає.&#13;
+Документи готові до продажу.&#13;
+&#13;
+Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!&#13;
+ID 145</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="14267">5-й Заречный</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>48.0011062</map_lat>
+            <map_lng>33.4963709</map_lng>
+            <landmark>5 заречный</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="14267">5-й Зарічний</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>6</floor>
+        <area_total>47</area_total>
+        <area_living>31</area_living>
+        <area_kitchen>6</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">24000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/54f3cab6037c716491da486fe7b7de03.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/77803ed67e1fa7e337a2f04ce54d1fcd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3a2d5b9907d847eee14caa61a6b24a4d.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7428025f78e342e746b1462657546ba8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/264e8baef41fb24c7ea365bab569d846.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a9b6c3d4170ce581a2b49b5fcf94c3f3.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8477d2668c59868be205101aa5f209ef.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/430c21431f0eab8be6bb906f298201c5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ee4293e573da5417f01abb8c100c20b4.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">капитальный ремонт</property>
+            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>5 заречный</tag>
+        </tags>
+        <created_at>2026-09-23T13:03:13+03:00</created_at>
+        <updated_at>2026-10-02T10:07:28+03:00</updated_at>
+    </item>
     <item internal-id="149">
         <status>active</status>
         <is_new_building>0</is_new_building>
@@ -4357,85 +4851,6 @@ ID 146</description>
         </tags>
         <created_at>2026-09-23T13:50:35+03:00</created_at>
         <updated_at>2026-10-02T10:41:33+03:00</updated_at>
-    </item>
-    <item internal-id="145">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>142</article>
-        <title>Продаж / Квартира / Коротченко, Покровський, Кривий Ріг</title>
-        <description>Кривий Ріг. Продаж 2-кімнатної квартири на 2/9 поверх, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
-&#13;
-Пропонується до продажу затишна 2-кімнатна квартира площею 45 м². Житлова площа 27 м², кухня - 7 м².&#13;
-&#13;
-Квартира не кутова, тепла, з комфортним плануванням. Є велика засклена лоджія та комора.&#13;
-&#13;
-Квартира під ремонт, частково замінена трубна розводка.&#13;
-Боргів немає.&#13;
-&#13;
-Будинок має чистий під'їзд, доглянуту прибудинкову територію та хороших сусідів.&#13;
-&#13;
-Поруч - усе необхідне для комфортного життя: магазини, зупинки громадського транспорту та інша інфраструктура.&#13;
-&#13;
-Зацікавила квартира? Телефонуйте - домовимося про перегляд!&#13;
-&#13;
-ID 142&#13;
-&#13;
-</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7886">Покровский</district>
-            <street value="7505">Коротченко</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9721533</map_lat>
-            <map_lng>33.4447476</map_lng>
-            <landmark>173 квартал</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7886">Покровський</district_uk>
-            <street_uk value="7505">Коротченка</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>2</floor>
-        <area_total>46</area_total>
-        <area_living>27</area_living>
-        <area_kitchen>7</area_kitchen>
-        <room_count>2</room_count>
-        <price type="per_object" currency="USD">15500</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d4a5a4ed284f4afd055918858ad6df09.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/e09b60ef474869f3e011e31c5de59f3e.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/53e2fa3a288350bc33d0f9ac2f5a2245.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/8b6ccdd7a99b1cd828226dcf1433d19c.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/ccbbe3f0828085029f73898601626a36.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9447310024ae1d71092d41169eefe0b1.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">без ремонта</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>173 квартал</tag>
-        </tags>
-        <created_at>2026-09-22T13:06:01+03:00</created_at>
-        <updated_at>2026-10-02T11:24:00+03:00</updated_at>
     </item>
     <item internal-id="154">
         <status>active</status>
@@ -4593,6 +5008,105 @@ ID 144</description>
         </tags>
         <created_at>2026-09-23T11:20:34+03:00</created_at>
         <updated_at>2026-10-03T10:44:02+03:00</updated_at>
+    </item>
+    <item internal-id="155">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>152</article>
+        <title>Продаж / Квартира / вул. 7-й Зарічний, Кривий Ріг</title>
+        <description>Кривий Ріг. Продається гарна, видова 1 кімнатна квартира з косметичним ремонтом, на 7 Зарічному.&#13;
+Квартира тепла (південна сторона), кутова з балконом та лоджією.&#13;
+Планування покращене: кімната окремо, великий коридор з місткою коморою, затишна кухня.&#13;
+Площа: 39/20/8 м².&#13;
+&#13;
+Стан:&#13;
+Косметичний ремонт.&#13;
+Сантехніка нова, ванна та туалет в кахлі.&#13;
+Залізні вхідні двері, підлога - лінолеум та плитка.&#13;
+Балкон та лоджія засклені та обшиті металопластиком.&#13;
+&#13;
+Є бойлер.&#13;
+Лічильники на воду, газ, електроенергію.&#13;
+Теплолічильник на будинку.&#13;
+&#13;
+Інфраструктура:&#13;
+Поруч усе необхідне для комфортного життя.&#13;
+Зручна транспортна розв’язка, поряд зупинка.&#13;
+Багато магазинів, ринок, супермаркети.&#13;
+Район екологічно чистий - поруч річка.&#13;
+&#13;
+Боргів, та проблем немає.&#13;
+&#13;
+Зацікавились? Телефонуйте.&#13;
+Запрошую до співпраці власників нерухомості - продаю швидко та вигідно.&#13;
+ID 152&#13;
+Є відеоогляд https://youtu.be/S2beeAn5dVA</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="">7-й Заречный</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.996867334508</map_lat>
+            <map_lng>33.475801460445</map_lng>
+            <landmark></landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>7</floor>
+        <area_total>39</area_total>
+        <area_living>20</area_living>
+        <area_kitchen>8</area_kitchen>
+        <room_count>1</room_count>
+        <price type="per_object" currency="USD">16000</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/63d18bc399b70ee1e5932575315c9a2a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/307639aa6f93a0a0ba3f5ec7a75fc874.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/57aff90c7ab21aff092fb87b09359038.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/96bf1c582742855f97e9fe204b1d15f8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/989b0ce124d712ad67556e20eebaded7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b1fb0a2627dbd8227a51c81ae45b6dd5.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4e5ecd0a81533f044f0be746fc5943cb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/35affaefa555684dd4e9d2e3120c1bae.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ccd7a8ed0b5b9b073d3f23e775e4d4ed.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2be0a690fc9dff173e1e185fb1dd83d6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0a42d760f3c068d5cd7cfed9940f0565.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/94795e4a44fa504776512c8fb803197e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6032c6ad86958177767843b08d98d5c6.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/35c03fe1868ead4c3335364dade09376.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/12f314298f20a12792011a8d37942991.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d9591c392b5587e5fc807b1ae32b30fc.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6383b6a8dc450360e0dae5b9f3b01dde.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5a8d3083a64769579263f850774ad811.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e2d9d955eb3f791db893acd4a88b9b6a.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/98fcfcd28680e372604eaf8246ea61c5.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>7 заречный</tag>
+        </tags>
+        <created_at>2026-10-03T11:06:00+03:00</created_at>
+        <updated_at>2026-10-03T11:25:52+03:00</updated_at>
     </item>
     <item internal-id="21">
         <status>active</status>
@@ -4783,6 +5297,95 @@ ID 153&#13;
         </tags>
         <created_at>2026-10-09T12:20:52+03:00</created_at>
         <updated_at>2026-10-23T12:30:36+03:00</updated_at>
+    </item>
+    <item internal-id="157">
+        <status>active</status>
+        <is_new_building>0</is_new_building>
+        <article>154</article>
+        <title>Продаж / Квартира / вул. Коротченко, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг | Продаж 3-кімнатної квартири з автономним опаленням.&#13;
+&#13;
+5/9 поверх, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
+&#13;
+Пропонується до  продажу велика 3-кімнатна квартира поліпшеного планування, площею 73 м². Житлова площа 43 м², кухня  9 м².&#13;
+&#13;
+Квартира не кутова, тепла (зовнішнє утеплення), з комфортним плануванням - всі кімнати окремі, двостороння, велика кухня та коридор. Є засклена лоджія та дві місткі комори.&#13;
+&#13;
+Стан житловий, металопластикові вікна, 2 кондиціонера, санвузол в кахлі, сантехніка в гарному стані.&#13;
+&#13;
+Меблі залишаються новим власникам.&#13;
+&#13;
+Будинок має чистий під'їзд, доглянуту прибудинкову територію та хороших сусідів.&#13;
+&#13;
+Поруч - усе необхідне для комфортного життя: магазини, зупинки громадського транспорту та інша інфраструктура.&#13;
+&#13;
+Можливий  продаж за державною програмою із використанням житлового сертифіката.&#13;
+&#13;
+Зацікавила квартира? Телефонуйте - домовимося про перегляд!&#13;
+&#13;
+ID 154</description>
+        <category value="1">Жилая недвижимость</category>
+        <realty_type value="1">Квартира</realty_type>
+        <deal value="1">Продажа</deal>
+        <location>
+            <country value="1">Україна</country>
+            <region value="1658">Днепропетровская область</region>
+            <county value="1753">Криворожский горсовет</county>
+            <city value="1757">Кривой Рог</city>
+            <borough value="1757">Кривой Рог</borough>
+            <district value="7886">Покровский</district>
+            <street value="7505">Коротченко</street>
+            <street_type value="street">улица</street_type>
+            <map_lat>47.9728273</map_lat>
+            <map_lng>33.4478865</map_lng>
+            <landmark>173 квартал</landmark>
+            <region_uk value="1658">Дніпропетровська область</region_uk>
+            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
+            <city_uk value="1757">Кривий Ріг</city_uk>
+            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
+            <district_uk value="7886">Покровський</district_uk>
+            <street_uk value="7505">Коротченка</street_uk>
+            <street_type_uk value="street">вулиця</street_type_uk>
+        </location>
+        <total_floors>9</total_floors>
+        <floor>5</floor>
+        <area_total>73</area_total>
+        <area_living>43</area_living>
+        <area_kitchen>6</area_kitchen>
+        <room_count>3</room_count>
+        <price type="per_object" currency="USD">24500</price>
+        <images>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9561a2471ef0ce38492d00ede46d3f7.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/56d002c568113f6f5142efba8bcfba39.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1e34317623671c793b52494a1a1a7b8c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ace638c74664fac8b0e9482465e34384.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/10e533578cc73cb01a2326600a3d145e.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8ac28c084abd41cc44041419776da5eb.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5fa27cb2070e4342c785a9c6d6507b6c.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e1ade5198d13dc5e741e25464b3763c8.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/50958673767ffe0c70acc1be0d5ab905.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6dbea5aeeb6aca588c3e13b49916bcbd.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/865588dd37c2d47fbca8d7ed96ba7633.jpg</image_url>
+        </images>
+        <properties>
+            <property attribute="property_2" label="Газ">Есть</property>
+            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
+            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
+            <property attribute="property_52" label="Отопление">индивидуальное</property>
+            <property attribute="property_59" label="ексклюзив">Да</property>
+        </properties>
+        <user>
+            <email>proekt6@i.ua</email>
+            <name>Андрей</name>
+            <phones>
+                <phone>380971732450</phone>
+            </phones>
+        </user>
+        <tags>
+            <tag>эксклюзив</tag>
+        </tags>
+        <created_at>2026-10-15T19:22:17+03:00</created_at>
+        <updated_at>2026-11-02T09:53:07+02:00</updated_at>
     </item>
     <item internal-id="144">
         <status>active</status>
@@ -4979,116 +5582,42 @@ ID 155</description>
         <created_at>2026-10-31T19:02:24+02:00</created_at>
         <updated_at>2026-10-31T19:15:46+02:00</updated_at>
     </item>
-    <item internal-id="42">
+    <item internal-id="142">
         <status>active</status>
         <is_new_building>0</is_new_building>
-        <article>42</article>
-        <title>Продаж 1-кімнатна квартира на  5 Зарічному</title>
-        <description>Продаж 1-кімнатна квартира на  5 Зарічному.&#13;
+        <article>139</article>
+        <title>Продаж / Квартира / вул. Олексія Різниченка (Співдружності), Саксаганський, Кривий Ріг</title>
+        <description>Кривий Ріг | Продаж 2-кімнатної квартири&#13;
 &#13;
-Загальна площа - 38,7м. 8 поверх 9-поверхового будинку.кухня 8,5 .кімната 17,2&#13;
+Продається затишна 2-кімнатна квартира по вул. Співдружності (Ювілейна), у Саксаганському районі.&#13;
 &#13;
-Квартира покращеного планування з гардеробною. Не сонячна сторона, тому в квартирі комфортно в будь-яку пору року.&#13;
+Квартира розташована на 3 поверсі 9-поверхового будинку, не кутова.&#13;
 &#13;
-Будинок ОСББ, доглянутий та охайний. Чистий під’їзд, справний ліфт, впорядкований двір.&#13;
+Основні характеристики:&#13;
 &#13;
-У квартирі залишається:&#13;
-• кондиціонер Samsung Split (на гарантії, до -15 градусів );&#13;
-• новий бойлер (на гарантії);&#13;
-• кухонний гарнітур.&#13;
-- нові радіатори на опалення &#13;
-Також гарний тиск води та опалення взимку завжди &#13;
+загальна площа - 45 м²;&#13;
 &#13;
-Квартира готова до проживання або здачі в оренду.&#13;
+житлова площа - 27 м²;&#13;
 &#13;
-Поруч знаходяться магазини, супермаркети, зупинки громадського транспорту(тролейбус,швидкісний,маршрутки)школи та дитячі садки,у сусідньому будинку укр пошта,далі Ринок Босфор(2хв пішки). &#13;
+кухня  7 м²;&#13;
 &#13;
-Документи в повному порядку:&#13;
-• один власник;&#13;
-• відсутні зареєстровані особи;&#13;
-• немає заборгованостей за комунальними послугами;&#13;
-• швидкий вихід на угоду.&#13;
-Зацікавились? Телефонуйте! &#13;
-ID 42</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7886">Покровский</district>
-            <street value="14267">5-й Заречный</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9961689</map_lat>
-            <map_lng>33.4904984</map_lng>
-            <apartment>45</apartment>
-            <landmark>заречный</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7886">Покровський</district_uk>
-            <street_uk value="14267">5-й Зарічний</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>8</floor>
-        <area_total>38.7</area_total>
-        <area_living>17</area_living>
-        <area_kitchen>8.5</area_kitchen>
-        <room_count>1</room_count>
-        <price type="per_object" currency="USD">18000</price>
-        <images>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/8f624545a82fa2a4b4fa50e8ca69041d.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/a02a68be783424610ae6560b80a78941.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/c5ab4c79e54d6403b58432ab4fa9c5ef.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/7d3b09834e84ece0900f7073c68c4db8.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/178f7317a92bf6838eb4a5797713980b.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/dba7a164ceeed69ffd0a35038e1b0da8.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/06/92ae832f1c5db4129334244cb3aa5521.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/62af03bd5d2a265fbf974db4776f1354.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>5 заречный</tag>
-        </tags>
-        <created_at>2026-06-15T17:49:25+03:00</created_at>
-        <updated_at>2026-09-15T12:08:53+03:00</updated_at>
-    </item>
-    <item internal-id="88">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>85</article>
-        <title>Продаж 3-кімнатної квартири на Сонячному</title>
-        <description> Продаж затишної 3-кімнатної квартири на Сонячному, (навпроти школи №119)&#13;
+встановлені металопластикові вікна Rehau з гарною тепло- та звукоізоляцією;&#13;
 &#13;
-Якщо ви шукаєте комфортну квартиру для сімейного проживання в районі з розвиненою інфраструктурою, цей варіант вартий вашої уваги.&#13;
+трубна розводка — металопластикова;&#13;
 &#13;
-Квартира має загальну площу 64 м². Не кутова, тепла й дуже світла. Простора кухня стане чудовим місцем для сімейних вечерь, а з вікон кухні та вітальні відкривається гарний панорамний вид, який не перекривають інші будівлі. Планування практичне: вікна виходять на дві сторони, є окремі балкон і лоджія.&#13;
+встановлений бойлер;&#13;
 &#13;
-Житло повністю готове до проживання. Виконано якісний ремонт, встановлено металопластикові вікна, замінено міжкімнатні двері, встановлено новий кондиціонер. Балкон і лоджія також відремонтовані та засклені сучасними металопластиковими конструкціями.&#13;
+двозональний лічильник електроенергії;&#13;
 &#13;
-Квартира продається з усіма необхідними меблями та технікою. Новим власникам залишаються нова пральна машина, холодильник із системою No Frost, бойлер, нове ліжко, шафа-купе та повністю облаштована дитяча кімната.&#13;
+лічильники газу та води.&#13;
 &#13;
-Будинок розташований у районі з чудово розвиненою інфраструктурою. У кількох хвилинах пішки знаходяться школи, дитячі садки, супермаркети, магазини та зупинки громадського транспорту.&#13;
+Зручне розташування: усе необхідне для комфортного життя — у пішій доступності, до 5 хвилин від будинку. Поруч знаходяться ринок, автостоянка, школа, дитячий садок, магазини АТБ та VARUS, дитячі майданчики, спортивні зали, зупинки громадського транспорту та інша необхідна інфраструктура.&#13;
 &#13;
-Ця квартира стане відмінним вибором як для комфортного проживання, так і для вигідної здачі в оренду - без необхідності додаткових вкладень.&#13;
-ID 85</description>
+Квартира чудово підійде як для комфортного проживання, так і для інвестиції.&#13;
+&#13;
+Зацікавилися? Телефонуйте та домовляйтеся про перегляд!&#13;
+&#13;
+ID 139</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -5099,459 +5628,39 @@ ID 85</description>
             <city value="1757">Кривой Рог</city>
             <borough value="1757">Кривой Рог</borough>
             <district value="7887">Саксаганский</district>
-            <street value="14366">Солнечный микрорайон</street>
+            <street value="7466">Содружества</street>
             <street_type value="street">улица</street_type>
-            <map_lat>47.9558908</map_lat>
-            <map_lng>33.4454888</map_lng>
-            <landmark>солнечный</landmark>
+            <map_lat>47.9630626</map_lat>
+            <map_lng>33.4401153</map_lng>
+            <landmark>юбилейная</landmark>
             <region_uk value="1658">Дніпропетровська область</region_uk>
             <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
             <city_uk value="1757">Кривий Ріг</city_uk>
             <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
             <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="14366">Сонячний мікрорайон</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>6</floor>
-        <area_total>64</area_total>
-        <area_living>40</area_living>
-        <area_kitchen>10</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">33000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3f644a8499304183292a4a3689acf169.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/cb27910dd5b006b1ca32b6c026642019.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e46bd1f909e71a285284d7348e915807.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/79ab44645101bce37fd5731518a455e9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/92dd3f6bd0f6720c08ec2134855381c8.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/15d2bce084395be536af33c816b8ada0.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/19fd6c8c97fae10d953d711e2fe80e4c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e2085f8eef3b3260aebf483327dc4796.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2004ec0a9abeb4999b4adf8ee422e729.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0be62ca3c3faeb3d525254cda6e42f53.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/012d09323b05ac359772ffd28c3c1e32.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/cedd9306667920bfc254db51a455e06b.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>солнечный</tag>
-        </tags>
-        <created_at>2026-07-17T12:38:59+03:00</created_at>
-        <updated_at>2026-09-18T12:19:15+03:00</updated_at>
-    </item>
-    <item internal-id="106">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>103</article>
-        <title>Продаж 3-к квартира на Східному 1 по вул Єгора Біркуна</title>
-        <description>Кривий Ріг. Продаж просторої 3-кімнатної квартири на вул. Водоп’янова / Биркуна&#13;
-&#13;
-Пропонується до продажу світла, тепла та затишна 3-кімнатна квартира, розташована на 3-му поверсі 9-поверхового будинку.&#13;
-&#13;
-Основні характеристики:&#13;
-&#13;
-площа - 64 м²;&#13;
-балкон і лоджія;&#13;
-квартира утеплена зовні;&#13;
-встановлено кондиціонери;&#13;
-повністю замінені всі труби;&#13;
-дві місткі кладові для зручного зберігання речей;&#13;
-встановлена сигналізація та охоронна система;&#13;
-продається з меблями та побутовою технікою;&#13;
-готова до проживання без додаткових вкладень.&#13;
-&#13;
-Окремою перевагою є доглянутий під’їзд і спокійні, доброзичливі сусіди.&#13;
-&#13;
-У квартирі вже ніхто не зареєстрований, що дозволяє швидко оформити угоду.&#13;
-&#13;
-За додатковою інформацією телефонуйте або пишіть. Із задоволенням відповімо на всі ваші запитання та домовимося про перегляд.&#13;
-ID 103</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7883">Долгинцевский</district>
-            <street value="7699">Водопьянова</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9399102</map_lat>
-            <map_lng>33.4407615</map_lng>
-            <landmark>Восточный 1</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7883">Довгинцівський</district_uk>
-            <street_uk value="7699">Водоп'янова</street_uk>
+            <street_uk value="7466">Співдружності</street_uk>
             <street_type_uk value="street">вулиця</street_type_uk>
         </location>
         <total_floors>9</total_floors>
         <floor>3</floor>
-        <area_total>64</area_total>
-        <area_living>38</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">45000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e47ce02e866ced82c55eeb4fc92bcdc9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b4d39aeb9bab9638148176c7924ed69d.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9f2e180072d1e0e3c2b3f2237d91725.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d6051211ffe587ca39be6449ded11a09.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3de8160cfec6ebca15015fb4db7b0421.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3688da3629a97c039a1a177ae5a22313.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/500deb70197b04275d95e3923c4759a7.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/18fcc06e0d4084ce14f23c5fa3105a4f.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db50ad79cdef9067d9adb42555f2a8f0.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">евроремонт</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>восточный 1</tag>
-        </tags>
-        <created_at>2026-07-27T18:45:19+03:00</created_at>
-        <updated_at>2026-08-05T21:59:33+03:00</updated_at>
-    </item>
-    <item internal-id="124">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>121</article>
-        <title>Продам 3-к квартира бульвар Вечірній поруч пл. Артема Балакина Івана Авраменко</title>
-        <description>Пропозиція продажу 3-кімнатної квартири на вул. Бульвар Вечірній у Саксаганському районі.&#13;
-Пропонуємо Вам комфортну 3-кімнатну квартиру в географічному центрі міста, на 9-му поверсі 9-поверхового будинку (є техповерх).&#13;
-&#13;
-Характеристики: Квартира поліпшенного планування.&#13;
-&#13;
-Площа: загальна 66 м, житлова 39 м, кухня 9 м&#13;
-Стан: житловий, не кутова, тепла, кімнати роздільні, двостороння.&#13;
-Квартира утеплена ззовні, замінено труби подачі опалення.&#13;
-Вікна: металопластикові, дві лоджії заскленні м/п.&#13;
-В квартирі залишаються меблі та техніка.&#13;
-Санвузол в кахлі, ванна та туалет окремо, є електричний бойлер та пральна машинка.&#13;
-В квартирі є дві комори.&#13;
-&#13;
-Лічильники на світло, газ, воду та теплолічильник на будинку.&#13;
-&#13;
-Зручна та престижна локація з розвинутою інфраструктурою: поряд Fozzi, Varus, АТБ, Нова Пошта, станція метро, школа, дитячі садки, супермаркети та зупинки транспорту.&#13;
-&#13;
-Ця квартира - чудова можливість для тих, хто шукає комфортне житло в гарному, новому районі.&#13;
-&#13;
-Для отримання додаткової інформації або для запису на перегляд, будь ласка, телефонуйте.&#13;
-Якщо ви власник нерухомості - допоможу швидко та вигідно продати. Запрошую до співпраці!&#13;
-ID 121&#13;
-Є відеоогляд https://youtube.com/shorts/lI_KOu05Oqk</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7887">Саксаганский</district>
-            <street value="7531">Вечерний бульвар</street>
-            <street_type value="boulevard">бульвар</street_type>
-            <map_lat>47.9391118</map_lat>
-            <map_lng>33.432198</map_lng>
-            <landmark>вечерний бульвар</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7887">Саксаганський</district_uk>
-            <street_uk value="7531">Вечірній бульвар</street_uk>
-            <street_type_uk value="boulevard">бульвар</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>9</floor>
-        <area_total>66</area_total>
-        <area_living>39</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">18000</price>
-        <images>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/fe3dee94458bf0b15dcb44c8507d8158.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/2c14006642c2a76c4bcf289460fd904f.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/da40c26eb930a3fe93f2d1a693bc0933.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/b8ae45af42843bdd994986447bb897ac.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/cd9c87a1c0158a7cb9c1cd7c92927009.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/0702a6c1fd1289a5961ea116e86c3694.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/09303bfcf8ebb7451da2a43d54f056ae.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/eda2ad340254ef6de2c27558d2f92c54.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/1ef5ff1ffcb9b718573131a2e28dded1.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/2c75a03ca01d54dce4b5803b31e244c1.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/21e2a67891cc7188f81c67b9a302e257.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/8e765de3081ff5462f267355967eecc8.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/c3b2240b8d080ee6bc0ca354642b1752.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/013fbcb68e144d30f9dce575fbca2f84.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/0c85fe9f3342d3553ca0d98305cb0877.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/6ac5e78c90543f24b703a18878bd4569.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/51e14b70780099fa95c95e357cc31df7.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/4f4322db6fb1cc9b6fd31301d8755556.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/5954abe933c0a52e5bf7489d5137b0d6.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/011351f730a8fa99c5ab00ca4d155d20.jpg</image_url>
-            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/08/bb3ee71e7a1e8f909e466b419f80db90.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>вечерний бульвар</tag>
-        </tags>
-        <created_at>2026-08-14T20:35:52+03:00</created_at>
-        <updated_at>2026-09-15T20:23:55+03:00</updated_at>
-    </item>
-    <item internal-id="133">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>130</article>
-        <title>Продаж / Квартира / вул. 5-й Зарічний, Покровський, Кривий Ріг</title>
-        <description>Кривий Ріг. 5-й Зарічний, Бродвей - продається затишна видова 3-кімнатна квартира&#13;
-&#13;
-Пропонується простора 3-кімнатна квартира з покращеним плануванням у комфортному районі міста.&#13;
-&#13;
-Основні характеристики:&#13;
-&#13;
-3 кімнати, усі роздільні, квартира на дві сторони.&#13;
-&#13;
-Виконано ремонт.&#13;
-&#13;
-Велика кухня з меблями та технікою.&#13;
-&#13;
-Сумісний санвузол із ремонтом.&#13;
-&#13;
-Душова кабіна, бойлер та сушарка.&#13;
-&#13;
-Два балкони:&#13;
-&#13;
-перший - після ремонту, обшитий та засклений металопластиковими вікнами;&#13;
-&#13;
-другий - після ремонту, утеплений, обшитий, із теплою підлогою.&#13;
-&#13;
-У квартирі залишаються всі меблі та техніка.&#13;
-&#13;
-Ремонт та комунікації:&#13;
-&#13;
-Металопластикові вікна та труби.&#13;
-&#13;
-Нова електропроводка.&#13;
-&#13;
-Підлога - лінолеум.&#13;
-&#13;
-Чавунні радіатори.&#13;
-&#13;
-Лічильники на воду, газ та електроенергію.&#13;
-&#13;
-Теплолічильник на будинок.&#13;
-&#13;
-Будинок ОСББ.&#13;
-&#13;
-Переваги району:&#13;
-5-й Зарічний - один із найзеленіших та екологічно комфортних районів Кривого Рогу. Поруч річка, зелена зона, чисте повітря та все необхідне для комфортного життя.&#13;
-&#13;
-У пішій доступності:&#13;
-&#13;
-дитячі садки та школи;&#13;
-&#13;
-супермаркети «Терра», «АТБ», «Варус»;&#13;
-&#13;
-«Будмаркет 33м²» та інші магазини;&#13;
-&#13;
-зупинки громадського транспорту;&#13;
-&#13;
-станція швидкісного трамвая.&#13;
-&#13;
-Квартира повністю готова до проживання - меблі та техніка залишаються.&#13;
-&#13;
-Зацікавились? Телефонуйте, та записуйтесь на перегляд.&#13;
-&#13;
-Запрошую до співпраці власників нерухомості. Допоможу швидко та вигідно продати вашу нерухомість.&#13;
-ID 130&#13;
-Є відеоогляд https://youtu.be/GZk3O3ZDp1g</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7886">Покровский</district>
-            <street value="14267">5-й Заречный</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.9974309</map_lat>
-            <map_lng>33.4842454</map_lng>
-            <landmark>5 заречный</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7886">Покровський</district_uk>
-            <street_uk value="14267">5-й Зарічний</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>9</floor>
-        <area_total>62</area_total>
-        <area_living>40</area_living>
-        <area_kitchen>9</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">30000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/c537bc7bfa5e09bcc3e0d94301d2c172.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6db6ad3260829695accc896774ffdf76.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9eebd4d5458061cc52cba976a81b150e.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2f19fd6cea305d8d73c5f664349eaf6f.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e0877ad78246b88bb4aca678647c8db4.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/db5413010bf3d6b57e30cc8c66974b14.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/43bc60d2fbbe6401bc238ad09d8139fd.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e9ecf8ffe1b5440eabbb700e9baa1507.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8a521d6838aeb00e8243e09e7f59b52c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/60e2aae516e6b0969ed70b1ddb85da8c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/14ffb83671899ce60d273b9fd2db4d8c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b0d691699e3b16af07f4360d0308a49d.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5260c87bc4600cc86e8853c587b99ce4.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4c8ccf1db7109023c685d0b9441c4972.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/67b359e1eda3eff7219a048e018081cd.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/08580605b340a885f9a566e353410576.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8c1c7056b961e8331790f8837459baf6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/47d60307fa3122a8c989fa3c92438bf2.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/37f13dcdc67366e342f584db1769ecff.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/df0df2a0c84c036cd55e7de2dcc6268a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/89802b91f6f88f0eba0509d976e72ee5.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5086ec10971c525445195b7b09affb3d.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ce527428fefb80f916eb58c2c1935ed9.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/bf393c2b9cce214bfee7a466b8378a75.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-            <property attribute="property_52" label="Отопление">централизованное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>5 заречный</tag>
-        </tags>
-        <created_at>2026-09-15T21:07:12+03:00</created_at>
-        <updated_at>2026-09-15T21:16:12+03:00</updated_at>
-    </item>
-    <item internal-id="148">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>145</article>
-        <title>Продаж / Квартира / 5-й Зарічний, Покровський, Кривий Ріг</title>
-        <description>Кривий Ріг, мікрорайон 5 Зарічний, район Бродвею - продається гарна 2-кімнатна квартира!&#13;
-&#13;
-Пропонується 2-кімнатна квартира на 6-му поверсі 9-поверхового будинку.&#13;
-&#13;
-Площа: 47 м² / 31 м² / 6 м².&#13;
-&#13;
-Квартира в з ремонтом, в гарному житловому стані, не кутова. Усі вікна - металопластикові. Встановлені лічильники, є бойлер, на будинку теплолічильник.&#13;
-&#13;
-Квартира дуже світла, тепла та комфортна для проживання.&#13;
-&#13;
-Будинок розташований у зручному місці, поряд &quot;Терра&quot;, &quot;Дивоцвіт&quot;, та безліч магазинів.&#13;
-Поруч гарна транспортна розв'язка, в кроковій доступності станція швидкісного трамвая.&#13;
-&#13;
-Боргів немає.&#13;
-Документи готові до продажу.&#13;
-&#13;
-Зацікавила пропозиція? Телефонуйте - домовимося про перегляд!&#13;
-ID 145</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7886">Покровский</district>
-            <street value="14267">5-й Заречный</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>48.0011062</map_lat>
-            <map_lng>33.4963709</map_lng>
-            <landmark>5 заречный</landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7886">Покровський</district_uk>
-            <street_uk value="14267">5-й Зарічний</street_uk>
-            <street_type_uk value="street">вулиця</street_type_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>6</floor>
-        <area_total>47</area_total>
-        <area_living>31</area_living>
-        <area_kitchen>6</area_kitchen>
+        <area_total>45</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>7</area_kitchen>
         <room_count>2</room_count>
-        <price type="per_object" currency="USD">24000</price>
+        <price type="per_object" currency="USD">20000</price>
         <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/54f3cab6037c716491da486fe7b7de03.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/77803ed67e1fa7e337a2f04ce54d1fcd.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3a2d5b9907d847eee14caa61a6b24a4d.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7428025f78e342e746b1462657546ba8.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/264e8baef41fb24c7ea365bab569d846.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a9b6c3d4170ce581a2b49b5fcf94c3f3.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8477d2668c59868be205101aa5f209ef.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/430c21431f0eab8be6bb906f298201c5.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ee4293e573da5417f01abb8c100c20b4.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9e3a2f751da265ee2f0cafd6ddf62775.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/a35d12e8e769d25505a471ee42e003d9.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1477012d3fa4608c44aecc219c8a0f03.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9f870611560ef7575198137ba41d8b1.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/3aaaa3373f9d5e22e7826a44d53227ff.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4c6111b1bc8ee1f0855357e4558295ad.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1a857c29a98bb853fee797f7d98b2798.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/7b469aeb7851216cf39711fead3b8ed0.jpg</image_url>
         </images>
         <properties>
             <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">капитальный ремонт</property>
-            <property attribute="property_51" label="дополнительно">теневая база</property>
+            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
             <property attribute="property_52" label="Отопление">централизованное</property>
         </properties>
         <user>
@@ -5562,136 +5671,34 @@ ID 145</description>
             </phones>
         </user>
         <tags>
-            <tag>5 заречный</tag>
+            <tag>юбилейная</tag>
         </tags>
-        <created_at>2026-09-23T13:03:13+03:00</created_at>
-        <updated_at>2026-10-02T10:07:28+03:00</updated_at>
+        <created_at>2026-09-19T14:23:34+03:00</created_at>
+        <updated_at>2026-09-21T22:14:36+03:00</updated_at>
     </item>
-    <item internal-id="155">
+    <item internal-id="145">
         <status>active</status>
         <is_new_building>0</is_new_building>
-        <article>152</article>
-        <title>Продаж / Квартира / вул. 7-й Зарічний, Кривий Ріг</title>
-        <description>Кривий Ріг. Продається гарна, видова 1 кімнатна квартира з косметичним ремонтом, на 7 Зарічному.&#13;
-Квартира тепла (південна сторона), кутова з балконом та лоджією.&#13;
-Планування покращене: кімната окремо, великий коридор з місткою коморою, затишна кухня.&#13;
-Площа: 39/20/8 м².&#13;
+        <article>142</article>
+        <title>Продаж / Квартира / Коротченко, Покровський, Кривий Ріг</title>
+        <description>Кривий Ріг. Продаж 2-кімнатної квартири на 2/9 поверх, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
 &#13;
-Стан:&#13;
-Косметичний ремонт.&#13;
-Сантехніка нова, ванна та туалет в кахлі.&#13;
-Залізні вхідні двері, підлога - лінолеум та плитка.&#13;
-Балкон та лоджія засклені та обшиті металопластиком.&#13;
+Пропонується до продажу затишна 2-кімнатна квартира площею 45 м². Житлова площа 27 м², кухня - 7 м².&#13;
 &#13;
-Є бойлер.&#13;
-Лічильники на воду, газ, електроенергію.&#13;
-Теплолічильник на будинку.&#13;
+Квартира не кутова, тепла, з комфортним плануванням. Є велика засклена лоджія та комора.&#13;
 &#13;
-Інфраструктура:&#13;
-Поруч усе необхідне для комфортного життя.&#13;
-Зручна транспортна розв’язка, поряд зупинка.&#13;
-Багато магазинів, ринок, супермаркети.&#13;
-Район екологічно чистий - поруч річка.&#13;
-&#13;
-Боргів, та проблем немає.&#13;
-&#13;
-Зацікавились? Телефонуйте.&#13;
-Запрошую до співпраці власників нерухомості - продаю швидко та вигідно.&#13;
-ID 152&#13;
-Є відеоогляд https://youtu.be/S2beeAn5dVA</description>
-        <category value="1">Жилая недвижимость</category>
-        <realty_type value="1">Квартира</realty_type>
-        <deal value="1">Продажа</deal>
-        <location>
-            <country value="1">Україна</country>
-            <region value="1658">Днепропетровская область</region>
-            <county value="1753">Криворожский горсовет</county>
-            <city value="1757">Кривой Рог</city>
-            <borough value="1757">Кривой Рог</borough>
-            <district value="7886">Покровский</district>
-            <street value="">7-й Заречный</street>
-            <street_type value="street">улица</street_type>
-            <map_lat>47.996867334508</map_lat>
-            <map_lng>33.475801460445</map_lng>
-            <landmark></landmark>
-            <region_uk value="1658">Дніпропетровська область</region_uk>
-            <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
-            <city_uk value="1757">Кривий Ріг</city_uk>
-            <borough_uk value="Кривой Рог">Кривий Ріг</borough_uk>
-            <district_uk value="7886">Покровський</district_uk>
-        </location>
-        <total_floors>9</total_floors>
-        <floor>7</floor>
-        <area_total>39</area_total>
-        <area_living>20</area_living>
-        <area_kitchen>8</area_kitchen>
-        <room_count>1</room_count>
-        <price type="per_object" currency="USD">16000</price>
-        <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/63d18bc399b70ee1e5932575315c9a2a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/307639aa6f93a0a0ba3f5ec7a75fc874.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/57aff90c7ab21aff092fb87b09359038.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/96bf1c582742855f97e9fe204b1d15f8.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/989b0ce124d712ad67556e20eebaded7.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/b1fb0a2627dbd8227a51c81ae45b6dd5.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/4e5ecd0a81533f044f0be746fc5943cb.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/35affaefa555684dd4e9d2e3120c1bae.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ccd7a8ed0b5b9b073d3f23e775e4d4ed.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/2be0a690fc9dff173e1e185fb1dd83d6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/0a42d760f3c068d5cd7cfed9940f0565.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/94795e4a44fa504776512c8fb803197e.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6032c6ad86958177767843b08d98d5c6.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/35c03fe1868ead4c3335364dade09376.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/12f314298f20a12792011a8d37942991.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d9591c392b5587e5fc807b1ae32b30fc.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6383b6a8dc450360e0dae5b9f3b01dde.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5a8d3083a64769579263f850774ad811.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e2d9d955eb3f791db893acd4a88b9b6a.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/98fcfcd28680e372604eaf8246ea61c5.jpg</image_url>
-        </images>
-        <properties>
-            <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">косметический ремонт</property>
-        </properties>
-        <user>
-            <email>proekt6@i.ua</email>
-            <name>Андрей</name>
-            <phones>
-                <phone>380971732450</phone>
-            </phones>
-        </user>
-        <tags>
-            <tag>7 заречный</tag>
-        </tags>
-        <created_at>2026-10-03T11:06:00+03:00</created_at>
-        <updated_at>2026-10-03T11:25:52+03:00</updated_at>
-    </item>
-    <item internal-id="157">
-        <status>active</status>
-        <is_new_building>0</is_new_building>
-        <article>154</article>
-        <title>Продаж / Квартира / вул. Коротченко, Покровський, Кривий Ріг</title>
-        <description>Кривий Ріг | Продаж 3-кімнатної квартири з автономним опаленням.&#13;
-&#13;
-5/9 поверх, вул. М. Світальського (колишня Коротченко), зупинка «Молодіжний».&#13;
-&#13;
-Пропонується до  продажу велика 3-кімнатна квартира поліпшеного планування, площею 73 м². Житлова площа 43 м², кухня  9 м².&#13;
-&#13;
-Квартира не кутова, тепла (зовнішнє утеплення), з комфортним плануванням - всі кімнати окремі, двостороння, велика кухня та коридор. Є засклена лоджія та дві місткі комори.&#13;
-&#13;
-Стан житловий, металопластикові вікна, 2 кондиціонера, санвузол в кахлі, сантехніка в гарному стані.&#13;
-&#13;
-Меблі залишаються новим власникам.&#13;
+Квартира під ремонт, частково замінена трубна розводка.&#13;
+Боргів немає.&#13;
 &#13;
 Будинок має чистий під'їзд, доглянуту прибудинкову територію та хороших сусідів.&#13;
 &#13;
 Поруч - усе необхідне для комфортного життя: магазини, зупинки громадського транспорту та інша інфраструктура.&#13;
 &#13;
-Можливий  продаж за державною програмою із використанням житлового сертифіката.&#13;
-&#13;
 Зацікавила квартира? Телефонуйте - домовимося про перегляд!&#13;
 &#13;
-ID 154</description>
+ID 142&#13;
+&#13;
+</description>
         <category value="1">Жилая недвижимость</category>
         <realty_type value="1">Квартира</realty_type>
         <deal value="1">Продажа</deal>
@@ -5704,8 +5711,8 @@ ID 154</description>
             <district value="7886">Покровский</district>
             <street value="7505">Коротченко</street>
             <street_type value="street">улица</street_type>
-            <map_lat>47.9728273</map_lat>
-            <map_lng>33.4478865</map_lng>
+            <map_lat>47.9721533</map_lat>
+            <map_lng>33.4447476</map_lng>
             <landmark>173 квартал</landmark>
             <region_uk value="1658">Дніпропетровська область</region_uk>
             <county_uk value="1753" visible="1">Криворізька міськрада</county_uk>
@@ -5716,31 +5723,24 @@ ID 154</description>
             <street_type_uk value="street">вулиця</street_type_uk>
         </location>
         <total_floors>9</total_floors>
-        <floor>5</floor>
-        <area_total>73</area_total>
-        <area_living>43</area_living>
-        <area_kitchen>6</area_kitchen>
-        <room_count>3</room_count>
-        <price type="per_object" currency="USD">24500</price>
+        <floor>2</floor>
+        <area_total>46</area_total>
+        <area_living>27</area_living>
+        <area_kitchen>7</area_kitchen>
+        <room_count>2</room_count>
+        <price type="per_object" currency="USD">15500</price>
         <images>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/f9561a2471ef0ce38492d00ede46d3f7.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/56d002c568113f6f5142efba8bcfba39.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/1e34317623671c793b52494a1a1a7b8c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/ace638c74664fac8b0e9482465e34384.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/10e533578cc73cb01a2326600a3d145e.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8ac28c084abd41cc44041419776da5eb.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/5fa27cb2070e4342c785a9c6d6507b6c.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/e1ade5198d13dc5e741e25464b3763c8.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/50958673767ffe0c70acc1be0d5ab905.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/6dbea5aeeb6aca588c3e13b49916bcbd.jpg</image_url>
-            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/865588dd37c2d47fbca8d7ed96ba7633.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/d4a5a4ed284f4afd055918858ad6df09.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/e09b60ef474869f3e011e31c5de59f3e.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/53e2fa3a288350bc33d0f9ac2f5a2245.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/8b6ccdd7a99b1cd828226dcf1433d19c.jpg</image_url>
+            <image_url>https://recrm21.s3.eu-west-1.amazonaws.com/2026/09/ccbbe3f0828085029f73898601626a36.jpg</image_url>
+            <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/9447310024ae1d71092d41169eefe0b1.jpg</image_url>
         </images>
         <properties>
             <property attribute="property_2" label="Газ">Есть</property>
-            <property attribute="property_18" label="Ремонт">частичный ремонт</property>
-            <property attribute="property_44" label="тип дополнительный">в рекламе</property>
-            <property attribute="property_52" label="Отопление">индивидуальное</property>
-            <property attribute="property_59" label="ексклюзив">Да</property>
+            <property attribute="property_18" label="Ремонт">без ремонта</property>
+            <property attribute="property_52" label="Отопление">централизованное</property>
         </properties>
         <user>
             <email>proekt6@i.ua</email>
@@ -5750,9 +5750,9 @@ ID 154</description>
             </phones>
         </user>
         <tags>
-            <tag>эксклюзив</tag>
+            <tag>173 квартал</tag>
         </tags>
-        <created_at>2026-10-15T19:22:17+03:00</created_at>
-        <updated_at>2026-11-02T09:53:07+02:00</updated_at>
+        <created_at>2026-09-22T13:06:01+03:00</created_at>
+        <updated_at>2026-10-02T11:24:00+03:00</updated_at>
     </item>
 </response>
