@@ -5718,7 +5718,7 @@ ID 155&#13;
         <area_living>30</area_living>
         <area_kitchen>9</area_kitchen>
         <room_count>2</room_count>
-        <price type="per_object" currency="USD">16000</price>
+        <price type="per_object" currency="USD">15500</price>
         <images>
             <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/335c8e2d07e09b58aeb9088ea8081457.jpg</image_url>
             <image_url>https://crm-08498194.s3.eu-west-1.amazonaws.com/makler-kr/estate-images/8c2223e3309cbf33893d2cfc96d5ffd3.jpg</image_url>
@@ -5764,6 +5764,6 @@ ID 155&#13;
             <tag>солнечный</tag>
         </tags>
         <created_at>2026-10-31T19:02:24+02:00</created_at>
-        <updated_at>2026-11-05T14:41:41+02:00</updated_at>
+        <updated_at>2026-11-14T10:40:19+02:00</updated_at>
     </item>
 </response>
